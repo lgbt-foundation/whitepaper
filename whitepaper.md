@@ -1,8 +1,21 @@
 # LGBT Token
 
-## Disclaimer
+## DISCLAIMER
 
 This is an early version of the white paper where we aim to highlight a twofold problem: 1. the global “pink economy” of the LGBT community being neither properly utilized nor clearly defined and 2. nonprofit and charity funds not making it directly into the hands of the most marginalized and oppressed within the LGBT community, then work with the community to create real-world solutions. While this paper highlights key areas and technologies that we feel will provide a crucial foundation for those solutions, this is first and foremost an invitation of participation.
+
+### Legal Disclaimer
+
+` MISSING - WILL BE PROVIDED BY LEGAL `
+
+## EXECUTIVE SUMMARY
+
+` MISSING - WILL BE DELIVERED BY PR AGENCY `
+
+## TABLE OF CONTENTS
+
+` MISSING - WILL BE ADDED LAST `
+
 
 ## INTRODUCTION
 
@@ -21,12 +34,12 @@ But the hard work is far from over. There are still many countries in which open
 
 ### Understanding The Challenges
 
-While there are many complex factors that contribute to discrimination against the LGBT community, one initial but solvable challenge for the community is that both the size of the global community and the power of the worldwide pink economy are neither clearly defined nor understood. It is difficult it can be to quantify exactly the LGBT population, especially since those studies that do exist rely on respondents self-identifying as LGBT or voluntarily reporting their sexual orientation and behavior. Clearly, respondents’ willingness to do this can vary considerably by country, region and age group. It has also been observed that in anti-LGBT environments, members of the LGBT community may frequently be held back from full economic participation (i.e. joining in the labor force or gaining job promotions), which restrains their spending power.
+While there are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like whether or not to allow transgender students to use the bathroom of the sex of their choice. But where we see an issue that can be tackled and solved with a potential solution, we feel it’s our obligation to try. Thus, one such initial challenge we aim to solve is that both the size of the global community and the power of the worldwide pink economy are neither clearly defined nor understood. It is difficult it can be to quantify exactly the LGBT population, especially since those studies that do exist rely on respondents self-identifying as LGBT or voluntarily reporting their sexual orientation and behavior. Clearly, respondents’ willingness to do this can vary considerably by country, region and age group. It has also been observed that in anti-LGBT environments, members of the LGBT community may frequently be held back from full economic participation (i.e. joining in the labor force or gaining job promotions), which restrains their spending power. 
+
 Furthermore, the power of the pink economy has traditionally been clustered around the consumer interests of affluent, white gay men. The full spectrum of sexual orientations and and gender identities with the LGBT community has not, to date, been represented or recognized by corporations on anywhere near the same scale as that group. There is a pressing need for all in the LGBT community to be properly represented, and for their full economic participation to be realized.
 As such, the untapped potential of the pink economy is not as forcefully utilized as it could be, if further developed, to help advance equal rights where it can and safeguard the community where it can’t.
 
-> _"It is now time for the LGBT community to take full control over their destiny by leveraging their economic might, unleashed by technology innovation, to double down on their rightful pursuit for equal rights and full acceptance."_
-> - Christof Wittig, Founder and CEO of Hornet
+> _"It is now time for the LGBT community to take full control over their destiny by leveraging their economic might, unleashed by technology innovation, to double down on their rightful pursuit for equal rights and full acceptance."_ <br/> - Christof Wittig, Founder and CEO of Hornet
 
 
 ### Estimating The Size Of The LGBT Community
@@ -40,13 +53,13 @@ Public polls and studies carried out by statistics agencies in advanced economie
 
 ### Understanding The Power Of The Pink Economy
 
-The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita, the LGBT community could be said to represent between $2 trillion and $4.2 trillion. Again, if we viewed the LGBT community, at the upper range, this would place the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it would be the world’s 4th-largest economy.<sup>int-3</sup>
+The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita<sup>int-6</sup>, the LGBT community could be said to represent between $2 trillion and $4.2 trillion. At the upper range, this places the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it would be the world’s 4th-largest economy.<sup>int-3</sup>
 
 `INFOGRAPHIC SHOWING THE ECONOMIC POWER OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
 The disposable income and earning power of the LGBT community continues to grow—at least part of the community. University of Washington’s Marieka Klawitter’s 2014 study determined that lesbians earn a premium of 9% more than heterosexual women. A recent study by Vanderbilt economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts.
 
-Only slowly are businesses realizing their loss if not acknowledging this spending power and properly addressing the needs and concerns of the community. More and more industries are just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
+Only slowly are businesses realizing their loss if not acknowledging this spending power and properly addressing the needs and concerns of the community. More and more industries are just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed. 
 
 > **It is therefore our mission to utilize blockchain technology with our LGBT Token in order to illustrate the power of the pink economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals through our LGBT Impact initiative.**
 
@@ -70,7 +83,8 @@ LGBT apps and services, like Hornet and its peers, today already constitute an $
 
 As explained before, only a few companies in a few countries have fully understood that catering to the LGBT consumer is of huge economic benefit. Most of those efforts have been clumsy and are difficult to deploy for smaller suppliers of goods and services, especially if they operate in less liberal countries. Only recently they have started to develop products that cater to the specific needs and concerns of the LGBT community, such as in financial services, hospitality and healthcare. Yet it is safe to assume that there is still a majority of airline executives, for instance, who would not be able to name the percentage of their business stemming from the LGBT community though those same executives could easily break down their customer base by age, provenance, or income.
 
-By participating in the pink economy outright, however, these brands can, in an easy and meaningful manner, directly reach the LGBT community to treat LGBT consumers with the right level of attention they welcome and deserve. The LGBT Foundation will use the publicly available blockchain data to visualize the growth and usage of the LGBT Token to educate businesses and countries to accelerate their interaction with and economic inclusion of the LGBT community.
+By participating in the pink economy outright, however, these brands can, in an easy and meaningful manner, directly reach the LGBT community to treat LGBT consumers with the right level of attention they welcome and deserve. The LGBT Foundation will use the publicly available blockchain data to visualize the growth and usage of the LGBT Token to educate businesses and countries to accelerate their interaction with and economic inclusion of the LGBT community. Once established, LGBT Token will then use its own internal data to help establish marketing and demographic patterns to even further define and understand the pink economy.
+
 
 #### Establish A Global Currency
 
@@ -91,7 +105,7 @@ LGBT Token | As Ethereum or lower using off-chain solutions | LGBT Impact
 
 #### Make Token Usage Practical
 
-Blockchain technologies have been around for a long time, yet most cryptocurrencies serve more as speculative assets than practical solutions to change people's lives. We strongly believe that a cryptocurrency is only valid if it is usable. We also believe that HODL-ing is preventing many cryptocurrencies from achieving wider use and acceptance. This is a temporary problem, but one that is still very much the reality at the time of writing of this paper.
+Blockchain technologies have been around for a long time, yet most cryptocurrencies serve more as speculative assets than practical solutions to change people's lives. We strongly believe that a cryptocurrency is only valid if it is usable. Too often cryptocurrencies are held back from achieving wider use and acceptance because, the very people holding those currencies are not spending them. This is a temporary problem, but one that is still very much the reality at the time of writing of this paper.
 
 To create a healthy velocity of adoption, we plan to streamline the process by moving existing rewards models from the launch partners to LGBT Token. This seamlessly integrated approach will create a user-friendly experience and significantly lower the barrier of entry that currently keeps other cryptocurrencies from being used in a practical and tangible way. By making sure that users have a predictable and reliable source on how to get new tokens they are more likely to spend the tokens.
 
@@ -162,7 +176,9 @@ Hornet has been a leading innovator in the gay community since 2011 and is the p
 
 Hornet is the number one gay app in a dozen countries, such as France, Brazil, Taiwan, and Russia, and rapidly growing in many other markets including the United States. Hornet’s network boasts 25 million users, with over 4 million of them monthly active, generating over $10 million USD in revenue this year.
 
-Hornet identifies as much an advocate as a technology leader and is always looking for ways to use technology to empower and protect the members of the community. The engagements range far: support for underprivileged communities like Casa Um, a shelter for LGBT youth in Sao Paulo<sup>launch-1</sup>, or the Voguing community giving identity especially to people of color in Paris<sup>launch-2</sup>; health protection with the KYS feature, an industry first<sup>launch-3</sup>,  or the work in the global inclusion index of the United Nations; educational videos about the effects of machismo on Latinos<sup>launch-4</sup> or research with the Johns Hopkins School of Public Health’s efforts to better estimate the size of the LGBT community; trips, local outreach, and international press to highlight situations in countries like Chechnya, Indonesia, or Egypt; support for the gay Gotham Knights Rugby Football Club in New York City or the successful first bid by Hong Kong for an Asian city to host the Gay Games in 2022, and many more.
+Hornet identifies as much an advocate as a technology leader and is always looking for ways to use technology to empower and protect the members of the community. The engagements range far: support for underprivileged communities like Casa Um, a shelter for LGBT youth in Sao Paulo<sup>launch-1</sup>, or the Voguing community giving identity especially to people of color in Paris<sup>launch-2</sup>; health protection with the KYS feature, an industry first<sup>launch-3</sup>; educational videos about the effects of machismo on Latinos<sup>launch-4</sup> or research with the Johns Hopkins School of Public Health’s efforts to better estimate the size of the LGBT community; trips, local outreach, and international press to highlight situations in countries like Chechnya, Indonesia, or Egypt; support for the gay Gotham Knights Rugby Football Club in New York City or the successful first bid by Hong Kong for an Asian city to host the Gay Games in 2022, and many more.
+
+As a result, Hornet is the only private company to be invited as Founding Member of the United Nations Global HIV Prevention Coalition<sup>launch-5</sup>, side by side with 30 nations and NGOs like the Bill and Melinda Gates Foundation.
 
 With this background, Hornet found the recent innovations in fintech to be a perfect boost for the benefit of the whole community. It funded the initiation of the LGBT Token project with substantial budgets and rallied partners and advisors to secure its successful launch and adoption.
 
@@ -191,7 +207,7 @@ Hornet also sells advertising space in the app and on their website to premium a
 
 Hornet pledges to implement a digital wallet based on the LGBT Token as soon as the platform is ready to launch, instantly catapulting millions of users into the crypto community and empowering them to play their hand in a safe yet meaningful way, economically.  Specifically the wallet will allow users to view their balance, based on blockchain and sidechain entries, review transactions, link to earning and spending opportunities for LGBT Token, and allow to transfer LGBT Token for a small fee between its members.
 
-Furthermore, Hornet pledges to migrate its existing Reward program for community contributions from current “Perks” to LGBT Token – see Appendix 3 for more detail .
+Furthermore, Hornet pledges to migrate its existing Reward program for community contributions from current “Perks” to LGBT Token.
 
 
 ` GRAPHIC: USAGE BY ADDITIONAL LAUNCH PARTNERS TO BE ANNOUNCED SHORTLY `
@@ -205,13 +221,23 @@ A fixed number of tokens will be distributed to the public in exchange for Ether
 
 ### Reserve
 
+A significant portion of the tokens will stay in reserve to be allocated or offerd at a later stage, depending of the market situation and adoption rate. The Reserve will be governed by the advisory board and will remain locked for at least 12 month.
+
 ### Community Rewards
 
-### Integration Partners / Legal / Marketingo
+To kickstart the ecosystem of the launch partners and future Foundation members, an amount of 50,000,000 tokens will remain in the Foundation and will be granted to the users of the participating partners. This will allow each each app or community to immediately utilize the tokens and to move existing reward programs seamlessly to the LGBT Token.
+
+### Integration Partners / Legal / Marketing
+
+` PARAGRAPH MISSING - LET'S SEE IF WE REALLY NEED THAT MUCH `
 
 ### Advisors
 
+5% of the overall Tokens are reserved for current and future Advisors of the LGBT Foundation. The tokens will be in lock-up and are bound to milestones..
+
 ### Team
+
+The Team Tokens are used in two capacities. They are a reward for the hard work of many people that made this paper happen, but they are also meant as an incentive for future employees of the Foundation. All Team Tokens will be locked for at least 12 month and are vested over time while being bound to milestones and goals.
 
 ### Token Economics
 
@@ -219,6 +245,9 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 
 > **REQUEST FOR COMMENTS: We understand the importance of the token economics for the crypto community. One of the challenges of this proposal is to strike a healthy balance between the needs of the crypto community and the LGBT community.**
 
+### Proceeds Distribution
+
+` PARAGRAPH MISSING `
 
 
 
@@ -235,6 +264,34 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 The full list of advisors will be released shortly. We want to make sure that the board represents all aspects of the LGBT community as well as the crypto community and are therefore very careful to strike the right balance. We already have a number of high profile members of the LGBT community as advisors but will refrain from releasing the names until we strike the right balance. And announcement will be published on our website and this white paper will updated accordingly. `REVIEW`
 
 
+## TECHNICAL INFRASTRUCTURE
+
+The LGBT Tokens will be compliant with ERC20 standard and will be based on the Ethereum Blockchain.  We understand that a fully described technical white paper is required to answer a lot of the detailed questions regarding the different solutions. This white paper focuses on the issues that the Foundation wants to solve, a paper on how to solve them will be released separately.
+
+
+### Hybrid Off-Chain/On-Chain Architecture
+
+Although the Ethereum blockchain technology is powerful due to its support for readily- deployable smart contracts, one of its oft-cited drawbacks is that it is slow and expensive to confirm a transaction. While there are a number of proposals on the roadmap to address the issue, it is presently not clear how the issue will be resolved in the near future. We are aware that the time taken to confirm a transaction on the blockchain is increasingly crucial as we move toward mass adoption, and are constantly surveying alternative solutions.
+
+As part of our ongoing research and development efforts, we are also evaluating a hybrid architecture (off-chain/on-chain solution) to support fast transaction execution required by an increasing volume of transactions, while preserving a sufficient degree of decentralization.
+
+
+### Ethereum Settlement Layer
+
+Users wishing to transfer LGBT Token into and out of the applications will be able to do so by interacting with the public Ethereum network, which will serve as the currency’s decentralized settlement layer. Users interacting with the LGBT Token inside Hornet will have a more managed experience. This will allow the early version of the system to solve for blockchain scalability bottlenecks, feeless transactions, faster transaction times, and encapsulation of complex features like private keys. Over time, the LGBT Token will grow with the development of blockchain technology to accommodate these features in a fully decentralized setting.
+
+It is the intention of the Foundation to list the LGBT Token on public exchanges shortly after the initial token share and will announce its progress accordingly.
+
+
+## TIMELINE
+
+` PARAGRAPH MISSING `
+
+
+## CONCLUSTION AND AN OPEN LETTER FOR PARTICIPATION
+
+
+
 
 
 ## Footnotes
@@ -242,11 +299,14 @@ The full list of advisors will be released shortly. We want to make sure that th
   * int-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. For simplicity we refer to it as LGBT but explicitly want to be as inclusive as possible.
   * int-2: http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx
   * int-3: http://statisticstimes.com/economy/countries-by-projected-gdp.php
+  * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
+  * int-6: https://esa.un.org/unpd/wpp/
   * token-1: missing source
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
   * launch-3: https://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
   * launch-4: https://hornetapp.com/stories/pepe-mexican-youtuber-machismo
+  * launch-5:  http://www.unaids.org/sites/default/files/media_asset/towards-global-HIV-prevention-coalition-and-road-map_en.pdf
 
 
 
