@@ -64,14 +64,22 @@ Only slowly are businesses realizing their loss if not acknowledging this spendi
 > **It is therefore our mission to utilize blockchain technology with our LGBT Token in order to illustrate the power of the pink economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals through our LGBT Impact initiative.**
 
 
-### The Blockchain Innovation
+### The Blockchain Innovation / How Can Blockchain Help
 
 `PARAGRAPH MISSING`
+
+`WHY BLOCKCHAIN FOR THIS?`
 
 
 ## THE LGBT TOKEN
 
-`PARAGRAPH MISSING`
+LGBT Token is cryptocurrency that aims, as its initial goal, to unleash the community’s economic might by tokenizing the pink economy with blockchain technology and thus bridge the gap between the industries that already profit from the LGBT community and the community itself, so both parties can create a more fruitful cooperation in the future. The founders and authors will establish the LGBT Foundation to issue and govern the LGBT Token, based on Ethereum and the ERC20 Standard<sup>token-2</sup>. 
+
+> **We will establish the LGBT Foundation to issue and govern the LGBT Token, based on Ethereum and the ERC20 Standard.**
+
+The second goal of LGBT Token is to establish the LGBT Impact arm, which will allocate a portion of the LGBT Token currency each year to supporting and creating charitable causes and foundations within the LGBT community that advance the rights of and help safeguard the community.
+
+To achieve this, LGBT Token will serve three key purposes:
 
 ### 1. Economic Transactions Creating Economic Power
 
@@ -124,6 +132,8 @@ One of the core ideas behind blockchain is to eliminate centralized storage of s
 #### Community Recognized Yet Individually Protected
 
 Could our mission be accomplished with an existing technology or currency?  No.  We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
+
+> **The idea is to have a digital identity that is unique and stored decentralized and will be used by the launch partners in a respectful way to honor and protect your physical identity.**
 
 It cannot be guaranteed that any outside state or corporation, or a foundation with a different mission, would be as good a steward of the privacy of the members of the LGBT community as that community itself. By allowing for unique identification within the LGBT community, yet keeping that information out of reach for governments or corporations, the trust required for the community to adopt LGBT Token is strengthened. This community recognized yet individually protected identification is unique to LGBT Token and key to its rapid mass adoption.
 
@@ -180,7 +190,7 @@ Hornet identifies as much an advocate as a technology leader and is always looki
 
 As a result, Hornet is the only private company to be invited as Founding Member of the United Nations Global HIV Prevention Coalition<sup>launch-5</sup>, side by side with 30 nations and NGOs like the Bill and Melinda Gates Foundation.
 
-With this background, Hornet found the recent innovations in fintech to be a perfect boost for the benefit of the whole community. It funded the initiation of the LGBT Token project with substantial budgets and rallied partners and advisors to secure its successful launch and adoption.
+With this background, Hornet found the recent innovations in blockchain to be a perfect boost for the benefit of the whole community. It funded the initiation of the LGBT Token project with substantial budgets and rallied partners and advisors to secure its successful launch and adoption.
 
 
 ` GRAPHIC: MORE LAUNCH PARTNERS TO BE ANNOUNCED SHORTLY `
@@ -285,11 +295,65 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
 
 ## TIMELINE
 
-` PARAGRAPH MISSING `
-
-
 ## CONCLUSTION AND AN OPEN LETTER FOR PARTICIPATION
 
+# APPENDICES
+
+## Appendix - The Foundation
+
+The LGBT Foundation is a not-for-profit organization with a mission to deliver genuine equality and advance the aims of the LGBT community across the world. By harnessing the power and potential of blockchain technology and other technological innovations, the Foundation aims to foster greater acceptance of the LGBT community, drive positive social change for the benefit of its members, and protect vulnerable community members. Its goal is to foster and realize the potential of the pink economy, and provide a safe and secure environment to access cryptocurrencies and other products and services, enabling members to verify and protect their identities as required.
+
+Is is therefore envisioned as an ecosystem and technical infrastructure for all partners that accept and adopt LGBT Token. The Foundation is intended as an independent and democratic governance body for its members. 
+
+### Mandate
+
+The primary mandate is to grow the number of entities and services that adopt and implement the LGBT Token and provide the necessary infrastructure to run the digital economy. It is explicitly encouraged to spin off for-profit organizations if required to accelerate the acceptance rate of the LGBT Token.
+
+
+### Safe, Secure, Compliant
+
+Safety, security and compliance stand at the core of the Foundation and its ambition – for the good of our community, our investors and the reputation of our Foundation. We provide a safe space for our members to interact with the outside world while being true to their identities.
+
+From a compliance perspective, we are working closely with regulators across the world to ensure that we take the appropriate steps to be legally compliant at all times.
+
+
+### Governance Goals
+
+The Foundation will dedicate resources to establish a fair and transparent governance process that will take into account the voices and needs of all participants within the ecosystem. This open governance model will oversee decisions related to the membership process, the token economy, participation rules, legal matters, and content and compliance guidelines. 
+
+
+### Research & Development Goals
+
+Resources will foster an environment of innovation by working with partners to test new ways to participate in the ecosystem and drive value creation and network effects. The Foundation will also fund the development of tools that give LGBT Token partners the ability to build, grow, and create value for one another. 
+
+
+### Educational Goals
+
+Identifying the size and power of the Pink Economy is one of the core aspects of the technology that the Foundation will establish. Anonymized data that protects the members as described above, but still allows the Foundation to report on the growth and flow of the Tokens to to educate business, organizations and countries about the size and positive impact the LGBT community has on their local economies. 
+
+
+### Supportive Goals For The LGBT Community
+
+It is the declared goal of this paper to develop an implicit, transparent and simple mechanism for the Foundation to participate in the overall economy using the LGBT Token. As soon as a viable model is established, the Foundation will use its influx of tokens to support local non-profit organizations, as well as outstanding individuals, influencers and advocates of the LGBT community.
+
+Supporting the LGBT community clearly is an external task for the outside world as much as from within the community itself. As described in “Inequality and the status of the LGBT community”, the authors of this paper recognize the problems facing the community and want to establish a model to ensure that inequality is reduced inside the community as well as outside.
+
+
+### Voting Mechanism
+
+The advisory board of the Foundation will regularly submit existing projects and entities that deserve LGBT Impact support by introducing them on the Foundation website. Each token holder will then be able to cast votes equal to the number of tokens they hold for the projects they most strongly support being funded.
+
+The Foundation will work on a voting mechanism to allow token holders to make their voice heard on which project should be supported. The details of this Voting Mechanism will be announced in due time
+
+LGBT Impact funds will then be distributed according to the voting results and adjusted when necessary. For example, if a project receives more tokens in the form of votes than is required to fund it, the excess would be redistributed among the other projects being voted on. In this way, the Foundation can ensure that all projects will receive at least some funding while giving priority to the projects the LGBT Token community cares about most passionately.
+
+
+
+## Appendix - Sample Use Case 1
+
+## Appendix - Sample Use Case 2
+
+## Appendix - Sample Use Case 3
 
 
 
@@ -302,6 +366,7 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
   * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
   * int-6: https://esa.un.org/unpd/wpp/
   * token-1: missing source
+  * token-2: https://en.wikipedia.org/wiki/ERC20
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
   * launch-3: https://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
