@@ -136,6 +136,29 @@ It cannot be guaranteed that any outside state or corporation, or a foundation w
 
 ## LAUNCH PARTNERS/TESTIMONIALS
 
+Hornet is the initiator and a founding member of the LGBT Foundation. We are currently talking and working with other high profile applications from the LGBT community and will announce more launch partners shortly. Furthermore, we are building a roster of opinion leaders in the LGBT and cryptocurrency communities to advised the founders on this project and endorse its mission and the proposed implementation.
+
+> **The Foundation invites everyone to contribute to the project**
+
+The Foundation invites everyone to contribute to the project and specifically invites and financially supports launch partners who can help jumpstart the adoption of the Token and the resulting economy. Such partners may be mobile apps, online services or traditional offline, brick-and-mortar businesses like stores or event locations, large brands or individual providers.  Everyone is invited as long as they subscribe to the mission of equal rights and acceptance for the LGBT community and the proposed self-governance.
+
+### Hornet - Gay Social Network
+
+> _“At Hornet, we pursue the mission to give the gay community a digital home.  We strive to foster meaningful connections between its members, to foster collaboration for the greater good, and to give advertisers a brand-safe access to the huge purchasing power of the community”_ - Christof Wittig,Founder and CEO Hornet
+
+Hornet has been a leading innovator in the gay community since 2011 and is the proud original sponsor of this proposal. It was born to create more meaningful ways to connect members of local gay communities, and has since evolved to a social lifestyle app, connecting people, listing events and locations, participating as a media outlet, giving advertisers access to the community, and actively supporting both local communities and global events.
+
+Hornet is the number one gay app in a dozen countries, such as France, Brazil, Taiwan, and Russia, and rapidly growing in many other markets including the United States. Hornet’s network boasts 25 million users, with over 4 million of them monthly active, generating over $10 million USD in revenue this year.
+
+Hornet identifies as much an advocate as a technology leader and is always looking for ways to use technology to empower and protect the members of the community. The engagements range far: support for underprivileged communities like Casa Um, a shelter for LGBT youth in Sao Paulo<sup>launch-1</sup>, or the Voguing community giving identity especially to people of color in Paris<sup>launch-2</sup>; health protection with the KYS feature, an industry first<sup>launch-3</sup>,  or the work in the global inclusion index of the United Nations; educational videos about the effects of machismo on Latinos<sup>launch-4</sup> or research with the Johns Hopkins School of Public Health’s efforts to better estimate the size of the LGBT community; trips, local outreach, and international press to highlight situations in countries like Chechnya, Indonesia, or Egypt; support for the gay Gotham Knights Rugby Football Club in New York City or the successful first bid by Hong Kong for an Asian city to host the Gay Games in 2022, and many more.
+
+With this background, Hornet found the recent innovations in fintech to be a perfect boost for the benefit of the whole community. It funded the initiation of the LGBT Token project with substantial budgets and rallied partners and advisors to secure its successful launch and adoption.
+
+
+` GRAPHIC: MORE LAUNCH PARTNERS TO BE ANNOUCNES SHORTLY `
+
+
+
 ## SETUP
 
 ### Sponsorship By Hornet
@@ -163,6 +186,11 @@ The full list of advisors will be released shortly. We want to make sure that th
   * int-2: http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx
   * int-3: http://statisticstimes.com/economy/countries-by-projected-gdp.php
   * token-1: missing source
+  * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
+  * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
+  * launch-3: http://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
+  * launch-4: https://hornetapp.com/stories/pepe-mexican-youtuber-machismo
+
 
 
   **`
@@ -181,4 +209,4 @@ The full list of advisors will be released shortly. We want to make sure that th
   * All images need to list the source and may have a caption
   * The team pages (team, advisor, partner) should be in a grid format, please grab images from linkedin. We should include linkedin and twitter links where applicable
   * Footnotes are to be on the page where they have been referenced and are to be numbered only. We use per-paragraph named footnotes like _int-1_ for convenience. At the end, the footnots should be numerical only.
-  
+  * Please add an element to the footer of the layout that links to the exact version of the whitepaper on github, ideally as Version number and hash. We will use tags accordingly: e.g. Version 0.5 (834a4fe) with `834a4fe` being a link to github (https://github.com/lgbt-foundation/whitepaper/commit/834a4fecfbe4369f478134ae15f1a540cfa274b2)
