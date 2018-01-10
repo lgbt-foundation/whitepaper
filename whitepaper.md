@@ -115,7 +115,11 @@ It cannot be guaranteed that any outside state or corporation, or a foundation w
 
 #### Inequality And The Status Of The Global LGBT Community
 
+` GRAPHIC AS IN THE GOOGLE DOC `
+
 As outlined in the introduction, there have been a number of positive developments for the LGBT community in recent years. Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and trouble finding resources and help. Transgender members of the community face the highest amounts of discrimination, and recent studies have shown black transgender and gender non-conforming people face the most severe degree of discrimination and bigotry of all, certainly in the U.S. and arguably elsewhere.
+
+> **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
 
 In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
 
@@ -163,7 +167,7 @@ Hornet identifies as much an advocate as a technology leader and is always looki
 With this background, Hornet found the recent innovations in fintech to be a perfect boost for the benefit of the whole community. It funded the initiation of the LGBT Token project with substantial budgets and rallied partners and advisors to secure its successful launch and adoption.
 
 
-` GRAPHIC: MORE LAUNCH PARTNERS TO BE ANNOUCNES SHORTLY `
+` GRAPHIC: MORE LAUNCH PARTNERS TO BE ANNOUNCED SHORTLY `
 
 
 
@@ -171,7 +175,52 @@ With this background, Hornet found the recent innovations in fintech to be a per
 
 ### Sponsorship By Hornet
 
+The initial idea of this paper and the work to build the team, invite the advisors and eventually launch the ICO is done by Hornet Networks Ltd, a company based in Hong Kong. All associated costs for this paper and the required infrastructure has been covered by Hornet and its shareholders. Hornet will lead the implementation especially in the early months of the Foundation and will serve as a catalyst for a widespread acceptance. It is, however, the declared goal of Hornet and its shareholders to give the power of currency to the community. Hornet is well aware that a project for the good of the LGBT community can only be initiated by Hornet, a gay social network, but cannot be governed by it, as soon as it reaches maturity. For that, Hornet has registered the LGBT Token Foundation and is committed to move the governance of the Token to the Foundation.
+
 ### The LGBT Foundation
+
+The LGBT Token will be issued by the LGBT Foundation, an organization to initiate, develop and foster the ecosystem of the token. The Foundation will administer the supply and ensure a healthy economic model for the users and partners. It will also provide the necessary infrastructure to operate a fully decentralized and autonomous network.
+
+### Usage Of The LGBT Token By The Launch Partners
+
+#### Hornet
+
+Hornet helps its users to foster meaningful social connections.  It offers premium features and functions, such as “Who Checked You Out” for users subscribing to a premium membership, which is either purchased through an app store like Apple iTunes or Google Play, Hornet’s website, or by redeeming rewards (see below).
+
+Hornet also sells advertising space in the app and on their website to premium advertisers through a direct salesforce, headquartered in New York City, or through advertising networks and exchanges all around the globe. Directly and indirectly, many major brands like Verizon, GlaxoSmithKline, Iberia, Hilton, Uber, Apple are using Hornet’s massive audience reach on a social mobile channel to attract the pink dollar.
+
+Hornet pledges to implement a digital wallet based on the LGBT Token as soon as the platform is ready to launch, instantly catapulting millions of users into the crypto community and empowering them to play their hand in a safe yet meaningful way, economically.  Specifically the wallet will allow users to view their balance, based on blockchain and sidechain entries, review transactions, link to earning and spending opportunities for LGBT Token, and allow to transfer LGBT Token for a small fee between its members.
+
+Furthermore, Hornet pledges to migrate its existing Reward program for community contributions from current “Perks” to LGBT Token – see Appendix 3 for more detail .
+
+
+` GRAPHIC: USAGE BY ADDITIONAL LAUNCH PARTNERS TO BE ANNOUNCED SHORTLY `
+
+## LGBT TOKEN ISSUANCE AND TOKEN SALE
+
+A fixed number of tokens will be distributed to the public in exchange for Ether contribution. Additional details about the token sale will be announced on the website and the official channels of the Foundation. The Foundation will issue a total of 1,000,000,000 tokens of which 300,000,000 will be offered during the initial token sale. Additional Tokens will be distributed as follows.
+
+` PIE CHART OF TOKEN DISTRIBUTION `
+
+
+### Reserve
+
+### Community Rewards
+
+### Integration Partners / Legal / Marketingo
+
+### Advisors
+
+### Team
+
+### Token Economics
+
+It is the declared goal of the Foundation to find a viable model to grant funds regularly to the LGBT Impact program. For this, the token economics need to reflect a way to move funds to the Foundation. This can be done in several ways, an inflation model, a fee structure or similar. The exact details, as well as additional information about the usage of the token, will be released in a separate Yellow Paper, once we incorporated all the comments and feedback from both communityies - crypto and LGBT.
+
+> **REQUEST FOR COMMENTS: We understand the importance of the token economics for the crypto community. One of the challenges of this proposal is to strike a healthy balance between the needs of the crypto community and the LGBT community.**
+
+
+
 
 ### Team / Advisors
 
