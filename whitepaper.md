@@ -113,25 +113,33 @@ Could our mission be accomplished with an existing technology or currency?  No. 
 
 It cannot be guaranteed that any outside state or corporation, or a foundation with a different mission, would be as good a steward of the privacy of the members of the LGBT community as that community itself. By allowing for unique identification within the LGBT community, yet keeping that information out of reach for governments or corporations, the trust required for the community to adopt LGBT Token is strengthened. This community recognized yet individually protected identification is unique to LGBT Token and key to its rapid mass adoption.
 
+#### Inequality And The Status Of The Global LGBT Community
 
+As outlined in the introduction, there have been a number of positive developments for the LGBT community in recent years. Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and trouble finding resources and help. Transgender members of the community face the highest amounts of discrimination, and recent studies have shown black transgender and gender non-conforming people face the most severe degree of discrimination and bigotry of all, certainly in the U.S. and arguably elsewhere.
 
+In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
 
+  * 20% of respondents were unemployed, twice the rate of black people in the U.S. population and four times that of the U.S. population overall
+  * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall
+  * 38% were living in poverty, compared to 24% of black people in the U.S. population
+  * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents
+  * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population
 
+The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 71 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities. In eight of those countries, the death penalty is the official legal punishment for being gay: Iran, Iraq, Nigeria, Saudi Arabia, Somalia, Sudan, Syria and Yemen.
 
+` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
 
+In major geographic regions of the world, there is still rampant legal discrimination against and violence toward those in the LGBT community, most notably the Middle East, Africa, and parts of Asia and Eurasia. Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another 44 members have remained stubbornly neutral and silent on the issue of LGBT rights. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, the recent developments in both Russia and Nigeria).
 
+#### How LGBT Impact Grants Can Help
 
+A recent wave of detention and torture of gay men in Chechnya beginning in February 2017 has been so outrageous that it has attracted the attention of and action by activists and financial supporters. As a market leader for gay apps in Russia, Hornet has been at the forefront of this effort, providing extensive coverage and education about the situation. But it also provided on the ground and behind-the-scenes work to evacuate up to 70 Chechen men to safety.
 
+Not all such acts of oppression draw such a level of attention, however, but remain in the shadows. A response today mainly consists of media coverage, possible and likely partisan social media outrage, and hopefully grassroot initiatives supported by individual donations or occasionally larger grants. In the future, we envision that any such incidents of oppression of rights of LGBTs should be identifiable (who are these victims, how many are there and how can we reach them without endangering them?), and we should be able to allocate and quickly transfer funds in order to make an immediate and meaningful difference on the ground. It is nice to put a sad face on articles reporting such prosecution on social media; awareness is key. We believe, however, that it is even better to also transfer within hours $20,000 in travel funds to the exact victims, allowing them to organize transportation and security to reach safer pastures before they get injured or worse.
 
+> **LGBT Token would make sure that emergency funding is available immediately. This will literally save lives.**
 
-
-
-
-
-
-### 2. Identity Recognition And Protection
-
-### 3. Giving Back With LGBT Impact
+LGBT Token would make sure that such emergency funding is available immediately, that further funds can be mobilized quickly, that these funds can be transferred across borders without hassle or undue cost, and that they reach exactly the right targets, without risk of abusing the fluid LGBT identity for double dipping or unscrutinized embezzlement of such funds. Now imagine if that entire process, from an initial call for help right up to purchasing plane tickets or travel fare to evacuate, could be achieved using LGBT Token; one’s sexual and gender identity and purchases would be protected and private throughout. It will, quite literally, save lives, but it’s just one of the examples by which we could illustrate the numerous ways in which LGBT Impact can make a tangible difference in the lives of LGBT community members, no matter where they are.
 
 
 ## LAUNCH PARTNERS/TESTIMONIALS
