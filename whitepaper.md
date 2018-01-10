@@ -188,7 +188,7 @@ The full list of advisors will be released shortly. We want to make sure that th
   * token-1: missing source
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
-  * launch-3: http://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
+  * launch-3: https://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
   * launch-4: https://hornetapp.com/stories/pepe-mexican-youtuber-machismo
 
 
