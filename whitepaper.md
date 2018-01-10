@@ -94,6 +94,12 @@ The full list of advisors will be released shortly. We want to make sure that th
   * int-2: http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx
   * int-3: http://statisticstimes.com/economy/countries-by-projected-gdp.php
 
+  **`
+  END OF PAPER
+  `**
+
+-----
+
 
 ## Notes on the layout
 
