@@ -70,11 +70,11 @@ Public polls and studies carried out by statistics agencies in advanced economie
 
 ### Understanding The Power Of The Pink Economy
 
-> Assuming that the above statements are applicable worldwide, and around 3% to 7% of the world population would be members of the LGBT community, multiplied by the world average GDP per capita of $12,430, would result in a value of between 2 and 4.2 trillion USD.
+> Assuming that the above 3-7% applies worldwide, multiplied by the world average GDP per capita of $12,430, that would result in an LGBT community GDP equivalent of between 2 and 4.6 trillion USD.<br>
 The LGBT Token could prove fundamental in revealing the true scale of the LGBT population and in helping it achieve the equality and recognition it deserves.<br>
-- Peter Jordan, `byline missing`
+- Peter Jordan<sup>int-7</sup>, LGBT Consumer Trends Analyst
 
-The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita<sup>int-6</sup>, the LGBT community could account for up to $4.2 trillion. At the upper range, this places the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it would be the world’s 4th-largest economy.<sup>int-3</sup>
+The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita<sup>int-6</sup>, the LGBT community could account for up to $4.6 trillion. At the upper range, this places the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it would be the world’s 4th-largest economy.<sup>int-3</sup>
 
 
 `INFOGRAPHIC SHOWING THE ECONOMIC POWER OF THE community IN COMPARISON TO OTHER COUNTRIES`
@@ -383,6 +383,7 @@ The advisory board of the Foundation will regularly submit grant proposals that 
   * int-3: http://statisticstimes.com/economy/countries-by-projected-gdp.php
   * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
   * int-6: https://esa.un.org/unpd/wpp/
+  * int-7: https://genctraveller.com/
   * token-1: missing source
   * token-2: https://en.wikipedia.org/wiki/ERC20
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
