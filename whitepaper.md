@@ -145,6 +145,7 @@ By participating in the pink economy outright, however, these companies can, in 
 
 Today, the pink economy is most visible in endemic businesses such as gay bars, LGBT cruises, or dedicated fashion stores, and digital businesses are confined to a handful of LGBT apps and services such as Grindr, Hornet, or Her. A global LGBT-centric currency would help to empower and connect LGBT businesses around the world, establish an economic identity and shared infrastructure, provide protection and support in countries that still suppress LGBT rights and enable the pink economy to not only grow faster, but also give back to the community and support LGBT rights globally.
 
+
 > **A global LGBT-centric currency would help to empower and connect LGBT businesses around the world**
 
 This is especially important for a community that crosses borders in a literal and metaphorical sense. Instead of relying on existing payment methods, by establishing the LGBT Token as a global currency, the LGBT Foundation can define how fees and increased circulation can be used to help the LGBT community.
@@ -171,6 +172,7 @@ What’s more, a portion of tokens will be set aside to be used by current and f
 
 Hornet has trusted and longstanding relationships with numerous gay event locations in several major cities. Our launch partners and advisors each bring incredible networks to the Foundation that will help establish the LGBT Token as a regular form of payment. Thus, the LGBT Token will be usable in a real, daily life sort of way. We believe that this is key to the success of the LGBT Token and will help cryptocurrencies in general by providing more real world examples of how it might be used.
 
+As a viable and feasible currency we intent the LGBT Token to be able to handle micro as well as large-scale transaction in an easy, comfortable and efficient way.
 
 ### 2. Identity Recognition And Protection
 
