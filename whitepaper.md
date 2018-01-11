@@ -70,7 +70,12 @@ Public polls and studies carried out by statistics agencies in advanced economie
 
 ### Understanding The Power Of The Pink Economy
 
+> Assuming that the above statements are applicable worldwide, and around 3% to 7% of the world population would be members of the LGBT community, multiplied by the world average GDP per capita of $12,430, would result in a value of between 2 and 4.2 trillion USD.
+The LGBT Token could prove fundamental in revealing the true scale of the LGBT population and in helping it achieve the equality and recognition it deserves.<br>
+- Peter Jordan, `byline missing`
+
 The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita<sup>int-6</sup>, the LGBT community could account for up to $4.2 trillion. At the upper range, this places the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it would be the world’s 4th-largest economy.<sup>int-3</sup>
+
 
 `INFOGRAPHIC SHOWING THE ECONOMIC POWER OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
