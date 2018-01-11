@@ -118,7 +118,7 @@ We believe that with LGBT token, and the extension of its charity arm, LGBT Impa
 
 ## THE LGBT TOKEN
 
-LGBT Token is cryptocurrency with the primary goal to tokenizing the pink economy with blockchain technology and thus bridge the gap between the industries that already profit from the LGBT community and the community itself, so both parties can improve their ooperation. The LGBT Token is proposed to be issued by non-for-profit foundation (“Foundation”), as an ERC-20 compliant token running on the public Ethereum platform<sup>token-2</sup>.
+LGBT Token is cryptocurrency with the primary goal to tokenizing the pink economy with blockchain technology and thus bridge the gap between the industries that already profit from the LGBT community and the community itself, so both parties can improve their operation. The LGBT Token is proposed to be issued by non-for-profit foundation (“Foundation”), as an ERC-20 compliant token running on the public Ethereum platform<sup>token-2</sup>.
 
 > **We will establish the LGBT Foundation to issue and govern the LGBT Token, based on Ethereum and the ERC20 Standard.**
 
@@ -126,7 +126,7 @@ The second goal of LGBT Token is to establish the **LGBT Impact** program, which
 
 To achieve this, LGBT Token will have three layers of utility for its users and the LGBT community:
 
-` INSERT GRAPHIC TO HIGHTLIGHT THE THREE ASPECTS / PILARS `
+` INSERT GRAPHIC TO HIGHLIGHT THE THREE ASPECTS / PILLARS `
 
 ### 1. Economic Transactions Creating Economic Power
 
@@ -328,7 +328,7 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
 
 ## TIMELINE
 
-## CONCLUSTION AND AN OPEN LETTER FOR PARTICIPATION
+## CONCLUSION AND AN OPEN LETTER FOR PARTICIPATION
 
 # APPENDICES
 
@@ -336,7 +336,7 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
 
 The LGBT Foundation is a not-for-profit organization with a mission to support genuine equality and advance the aims of the LGBT community across the world. By harnessing the power and potential of blockchain technology and other technological innovations, the Foundation aims to foster greater acceptance of the LGBT community, drive positive social change for the benefit of its members, and protect vulnerable community members. Its goal is to foster and realize the potential of the pink economy, and provide a safe and secure environment to access cryptocurrencies and other products and services, enabling members to verify and protect their identities as required.
 
-Is is therefore envisioned as an ecosystem and technical infrastructure for all partners that accept and adopt LGBT Token. The Foundation is intended as an independent and democratic governance body for its members. 
+Is is therefore envisioned as an ecosystem and technical infrastructure for all partners that accept and adopt LGBT Token. The Foundation is intended as an independent and democratic governance body for its members.
 
 ### Mandate
 
