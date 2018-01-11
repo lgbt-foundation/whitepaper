@@ -21,7 +21,7 @@ Recipients are notified as follows:
 
 This whitepaper has not been reviewed by any regulatory authority in any jurisdiction.
 
-eferences in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than Hornet Networks Limited (“Hornet”), the use of any company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.  The Foundation is a wholly owned subsidiary of Hornet, but operated distinctly.
+References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than Hornet Networks Limited (“Hornet”), the use of any company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.  The Foundation is a wholly owned subsidiary of Hornet, but operated distinctly.
 
 All references to ‘dollars’ or ‘$’ are references to United States dollars unless otherwise stated.
 
