@@ -53,8 +53,7 @@ This hard work is far from over. There are still many countries in which openly 
 
 While there are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like whether or not to allow transgender students to use the bathroom of the sex of their choice. But where we see an issue that can be tackled and solved with a potential solution, we feel it’s our obligation to try. Thus, one such initial challenge we aim to solve is that both the size of the global community and the power of the worldwide pink economy are neither clearly defined nor understood. It is difficult it can be to quantify exactly the LGBT population, especially since those studies that do exist rely on respondents self-identifying as LGBT or voluntarily reporting their sexual orientation and behavior. Clearly, respondents’ willingness to do this can vary considerably by country, region and age group. It has also been observed that in anti-LGBT environments, members of the LGBT community may frequently be held back from full economic participation (i.e. joining in the labor force or gaining job promotions), which restrains their spending power. 
 
-Furthermore, the power of the pink economy has traditionally been clustered around the consumer interests of affluent, white gay men. The full spectrum of sexual orientations and and gender identities with the LGBT community has not, to date, been represented or recognized by corporations on anywhere near the same scale as that group. There is a pressing need for all in the LGBT community to be properly represented, and for their full economic participation to be realized.
-As such, the untapped potential of the pink economy is not as forcefully utilized as it could be, if further developed, to help advance equal rights where it can and safeguard the community where it can’t.
+Furthermore, the power of the pink economy has traditionally been clustered around the consumer interests of affluent, white gay men. The full spectrum of sexual orientations and and gender identities with the LGBT community has not, to date, been represented or recognized by corporations on anywhere near the same scale as that group. There is a pressing need for all in the LGBT community to be properly represented, and for their full economic participation to be realized. As such, the untapped potential of the pink economy is not as forcefully utilized as it could be, if further developed, to help advance equal rights where it can and safeguard the community where it can’t.
 
 > _"It is now time for the LGBT community to take full control over their destiny by leveraging their economic might, unleashed by technology innovation, to double down on their rightful pursuit for equal rights and full acceptance."_ <br/> - Christof Wittig, Founder and CEO of Hornet
 
@@ -84,6 +83,30 @@ The disposable income and earning power of the LGBT community continues to grow�
 Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed. 
 
 > **It is therefore our mission to utilize blockchain technology with our LGBT Token in order to illustrate the power of the pink economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals through our LGBT Impact initiative.**
+
+#### Inequality And The Status Of The Global LGBT Community
+
+` GRAPHIC AS IN THE GOOGLE DOC `
+
+As outlined earlier in the introduction, there have been a number of positive developments for the LGBT community in recent years. Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and trouble finding resources and help. Transgender members of the community face the highest amounts of discrimination, and recent studies have shown black transgender and gender non-conforming people face the most severe degree of discrimination and bigotry of all, certainly in the U.S. and arguably elsewhere.
+
+> **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
+
+In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
+
+  * 20% of respondents were unemployed, twice the rate of black people in the U.S. population and four times that of the U.S. population overall
+  * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall
+  * 38% were living in poverty, compared to 24% of black people in the U.S. population
+  * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents
+  * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population
+
+The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 71 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities. In eight of those countries, the death penalty is the official legal punishment for being gay: Iran, Iraq, Nigeria, Saudi Arabia, Somalia, Sudan, Syria and Yemen.
+
+` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
+
+In major geographic regions of the world, there is still rampant legal discrimination against and violence toward those in the LGBT community, most notably the Middle East, Africa, and parts of Asia and Eurasia. Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another 44 members have remained stubbornly neutral and silent on the issue of LGBT rights. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, the recent developments in both Russia and Nigeria).
+
+We believe that with LGBT token, and the extension of its charity arm, LGBT Impact, we can effetively begin to address these issues.
 
 
 ### The Blockchain Innovation / How Can Blockchain Help
@@ -161,27 +184,6 @@ Could our mission be accomplished with an existing technology or currency?  No. 
 
 It cannot be guaranteed that any outside state or corporation, or a foundation with a different mission, would be as good a steward of the privacy of the members of the LGBT community as that community itself. By allowing for unique identification within the LGBT community, yet keeping that information out of reach for governments or corporations, the trust required for the community to adopt LGBT Token is strengthened. This community recognized yet individually protected identification is unique to LGBT Token and key to its rapid mass adoption.
 
-#### Inequality And The Status Of The Global LGBT Community
-
-` GRAPHIC AS IN THE GOOGLE DOC `
-
-As outlined in the introduction, there have been a number of positive developments for the LGBT community in recent years. Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and trouble finding resources and help. Transgender members of the community face the highest amounts of discrimination, and recent studies have shown black transgender and gender non-conforming people face the most severe degree of discrimination and bigotry of all, certainly in the U.S. and arguably elsewhere.
-
-> **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
-
-In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
-
-  * 20% of respondents were unemployed, twice the rate of black people in the U.S. population and four times that of the U.S. population overall
-  * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall
-  * 38% were living in poverty, compared to 24% of black people in the U.S. population
-  * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents
-  * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population
-
-The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 71 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities. In eight of those countries, the death penalty is the official legal punishment for being gay: Iran, Iraq, Nigeria, Saudi Arabia, Somalia, Sudan, Syria and Yemen.
-
-` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
-
-In major geographic regions of the world, there is still rampant legal discrimination against and violence toward those in the LGBT community, most notably the Middle East, Africa, and parts of Asia and Eurasia. Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another 44 members have remained stubbornly neutral and silent on the issue of LGBT rights. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, the recent developments in both Russia and Nigeria).
 
 #### Impact Through Funding of Progress
 
