@@ -380,7 +380,7 @@ The advisory board of the Foundation will regularly submit grant proposals that 
 
 ## Footnotes
 
-  * int-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. For simplicity we refer to it as LGBT but explicitly want to be as inclusive as possible.
+  * int-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
   * int-2: http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx
   * int-3: http://statisticstimes.com/economy/countries-by-projected-gdp.php
   * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
