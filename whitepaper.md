@@ -80,19 +80,21 @@ The size of the LGBT community translates directly to major global economic impa
 
 The disposable income and earning power of the LGBT community continues to grow—at least part of the community. University of Washington’s Marieka Klawitter’s 2014 study determined that lesbians earn a premium of 9% more than heterosexual women. A recent study by Vanderbilt economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts.
 
-Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed. 
+Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
 
 > **It is therefore our mission to utilize blockchain technology with our LGBT Token in order to illustrate the power of the pink economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals through our LGBT Impact initiative.**
 
-#### Inequality And The Status Of The Global LGBT Community
 
-` GRAPHIC AS IN THE GOOGLE DOC `
+#### Inequality And The Status Of The Global LGBT Community
 
 As outlined earlier in the introduction, there have been a number of positive developments for the LGBT community in recent years. Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and trouble finding resources and help. Transgender members of the community face the highest amounts of discrimination, and recent studies have shown black transgender and gender non-conforming people face the most severe degree of discrimination and bigotry of all, certainly in the U.S. and arguably elsewhere.
 
 > **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
 
-In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
+` Chechnyan PICTURE `
+> Fig: Chechnyan police has been engaged in systematic entrapment of gay men in 2017. The community, supported by Hornet, the market leader for gay apps in Russia, has been shedding light on this deprivation of rights and harm inflicted on LGBTs, and has helped to evacuate up to 70 men into safety, possibly saving their lives<sup>inequ-1</sup> (Photo by Valya Egorshin/NurPhoto via Getty Images).
+
+In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS)<sup>inequ-2</sup>, which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
 
   * 20% of respondents were unemployed, twice the rate of black people in the U.S. population and four times that of the U.S. population overall
   * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall
@@ -389,6 +391,8 @@ The advisory board of the Foundation will regularly submit grant proposals that 
   * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
   * int-6: https://esa.un.org/unpd/wpp/
   * int-7: https://genctraveller.com/
+  * inequ-1: https://hornetapp.com/stories/hornet-chechnya/
+  * inequ-2: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
   * token-1: missing source
   * token-2: https://en.wikipedia.org/wiki/ERC20
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
