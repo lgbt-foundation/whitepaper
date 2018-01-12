@@ -6,11 +6,11 @@ This is an early version of the white paper where we aim to highlight a twofold 
 
 ### Legal Disclaimer
 
-This *LGBT Token: Using Blockchain Technology to Support Equal Rights and Acceptance* is a confidential overview of the LGBT Token project and token sale. It may be amended or replaced at any time.  There is no obligation to update the whitepaper or to provide the recipient with notification of any changes or access to any additional information.
+This *LGBT Token: Using Blockchain Technology to Support Equal Rights and Acceptance* is a confidential overview of the LGBT Token project and token sale. It may be amended or replaced at any time. There is no obligation to update the whitepaper or to provide the recipient with notification of any changes or access to any additional information.
 
 Recipients are notified as follows:
 
-  * **Eligible purchasers:** the information in this whitepaper is for prospective purchasers and is not intended to be received or read by anyone else.  Eligibility is not guaranteed and is likely to be subject to restrictions.
+  * **Eligible purchasers:** the information in this whitepaper is for prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
   * **Confidentiality:** this whitepaper is confidential. By receiving it, the recipient agrees to keep its contents confidential.
   * **No offer of regulated products or services:** the LGBT Token (as described in this whitepaper) is not intended to constitute a security or any other regulated product or service in any jurisdiction. This whitepaper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction. Any offer or agreement in relation to any sale and purchase of LGBT Tokens is to be governed solely by a separate document setting out the terms and conditions (“Ts&Cs”) of such agreement. In the event of any inconsistencies between the Ts&Cs and this whitepaper, the former prevails.
   * **No advice:** this whitepaper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
@@ -21,7 +21,7 @@ Recipients are notified as follows:
 
 This whitepaper has not been reviewed by any regulatory authority in any jurisdiction.
 
-References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than Hornet Networks Limited (“Hornet”), the use of any company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.  The Foundation is a wholly owned subsidiary of Hornet, but operated distinctly.
+References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than Hornet Networks Limited (“Hornet”), the use of any company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties. The Foundation is a wholly owned subsidiary of Hornet, but operated distinctly.
 
 All references to ‘dollars’ or ‘$’ are references to United States dollars unless otherwise stated.
 
@@ -36,7 +36,7 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 ## INTRODUCTION
 
-In recent years, the LGBT<sup>int-1</sup> community has reached an inflection point with an increased number of society segments and governments becoming more accepting of and providing equal rights to LGBTs.  The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress.  Another is that an increasing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that corporate social responsibility is fundamental to the operation of their business, and that it is an important matter to their customers.
+In recent years, the LGBT<sup>int-1</sup> community has reached an inflection point with an increased number of society segments and governments becoming more accepting of and providing equal rights to LGBTs. The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress. Another is that an increasing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that corporate social responsibility is fundamental to the operation of their business, and that it is an important matter to their customers.
 
 Progress for the LGBT community has become visible through landmark events, such as:
 
@@ -80,7 +80,7 @@ The size of the LGBT community translates directly to major global economic impa
 
 The disposable income and earning power of the LGBT community continues to grow—at least part of the community. University of Washington’s Marieka Klawitter’s 2014 study determined that lesbians earn a premium of 9% more than heterosexual women. A recent study by Vanderbilt economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts.
 
-Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
+Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake. Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
 
 > **It is therefore our mission to utilize blockchain technology with our LGBT Token in order to illustrate the power of the pink economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals through our LGBT Impact initiative.**
 
@@ -132,7 +132,7 @@ To achieve this, LGBT Token will have three layers of utility for its users and 
 
 ### 1. Economic Transactions Creating Economic Power
 
-LGBT apps and services, like Hornet and its peers, today already constitute an $100M economy trading in virtual goods and services.<sup>token-1</sup> These activities can be transformed from fiat to cryptocurrencies.  By being able to access LGBT buyers and sellers of goods and services, any business trading with the LGBT community can join this economic realm, whether it is a local promoter selling tickets to an event, or large brands incentivizing community members to test their products and services.  With adoption of the LGBT Token, today’s $100M market can quickly grow as an identifiable and bespoke economy that doesn’t know borders but respects each individual member’s right to both their sexual identity and privacy in three major ways.
+LGBT apps and services, like Hornet and its peers, today already constitute an $100M economy trading in virtual goods and services.<sup>token-1</sup> These activities can be transformed from fiat to cryptocurrencies. By being able to access LGBT buyers and sellers of goods and services, any business trading with the LGBT community can join this economic realm, whether it is a local promoter selling tickets to an event, or large brands incentivizing community members to test their products and services. With adoption of the LGBT Token, today’s $100M market can quickly grow as an identifiable and bespoke economy that doesn’t know borders but respects each individual member’s right to both their sexual identity and privacy in three major ways.
 
 > **LGBT apps and services today already constitute an $100M economy trading in virtual goods and services.**
 
@@ -180,7 +180,7 @@ One of the core ideas behind blockchain is to eliminate centralized storage of s
 
 #### Community Recognized Yet Individually Protected
 
-Could our mission be accomplished with an existing technology or currency?  No.  We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
+Could our mission be accomplished with an existing technology or currency? No. We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
 
 > **The idea is to have a digital identity that is unique and stored decentralized and will be used by the launch partners in a respectful way to honor and protect your physical identity.**
 
@@ -206,11 +206,11 @@ Hornet is the initiator and a founding member of the LGBT Foundation. We are in 
 
 > **The Foundation invites everyone to contribute to the project**
 
-The Foundation invites everyone to contribute to the project and specifically invites and financially supports launch partners who can help jumpstart the adoption of the Token and the resulting economy. Such partners may be mobile apps, online services or traditional offline, brick-and-mortar businesses like stores or event locations, large brands or individual providers.  Everyone is invited as long as they subscribe to the mission of equal rights and acceptance for the LGBT community and the proposed self-governance.
+The Foundation invites everyone to contribute to the project and specifically invites and financially supports launch partners who can help jumpstart the adoption of the Token and the resulting economy. Such partners may be mobile apps, online services or traditional offline, brick-and-mortar businesses like stores or event locations, large brands or individual providers. Everyone is invited as long as they subscribe to the mission of equal rights and acceptance for the LGBT community and the proposed self-governance.
 
 ### Hornet - Gay Social Network
 
-> _“At Hornet, we pursue the mission to give the gay community a digital home.  We strive to foster meaningful connections between its members, to foster collaboration for the greater good, and to give advertisers a brand-safe access to the huge purchasing power of the community”_ - Christof Wittig,Founder and CEO Hornet
+> _“At Hornet, we pursue the mission to give the gay community a digital home. We strive to foster meaningful connections between its members, to foster collaboration for the greater good, and to give advertisers a brand-safe access to the huge purchasing power of the community”_ - Christof Wittig,Founder and CEO Hornet
 
 Hornet has been a leading innovator in the gay community since 2011 and is the proud original sponsor of this proposal. It was born to create more meaningful ways to connect members of local gay communities, and has since evolved to a social lifestyle app, connecting people, listing events and locations, participating as a media outlet, giving advertisers access to the community, and actively supporting both local communities and global events.
 
@@ -242,11 +242,11 @@ The LGBT Token will be issued by the LGBT Foundation, an organization to initiat
 
 #### Hornet
 
-Hornet helps its users to foster meaningful social connections.  It offers premium features and functions, such as “Who Checked You Out” for users subscribing to a premium membership, which is either purchased through an app store like Apple iTunes or Google Play, Hornet’s website, or by redeeming rewards (see below).
+Hornet helps its users to foster meaningful social connections. It offers premium features and functions, such as “Who Checked You Out” for users subscribing to a premium membership, which is either purchased through an app store like Apple iTunes or Google Play, Hornet’s website, or by redeeming rewards (see below).
 
 Hornet also sells advertising space in the app and on their website to premium advertisers through a direct salesforce, headquartered in New York City, or through advertising networks and exchanges all around the globe. Directly and indirectly, many major brands like Verizon, GlaxoSmithKline, Iberia, Hilton, Uber, Apple are using Hornet’s massive audience reach on a social mobile channel to attract the pink dollar.
 
-Hornet pledges to implement a digital wallet based on the LGBT Token as soon as the platform is ready to launch, instantly catapulting millions of users into the crypto community and empowering them to play their hand in a safe yet meaningful way, economically.  Specifically the wallet will allow users to view their balance, based on blockchain and sidechain entries, review transactions, link to earning and spending opportunities for LGBT Token, and allow to transfer LGBT Token for a small fee between its members.
+Hornet pledges to implement a digital wallet based on the LGBT Token as soon as the platform is ready to launch, instantly catapulting millions of users into the crypto community and empowering them to play their hand in a safe yet meaningful way, economically. Specifically the wallet will allow users to view their balance, based on blockchain and sidechain entries, review transactions, link to earning and spending opportunities for LGBT Token, and allow to transfer LGBT Token for a small fee between its members.
 
 Furthermore, Hornet pledges to migrate its existing Reward program for community contributions from current “Perks” to LGBT Token.
 
@@ -297,7 +297,7 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
   ` LAYOUT REMARK: please find a nice way to show the team, this is just the raw data `
 
   * Christof Wittig, CEO of Hornet, https://www.linkedin.com/in/christof/, https://twitter.com/christofw<br>
-  Christof Wittig is a serial software entrepreneur and investor.  He is Founder and CEO at Hornet Networks, the world’s second largest gay social network.  He previously founded and ran Servo Software, db4objects, and Apsis Software.  He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
+  Christof Wittig is a serial software entrepreneur and investor. He is Founder and CEO at Hornet Networks, the world’s second largest gay social network. He previously founded and ran Servo Software, db4objects, and Apsis Software. He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
   * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb<br>
   A pioneering business and development leader with a proven track record of launching, scaling, and managing industry-defining technology companies on an international scale. A versatile technologist who excels at identifying niche opportunities in the global marketplace and marrying product and technology with community engagement to drive transformative business growth.
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/, `BIO MISSING`
@@ -314,7 +314,7 @@ The full list of advisors will be released shortly, several of which are high pr
 
 ## TECHNICAL INFRASTRUCTURE
 
-The LGBT Tokens will be compliant with ERC20 standard and will be based on the Ethereum Blockchain.  We understand that a fully described technical whitepaper is required to answer many of the detailed questions regarding the varying solutions. This whitepaper focuses on the issues that the Foundation want to solve. A paper on how to solve them will be released separately.
+The LGBT Tokens will be compliant with ERC20 standard and will be based on the Ethereum Blockchain. We understand that a fully described technical whitepaper is required to answer many of the detailed questions regarding the varying solutions. This whitepaper focuses on the issues that the Foundation want to solve. A paper on how to solve them will be released separately.
 
 
 ### Hybrid Off-Chain/On-Chain Architecture
@@ -399,7 +399,7 @@ The advisory board of the Foundation will regularly submit grant proposals that 
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
   * launch-3: https://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
   * launch-4: https://hornetapp.com/stories/pepe-mexican-youtuber-machismo
-  * launch-5:  http://www.unaids.org/sites/default/files/media_asset/towards-global-HIV-prevention-coalition-and-road-map_en.pdf
+  * launch-5: http://www.unaids.org/sites/default/files/media_asset/towards-global-HIV-prevention-coalition-and-road-map_en.pdf
 
 
 
