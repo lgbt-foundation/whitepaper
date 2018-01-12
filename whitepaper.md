@@ -176,7 +176,7 @@ Hornet has trusted and longstanding relationships with numerous gay event locati
 
 One of the core ideas behind blockchain is to eliminate centralized storage of sensitive data and give the control of this data back to the user. Identity protection has been a major issue for the LGBT community for many years. Establishing a decentralized and secure way of giving every member of the community full control, without the risk of being controlled or abused by governments or corporations, is central to this proposal. LGBT Token will allow each member to not only define what is stored on the blockchain, but also to have full control of that information and who is allowed to access it. This is vital as, without being able to identify as part of the LGBT community while still keeping individual identities protected, LGBT members may not feel secure enough to act as a member of that community.
 
-#### Community Recognized Yet Individually Protected
+### 3. Community Recognized Yet Individually Protected
 
 Could our mission be accomplished with an existing technology or currency?  No.  We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
 
