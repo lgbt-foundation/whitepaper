@@ -27,7 +27,7 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 ## EXECUTIVE SUMMARY
 
-` MISSING - WILL BE DELIVERED BY PR AGENCY `
+` MISSING - WILL BE ADDED LATER `
 
 ## TABLE OF CONTENTS
 
@@ -200,7 +200,7 @@ LGBT Token would make sure that such emergency tokens are available immediately,
 
 ## LAUNCH PARTNERS/TESTIMONIALS
 
-Hornet is the initiator and a founding member of the LGBT Foundation. We are in the perocess of selecting other launch partners from the LGBT community, who are interested to implement the LGBT Token into their business. Furthermore, we are building a roster of opinion leaders in the LGBT and cryptocurrency communities to advise the founders on this project and endorse its mission and the proposed implementation.
+Hornet is the initiator and a founding member of the LGBT Foundation. We are in the process of selecting other launch partners from the LGBT community, who are interested to implement the LGBT Token into their business. Furthermore, we are building a roster of opinion leaders in the LGBT and cryptocurrency communities to advise the founders on this project and endorse its mission and the proposed implementation.
 
 > **The Foundation invites everyone to contribute to the project**
 
@@ -268,7 +268,7 @@ To kickstart the ecosystem of the launch partners and future Foundation members,
 
 ### Integration Partners / Legal / Marketing
 
-` PARAGRAPH MISSING - LET'S SEE IF WE REALLY NEED THAT MUCH `
+` PARAGRAPH MISSING - STILL WORKING NUMBERS HERE `
 
 ### Advisors
 
