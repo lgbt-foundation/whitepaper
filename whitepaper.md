@@ -292,8 +292,11 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 
 ### Team / Advisors
 
-  * Christof Wittig, CEO of Hornet, https://www.linkedin.com/in/christof/
-  * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb
+  ` LAYOUT REMARK: please find a nice way to show the team, this is just the raw data `
+
+  * Christof Wittig, CEO of Hornet, https://www.linkedin.com/in/christof/, https://twitter.com/christofw<br>
+  Christof Wittig is a serial software entrepreneur and investor.  He is Founder and CEO at Hornet Networks, the world’s second largest gay social network.  He previously founded and ran Servo Software, db4objects, and Apsis Software.  He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
+  * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb<br>
   A pioneering business and development leader with a proven track record of launching, scaling, and managing industry-defining technology companies on an international scale. A versatile technologist who excels at identifying niche opportunities in the global marketplace and marrying product and technology with community engagement to drive transformative business growth.
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/, `BIO MISSING`
   * NN, Technical Lead
