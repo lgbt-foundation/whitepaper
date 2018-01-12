@@ -176,7 +176,7 @@ Hornet has trusted and longstanding relationships with numerous gay event locati
 
 One of the core ideas behind blockchain is to eliminate centralized storage of sensitive data and give the control of this data back to the user. Identity protection has been a major issue for the LGBT community for many years. Establishing a decentralized and secure way of giving every member of the community full control, without the risk of being controlled or abused by governments or corporations, is central to this proposal. LGBT Token will allow each member to not only define what is stored on the blockchain, but also to have full control of that information and who is allowed to access it. This is vital as, without being able to identify as part of the LGBT community while still keeping individual identities protected, LGBT members may not feel secure enough to act as a member of that community.
 
-### 3. Community Recognized Yet Individually Protected
+#### Community Recognized Yet Individually Protected
 
 Could our mission be accomplished with an existing technology or currency?  No.  We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
 
@@ -185,7 +185,7 @@ Could our mission be accomplished with an existing technology or currency?  No. 
 It cannot be guaranteed that any outside state or corporation, or a foundation with a different mission, would be as good a steward of the privacy of the members of the LGBT community as that community itself. By allowing for unique identification within the LGBT community, yet keeping that information out of reach for governments or corporations, the trust required for the community to adopt LGBT Token is strengthened. This community recognized yet individually protected identification is unique to LGBT Token and key to its rapid mass adoption.
 
 
-#### Impact Through Funding of Progress
+### 3. Impact Through Funding of Progress
 
 > **LGBT Impact is the inherent and powerful funding mechanism for causes of imporance for the LGBT Community in their quest to achieve equal rights and acceptance.**
 
