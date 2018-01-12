@@ -27,7 +27,7 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 ## EXECUTIVE SUMMARY
 
-` MISSING - WILL BE DELIVERED BY PR AGENCY `
+` MISSING - WILL BE ADDED LATER `
 
 ## TABLE OF CONTENTS
 
@@ -62,7 +62,7 @@ Furthermore, the power of the pink economy has traditionally been clustered arou
 
 Public polls and studies carried out by statistics agencies in advanced economies such as the U.S. and the UK have concurred that between 3 and 6 percent of the adult population identify as LGBT. A study carried out by Gallup<sup>int-2</sup> in the U.S. in 2017 found an average of 4.1% of U.S. adults (10 million in total) identified as LGBT, with over 7% of millennial-aged respondents identifying as LGBT. When applied on a global scale to the world’s adult population (16 years+) of 5.3 billion, the 3-7 percentage range gives an LGBT population estimate of between 160 million and 373 million adults globally. Putting that into perspective, if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India.
 
-> **if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India.**
+> **if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India, and as big as the US.**
 
 `INFOGRAPHIC SHOWING THE SIZE OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
@@ -80,19 +80,21 @@ The size of the LGBT community translates directly to major global economic impa
 
 The disposable income and earning power of the LGBT community continues to grow—at least part of the community. University of Washington’s Marieka Klawitter’s 2014 study determined that lesbians earn a premium of 9% more than heterosexual women. A recent study by Vanderbilt economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts.
 
-Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed. 
+Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
 
 > **It is therefore our mission to utilize blockchain technology with our LGBT Token in order to illustrate the power of the pink economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals through our LGBT Impact initiative.**
 
-#### Inequality And The Status Of The Global LGBT Community
 
-` GRAPHIC AS IN THE GOOGLE DOC `
+#### Inequality And The Status Of The Global LGBT Community
 
 As outlined earlier in the introduction, there have been a number of positive developments for the LGBT community in recent years. Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and trouble finding resources and help. Transgender members of the community face the highest amounts of discrimination, and recent studies have shown black transgender and gender non-conforming people face the most severe degree of discrimination and bigotry of all, certainly in the U.S. and arguably elsewhere.
 
 > **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
 
-In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
+` Chechnyan PICTURE `
+> Fig: Chechnyan police has been engaged in systematic entrapment of gay men in 2017. The community, supported by Hornet, the market leader for gay apps in Russia, has been shedding light on this deprivation of rights and harm inflicted on LGBTs, and has helped to evacuate up to 70 men into safety, possibly saving their lives<sup>inequ-1</sup> (Photo by Valya Egorshin/NurPhoto via Getty Images).
+
+In a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS)<sup>inequ-2</sup>, which aggregated data from 27,715 respondents nationwide, 796 black or African-American transgender or gender non-identifying respondents clarified the stark reality facing them. Among the findings for this group, the report found that:
 
   * 20% of respondents were unemployed, twice the rate of black people in the U.S. population and four times that of the U.S. population overall
   * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall
@@ -118,15 +120,15 @@ We believe that with LGBT token, and the extension of its charity arm, LGBT Impa
 
 ## THE LGBT TOKEN
 
-LGBT Token is cryptocurrency with the primary goal to tokenizing the pink economy with blockchain technology and thus bridge the gap between the industries that already profit from the LGBT community and the community itself, so both parties can improve their ooperation. The LGBT Token is proposed to be issued by non-for-profit foundation (“Foundation”), as an ERC-20 compliant token running on the public Ethereum platform<sup>token-2</sup>.
+LGBT Token is cryptocurrency with the primary goal to tokenizing the pink economy with blockchain technology and thus bridge the gap between the industries that already profit from the LGBT community and the community itself, so both parties can improve their operation. The LGBT Token is proposed to be issued by non-for-profit foundation (“Foundation”), as an ERC-20 compliant token running on the public Ethereum platform<sup>token-2</sup>.
 
 > **We will establish the LGBT Foundation to issue and govern the LGBT Token, based on Ethereum and the ERC20 Standard.**
 
-The second goal of LGBT Token is to establish the **LGBT Impact** program, which will allocate a portion of the LGBT Token currency each year to supporting and creating charitable causes and foundations within the LGBT community that advance the rights of and help safeguard the community.
+The second goal of LGBT Token is to establish the **LGBT Impact** program, which will allocate a portion of the LGBT Token each year to supporting and creating charitable causes and foundations within the LGBT community that advance the rights of and help safeguard the community.
 
 To achieve this, LGBT Token will have three layers of utility for its users and the LGBT community:
 
-` INSERT GRAPHIC TO HIGHTLIGHT THE THREE ASPECTS / PILARS `
+` INSERT GRAPHIC TO HIGHLIGHT THE THREE ASPECTS / PILLARS `
 
 ### 1. Economic Transactions Creating Economic Power
 
@@ -143,11 +145,11 @@ By participating in the pink economy outright, however, these companies can, in 
 
 #### Establish A Global Currency
 
-Today, the pink economy is most visible in endemic businesses such as gay bars, LGBT cruises, or dedicated fashion stores, and digital businesses are confined to a handful of LGBT apps and services such as Grindr, Hornet, or Her. A global LGBT-centric currency would help to empower and connect LGBT businesses around the world, establish an economic identity and shared infrastructure, provide protection and support in countries that still suppress LGBT rights and enable the pink economy to not only grow faster, but also give back to the community and support LGBT rights globally.
+Today, the pink economy is most visible in endemic businesses such as gay bars, LGBT cruises, or dedicated fashion stores, and digital businesses are confined to a handful of LGBT apps and services such as Grindr, Hornet, or Her. A global LGBT-centric digital asset would help to empower and connect LGBT businesses around the world, establish an economic identity and shared infrastructure, provide protection and support in countries that still suppress LGBT rights and enable the pink economy to not only grow faster, but also give back to the community and support LGBT rights globally.
 
-> **A global LGBT-centric currency would help to empower and connect LGBT businesses around the world**
+> **A global LGBT-centric digital asset would help to empower and connect LGBT businesses around the world**
 
-This is especially important for a community that crosses borders in a literal and metaphorical sense. Instead of relying on existing payment methods, by establishing the LGBT Token as a global currency, the LGBT Foundation can define how fees and increased circulation can be used to help the LGBT community.
+This is especially important for a community that crosses borders in a literal and metaphorical sense. Instead of relying on existing payment methods, by establishing the LGBT Token as a global digital asset, the LGBT Foundation can define how fees and increased circulation can be used to help the LGBT community.
 
 Payment Method | Fee Structure | Rewards
 -------------- | ------------- | -------
@@ -160,7 +162,7 @@ LGBT Token | As Ethereum or lower using off-chain solutions | LGBT Impact
 
 #### Make Token Usage Practical
 
-Blockchain technologies have been around for a long time, yet most cryptocurrencies serve more as speculative assets than practical solutions to change people's lives. We strongly believe that a cryptocurrency is only valid if it is usable. Too often cryptocurrencies are held back from achieving wider use and acceptance because, the very people holding those currencies are not spending them. This is a temporary problem, but one that is still very much the reality at the time of writing of this paper.
+Blockchain technologies have been around for a long time, yet most cryptocurrencies serve more as speculative assets than practical solutions to change people's lives. We strongly believe that a cryptocurrency is only valid if it is usable. Too often cryptocurrencies are held back from achieving wider use and acceptance because, the very people holding those digital assets are not spending them. This is a temporary problem, but one that is still very much the reality at the time of writing of this paper.
 
 To create a healthy velocity of adoption, we plan to streamline the process by moving existing rewards models from the launch partners to LGBT Token. This seamlessly integrated approach will create a user-friendly experience and significantly lower the barrier of entry that currently keeps other cryptocurrencies from being used in a practical and tangible way. By making sure that users have a predictable and reliable source on how to get new tokens they are more likely to spend the tokens.
 
@@ -185,13 +187,13 @@ Could our mission be accomplished with an existing technology or currency?  No. 
 It cannot be guaranteed that any outside state or corporation, or a foundation with a different mission, would be as good a steward of the privacy of the members of the LGBT community as that community itself. By allowing for unique identification within the LGBT community, yet keeping that information out of reach for governments or corporations, the trust required for the community to adopt LGBT Token is strengthened. This community recognized yet individually protected identification is unique to LGBT Token and key to its rapid mass adoption.
 
 
-#### Impact Through Funding of Progress
+### 3. Impact Through Funding of Progress
 
 > **LGBT Impact is the inherent and powerful funding mechanism for causes of imporance for the LGBT Community in their quest to achieve equal rights and acceptance.**
 
 As an example, a recent wave of detention and torture of gay men in Chechnya beginning in February 2017 has become so outrageous that it has attracted the attention of and action by activists and financial supporters. As a market leader for gay apps in Russia, Hornet has been at the forefront of this effort, providing extensive coverage and education about the situation. But it also provided on the ground and behind-the-scenes work to evacuate up to 70 Chechen men to safety.
 
-Not all such acts of oppression draw such a level of attention, however, but remain in the shadows. A response today mainly consists of media coverage, possible and likely partisan social media outrage, and hopefully grassroot initiatives supported by individual donations or occasionally larger grants. In the future, we envision that any such incidents of oppression of rights of LGBTs should be identifiable (who are these victims, how many are there and how can we reach them without endangering them?), and we should be able to allocate and quickly transfer currency in order to make an immediate and meaningful difference on the ground. It is nice to put a sad face on articles reporting such prosecution on social media; awareness is key. We believe, however, that it is even better to also transfer within hours $20,000 to the exact victims, allowing them to organize transportation and security to reach safer pastures before they get injured or worse.
+Not all such acts of oppression draw such a level of attention, however, but remain in the shadows. A response today mainly consists of media coverage, possible and likely partisan social media outrage, and hopefully grassroot initiatives supported by individual donations or occasionally larger grants. In the future, we envision that any such incidents of oppression of rights of LGBTs should be identifiable (who are these victims, how many are there and how can we reach them without endangering them?), and we should be able to allocate and quickly transfer valye in order to make an immediate and meaningful difference on the ground. It is nice to put a sad face on articles reporting such prosecution on social media; awareness is key. We believe, however, that it is even better to also transfer within hours $20,000 to the exact victims, allowing them to organize transportation and security to reach safer pastures before they get injured or worse.
 
 > **LGBT Token would make sure that emergency tokens is available immediately. This will literally save lives.**
 
@@ -200,7 +202,7 @@ LGBT Token would make sure that such emergency tokens are available immediately,
 
 ## LAUNCH PARTNERS/TESTIMONIALS
 
-Hornet is the initiator and a founding member of the LGBT Foundation. We are in the perocess of selecting other launch partners from the LGBT community, who are interested to implement the LGBT Token into their business. Furthermore, we are building a roster of opinion leaders in the LGBT and cryptocurrency communities to advise the founders on this project and endorse its mission and the proposed implementation.
+Hornet is the initiator and a founding member of the LGBT Foundation. We are in the process of selecting other launch partners from the LGBT community, who are interested to implement the LGBT Token into their business. Furthermore, we are building a roster of opinion leaders in the LGBT and cryptocurrency communities to advise the founders on this project and endorse its mission and the proposed implementation.
 
 > **The Foundation invites everyone to contribute to the project**
 
@@ -229,7 +231,7 @@ With this background, Hornet found the recent innovations in blockchain to be a 
 
 ### Sponsorship By Hornet
 
-The LGBT Token initiative has been started and initially been sponsored by Hornet Networks Ltd, a company based in Hong Kong. All associated costs for the creation of assets like this paper and the required infrastructure are being funded by Hornet and its shareholders. Hornet will lead the implementation especially in the early months of the Foundation and will serve as a first killer app of the proposed cryptocurrency platform. It is, however, the declared goal of Hornet to give the power of currency to the community. Hornet is well aware that a project for the good of the LGBT community can only be initiated by an LGBT technology leader like Hornet, a gay social network, but cannot be governed by it as it includes larger and larger parts of the community. To that end, Hornet has registered the LGBT Token Foundation and has placed the governance of the Token entirely into the hands of the Foundation.
+The LGBT Token initiative has been started and initially been sponsored by Hornet Networks Ltd, a company based in Hong Kong. All associated costs for the creation of assets like this paper and the required infrastructure are being funded by Hornet and its shareholders. Hornet will lead the implementation especially in the early months of the Foundation and will serve as a first killer app of the proposed cryptocurrency platform. It is, however, the declared goal of Hornet to give the power of the Token to the community. Hornet is well aware that a project for the good of the LGBT community can only be initiated by an LGBT technology leader like Hornet, a gay social network, but cannot be governed by it as it includes larger and larger parts of the community. To that end, Hornet has registered the LGBT Token Foundation and has placed the governance of the Token entirely into the hands of the Foundation.
 
 
 ### The LGBT Foundation
@@ -268,7 +270,7 @@ To kickstart the ecosystem of the launch partners and future Foundation members,
 
 ### Integration Partners / Legal / Marketing
 
-` PARAGRAPH MISSING - LET'S SEE IF WE REALLY NEED THAT MUCH `
+` PARAGRAPH MISSING - STILL WORKING NUMBERS HERE `
 
 ### Advisors
 
@@ -292,8 +294,11 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 
 ### Team / Advisors
 
-  * Christof Wittig, CEO of Hornet, https://www.linkedin.com/in/christof/
-  * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb
+  ` LAYOUT REMARK: please find a nice way to show the team, this is just the raw data `
+
+  * Christof Wittig, CEO of Hornet, https://www.linkedin.com/in/christof/, https://twitter.com/christofw<br>
+  Christof Wittig is a serial software entrepreneur and investor.  He is Founder and CEO at Hornet Networks, the world’s second largest gay social network.  He previously founded and ran Servo Software, db4objects, and Apsis Software.  He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
+  * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb<br>
   A pioneering business and development leader with a proven track record of launching, scaling, and managing industry-defining technology companies on an international scale. A versatile technologist who excels at identifying niche opportunities in the global marketplace and marrying product and technology with community engagement to drive transformative business growth.
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/, `BIO MISSING`
   * NN, Technical Lead
@@ -321,14 +326,14 @@ As part of our ongoing research and development efforts, we are also evaluating 
 
 ### Ethereum Settlement Layer
 
-Users wishing to transfer LGBT Token into and out of the applications will be able to do so by interacting with the public Ethereum network, which will serve as the currency’s decentralized settlement layer. Users interacting with the LGBT Token inside Hornet will have a more managed experience. This will allow the early version of the system to solve for blockchain scalability bottlenecks, feeless transactions, faster transaction times, and encapsulation of complex features like private keys. Over time, the LGBT Token will grow with the development of blockchain technology to accommodate these features in a fully decentralized setting.
+Users wishing to transfer LGBT Token into and out of the applications will be able to do so by interacting with the public Ethereum network, which will serve as a decentralized settlement layer. Users interacting with the LGBT Token inside Hornet will have a more managed experience. This will allow the early version of the system to solve for blockchain scalability bottlenecks, feeless transactions, faster transaction times, and encapsulation of complex features like private keys. Over time, the LGBT Token will grow with the development of blockchain technology to accommodate these features in a fully decentralized setting.
 
 It is the intention of the Foundation to list the LGBT Token on public exchanges shortly after the initial token share and will announce its progress accordingly.
 
 
 ## TIMELINE
 
-## CONCLUSTION AND AN OPEN LETTER FOR PARTICIPATION
+## CONCLUSION AND AN OPEN LETTER FOR PARTICIPATION
 
 # APPENDICES
 
@@ -336,7 +341,7 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
 
 The LGBT Foundation is a not-for-profit organization with a mission to support genuine equality and advance the aims of the LGBT community across the world. By harnessing the power and potential of blockchain technology and other technological innovations, the Foundation aims to foster greater acceptance of the LGBT community, drive positive social change for the benefit of its members, and protect vulnerable community members. Its goal is to foster and realize the potential of the pink economy, and provide a safe and secure environment to access cryptocurrencies and other products and services, enabling members to verify and protect their identities as required.
 
-Is is therefore envisioned as an ecosystem and technical infrastructure for all partners that accept and adopt LGBT Token. The Foundation is intended as an independent and democratic governance body for its members. 
+Is is therefore envisioned as an ecosystem and technical infrastructure for all partners that accept and adopt LGBT Token. The Foundation is intended as an independent and democratic governance body for its members.
 
 ### Mandate
 
@@ -380,12 +385,14 @@ The advisory board of the Foundation will regularly submit grant proposals that 
 
 ## Footnotes
 
-  * int-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. For simplicity we refer to it as LGBT but explicitly want to be as inclusive as possible.
+  * int-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
   * int-2: http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx
   * int-3: http://statisticstimes.com/economy/countries-by-projected-gdp.php
   * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
   * int-6: https://esa.un.org/unpd/wpp/
   * int-7: https://genctraveller.com/
+  * inequ-1: https://hornetapp.com/stories/hornet-chechnya/
+  * inequ-2: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
   * token-1: missing source
   * token-2: https://en.wikipedia.org/wiki/ERC20
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
