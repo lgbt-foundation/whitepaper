@@ -62,7 +62,7 @@ Furthermore, the power of the pink economy has traditionally been clustered arou
 
 Public polls and studies carried out by statistics agencies in advanced economies such as the U.S. and the UK have concurred that between 3 and 6 percent of the adult population identify as LGBT. A study carried out by Gallup<sup>int-2</sup> in the U.S. in 2017 found an average of 4.1% of U.S. adults (10 million in total) identified as LGBT, with over 7% of millennial-aged respondents identifying as LGBT. When applied on a global scale to the world’s adult population (16 years+) of 5.3 billion, the 3-7 percentage range gives an LGBT population estimate of between 160 million and 373 million adults globally. Putting that into perspective, if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India.
 
-> **if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India.**
+> **if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India, and as big as the US.**
 
 `INFOGRAPHIC SHOWING THE SIZE OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
