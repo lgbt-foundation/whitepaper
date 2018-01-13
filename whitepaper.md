@@ -1,5 +1,7 @@
 # LGBT Token
 
+> Using **BLOCKCHAIN TECHNOLOGY** to **ADVANCE EQUAL RIGHTS AND ACCEPTANCE** for the **LGBT COMMUNITY**
+
 ## DISCLAIMER
 
 This is an early version of the white paper where we aim to highlight a twofold problem: 1. the global “pink economy” of the LGBT community being neither properly utilized nor clearly defined and 2. nonprofit and charity funds not making it directly into the hands of the most marginalized and oppressed within the LGBT community, then work with the community to create real-world solutions. While this paper highlights key areas and technologies that we feel will provide a crucial foundation for those solutions, this is first and foremost an invitation of participation.
