@@ -53,7 +53,7 @@ This hard work is far from over. There are still many countries in which openly 
 
 ### Understanding The Challenges
 
-While there are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like whether or not to allow transgender students to use the bathroom of the sex of their choice. But where we see an issue that can be tackled and solved with a potential solution, we feel it’s our obligation to try. Thus, one such initial challenge we aim to solve is that both the size of the global community and the power of the worldwide pink economy are neither clearly defined nor understood. It is difficult it can be to quantify exactly the LGBT population, especially since those studies that do exist rely on respondents self-identifying as LGBT or voluntarily reporting their sexual orientation and behavior. Clearly, respondents’ willingness to do this can vary considerably by country, region and age group. It has also been observed that in anti-LGBT environments, members of the LGBT community may frequently be held back from full economic participation (i.e. joining in the labor force or gaining job promotions), which restrains their spending power. 
+While there are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like whether or not to allow transgender students to use the bathroom of the sex of their choice. But where we see an issue that can be tackled and solved with a potential solution, we feel it’s our obligation to try. Thus, one such initial challenge we aim to solve is that both the size of the global community and the power of the worldwide pink economy are neither clearly defined nor understood. It is difficult be to quantify exactly the LGBT population, especially since those studies that do exist rely on respondents self-identifying as LGBT or voluntarily reporting their sexual orientation and behavior. Clearly, respondents’ willingness to do this can vary considerably by country, region and age group. It has also been observed that in anti-LGBT environments, members of the LGBT community may frequently be held back from full economic participation (i.e. joining in the labor force or gaining job promotions), which restrains their spending power. 
 
 Furthermore, the power of the pink economy has traditionally been clustered around the consumer interests of affluent, white gay men. The full spectrum of sexual orientations and and gender identities with the LGBT community has not, to date, been represented or recognized by corporations on anywhere near the same scale as that group. There is a pressing need for all in the LGBT community to be properly represented, and for their full economic participation to be realized. As such, the untapped potential of the pink economy is not as forcefully utilized as it could be, if further developed, to help advance equal rights where it can and safeguard the community where it can’t.
 
@@ -64,18 +64,18 @@ Furthermore, the power of the pink economy has traditionally been clustered arou
 
 Public polls and studies carried out by statistics agencies in advanced economies such as the U.S. and the UK have concurred that between 3 and 6 percent of the adult population identify as LGBT. A study carried out by Gallup<sup>int-2</sup> in the U.S. in 2017 found an average of 4.1% of U.S. adults (10 million in total) identified as LGBT, with over 7% of millennial-aged respondents identifying as LGBT. When applied on a global scale to the world’s adult population (16 years+) of 5.3 billion, the 3-7 percentage range gives an LGBT population estimate of between 160 million and 373 million adults globally. Putting that into perspective, if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India.
 
-> **if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India, and as big as the US.**
+> **If the LGBT community were a country, it would be the third-largest in the world by population, comparable to the U.S.**
 
 `INFOGRAPHIC SHOWING THE SIZE OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
 
 ### Understanding The Power Of The Pink Economy
 
-> Assuming that the above 3-7% applies worldwide, multiplied by the world average GDP per capita of $12,430, that would result in an LGBT community GDP equivalent of between 2 and 4.6 trillion USD.<br>
-The LGBT Token could prove fundamental in revealing the true scale of the LGBT population and in helping it achieve the equality and recognition it deserves.<br>
+> Taking the 3-7% range, applying it on a global scale and multiplying it by the world average GDP per capita of $12,430, that would result in an LGBT community GDP equivalent of between 2 and 4.6 trillion USD.<br>
+However, the LGBT Token could prove fundamental in revealing the true scale of the LGBT population and in helping it achieve the equality and recognition it deserves.<br>
 - Peter Jordan<sup>int-7</sup>, LGBT Consumer Trends Analyst
 
-The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita<sup>int-6</sup>, the LGBT community could account for up to $4.6 trillion. At the upper range, this places the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it would be the world’s 4th-largest economy.<sup>int-3</sup>
+The size of the LGBT community translates directly to major global economic impact. In terms of economic power, as a percentage of global GDP per capita<sup>int-6</sup>, the LGBT community could account for up to $4.6 trillion. At the upper range, this places the spending power of the pink economy on a level greater than the GDP of Germany. In other words, it could be the world’s 4th-largest economy.<sup>int-3</sup>
 
 
 `INFOGRAPHIC SHOWING THE ECONOMIC POWER OF THE community IN COMPARISON TO OTHER COUNTRIES`
