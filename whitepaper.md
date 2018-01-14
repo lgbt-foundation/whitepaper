@@ -337,6 +337,31 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
 
 ## CONCLUSION AND AN OPEN LETTER FOR PARTICIPATION
 
+To whom it may concern,
+
+on behalf of the newly formed LGBT Foundation, I would like to invite you to join us in our mission to empower the LGBT community by contributing to the planned LGBT Token project, designed to help achieve equal rights and acceptance for the LGBT community around the globe.
+
+The LGBT Foundation’s Initial Coin Offering (ICO) will take place in the first quarter of 2018, with the aim of using the power and potential of blockchain to raise funds and allocate cryptocurrency tokens to private investors and individual participants. A blockchain-based LGBT Token establishes a shared economic identity and infrastructure, which we can harness to not only empower and connect LGBT businesses around the world, but also protect LGBT community members’ identities in a safe and secure environment.
+
+Blockchain technology helps us reach this goal by allowing users to make transactions without anyone being able to trace the participants. Despite the anonymity, it remains inherently secure as the information is held on a network of computing devices, which collectively store and verify changes. This means blockchain can facilitate and authenticate payments and record the entire history of exchange, without either party needing to reveal their identity– a revolutionary step in the LGBT community’s fight for equal rights and acceptance.
+
+As founder and CEO of Hornet Networks, I’ve seen firsthand the LGBT community’s economic might, and the potential it offers to help local communities, organizations, and individuals in their quest for equal rights and acceptance in society. Although we at Hornet have set up the LGBT Foundation, our aim is that it will evolve into a self-governing body run by and for members of the LGBT community, to direct its activities, resources and members to the benefit of the international LGBT community.
+
+In my professional career as a serial entrepreneur and investor, nothing has been more fulfilling than working every day on Hornet’s mission to give the gay community a digital home that fosters meaningful connections and helps to drive acceptance.
+
+The LGBT Foundation is a logical next step, much bigger than me or Hornet, or even my fellow gay men, but for the entire LGBT community. As a gay man, a tech entrepreneur with a strong open source background and a Stanford MBA, I feel obliged to call out the immense potential of blockchain, and the near perfect fit for our needs.
+
+Today marks the start of a new phase in which we make sure that every LGBT person has the same opportunities and privileges as anyone else. In future we will use resources from the LGBT Foundation to actively support members of the LGBT community in instances where they are vulnerable, distressed, or suffering from repression or inequality, from financial assistance to support political activism to logistical and operational support. And we will finally make the elusive economic power of the Pink Economy tangible and usable to further our rights and acceptance.
+
+That’s why I would like to call on the global LGBT community, it’s allies, and related interest groups to get involved with the LGBT Foundation.
+
+Please visit www.lgbt-token.org to learn more and join this major effort to make a meaningful difference for the LGBT community.
+
+Yours Sincerely,
+Christof Wittig
+LGBT Foundation President
+Hornet Networks Founder and CEO
+
 # APPENDICES
 
 ## Appendix - The Foundation
