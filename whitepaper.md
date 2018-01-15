@@ -29,7 +29,25 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 ## EXECUTIVE SUMMARY
 
-` MISSING - WILL BE ADDED LATER `
+January 12, 2018 saw the launch of the LGBT Foundation, a not-for-profit organization that aims to harness the power and potential of blockchain technology – alongside other technological innovations – for the global good of the lesbian, gay, bisexual, and transgender community .
+
+The LGBT Foundation will conduct an Initial Coin Offering (ICO) in the first quarter of 2018 to raise funds and allocate cryptocurrency tokens (LGBT Tokens) to individual participants. A blockchain-based LGBT Token will not only empower and connect LGBT businesses around the world, but also protect LGBT community members’ identities in a safe and secure environment.
+
+Blockchain technology offers significant potential to transform society and commerce. As a digital decentralized ledger, it can facilitate transactions without either party needing to trust or know the other and is inherently secure, with the information held on a network of computing devices which collectively store and verify changes.
+
+The LGBT Foundation recognized the potential of blockchain technology to protect and further advance the rights of the LGBT community across the globe. By tokenizing the Pink Dollar, the LGBT Foundation will be able to support three principle goals:
+-	allocate resources to tackle repression, discrimination, and inequality;
+-	enable members to verify and protect their identities;
+-	demonstrate and exert the economic might of the LGBT community;
+
+The power of the Pink Economy cannot be underestimated. If the LGBT community were a country, with 4.6 trillion USD in GDP, it would be the fourth biggest economy in the world. Efforts of the LGBT Foundation will make this global economic muscle tangible and visible – providing businesses with a way to access and engage with members of the LGBT community, and enabling the community to wield its economic strength.
+
+Resources from the LGBT Foundation will be allocated carefully on an ongoing basis to actively support members of the LGBT community in instances where they are vulnerable, distressed, or suffering from inequality – this can include financial assistance to support political activism, as well as logistical and operational support, depending on the particular requirements.
+
+The LGBT Foundation is initiated by Hornet Networks, one of the world’s most popular social networks for gay men that boasts more than 25 million users worldwide. However, the intention is that the LGBT Foundation will evolve into a self-governing body run by and for members of the LGBT community, and which directs its activities, resources and members to the benefit of the international LGBT community.
+
+We therefore encourage and seek involvement and contributions from individuals and organizations across the LGBT community to shape the future of the LGBT Foundation.
+
 
 ## TABLE OF CONTENTS
 
@@ -293,11 +311,11 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 ### Escrow of Proceeds
 
 Funds committed during the MCO Token Creation Even will be held in a secure multi-signature wallet
-and will only be released from the account with all 3 signatures:
+and will only be released from the account with 2 out of 3 signatures of:
 
 - Chritof Wittig - CEO @ Hornet
-- Ben Kubota - Director of the LGBT Foundation
-- Antoine Blondeau - Chairman Pacific I&T Ventures
+- NN - Member of the Advisors
+- NN - external individual
 
 
 ### Team / Advisors
