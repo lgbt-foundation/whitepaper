@@ -290,6 +290,14 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 
 ` PARAGRAPH UNDER REVIEW `
 
+### Escrow of Proceeds
+
+Funds committed during the MCO Token Creation Even will be held in a secure multi-signature wallet
+and will only be released from the account with all 3 signatures:
+
+- Chritof Wittig - CEO @ Hornet
+- Ben Kubota - Director of the LGBT Foundation
+- Antoine Blondeau - Chairman Pacific I&T Ventures
 
 
 ### Team / Advisors
