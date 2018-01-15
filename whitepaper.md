@@ -115,9 +115,7 @@ We believe that with LGBT token, and the extension of its charity arm, LGBT Impa
 
 ### The Blockchain Innovation / How Can Blockchain Help
 
-`PARAGRAPH MISSING`
-
-`WHY BLOCKCHAIN FOR THIS?`
+`PARAGRAPH UNDER REVIEW`
 
 
 ## THE LGBT TOKEN
@@ -252,8 +250,8 @@ Hornet pledges to implement a digital wallet based on the LGBT Token as soon as 
 
 Furthermore, Hornet pledges to migrate its existing Reward program for community contributions from current “Perks” to LGBT Token.
 
-
 ` GRAPHIC: USAGE BY ADDITIONAL LAUNCH PARTNERS TO BE ANNOUNCED SHORTLY `
+
 
 ## LGBT TOKEN ISSUANCE AND TOKEN SALE
 
@@ -272,7 +270,7 @@ To kickstart the ecosystem of the launch partners and future Foundation members,
 
 ### Integration Partners / Legal / Marketing
 
-` PARAGRAPH MISSING - STILL WORKING NUMBERS HERE `
+` PARAGRAPH UNDER REVIEW `
 
 ### Advisors
 
@@ -290,13 +288,13 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 
 ### Proceeds Distribution
 
-` PARAGRAPH MISSING `
+` PARAGRAPH UNDER REVIEW `
 
 
 
 ### Team / Advisors
 
-  ` LAYOUT REMARK: please find a nice way to show the team, this is just the raw data `
+  ` LAYOUT REMARK: please find a nice way to show the team, this is just the raw data. Please use icons for LinkedIn and Twitter instead of the URLs and link them accordingly `
 
   * Christof Wittig, CEO of Hornet, https://www.linkedin.com/in/christof/, https://twitter.com/christofw<br>
   Christof Wittig is a serial software entrepreneur and investor.  He is Founder and CEO at Hornet Networks, the world’s second largest gay social network.  He previously founded and ran Servo Software, db4objects, and Apsis Software.  He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
@@ -311,7 +309,7 @@ The full list of advisors will be released shortly, several of which are high pr
 
 ### Partners
 
-` LIST MISSING `
+` LIST BEING FINALIZED `
 
 
 ## TECHNICAL INFRASTRUCTURE
