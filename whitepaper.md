@@ -359,7 +359,7 @@ It is the intention of the Foundation to list the LGBT Token on public exchanges
 
 ## TIMELINE
 
-## CONCLUSION AND AN OPEN LETTER FOR PARTICIPATION
+## AN OPEN LETTER FOR PARTICIPATION
 
 To whom it may concern,
 
