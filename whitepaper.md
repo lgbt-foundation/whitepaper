@@ -310,8 +310,7 @@ It is the declared goal of the Foundation to find a viable model to grant funds 
 
 ### Escrow of Proceeds
 
-Funds committed during the MCO Token Creation Even will be held in a secure multi-signature wallet
-and will only be released from the account with 2 out of 3 signatures of:
+Funds committed during the MCO Token Creation Even will be held in a secure multi-signature wallet and will only be released from the account with 2 out of 3 signatures of:
 
 - Chritof Wittig - CEO @ Hornet
 - NN - Member of the Advisors
