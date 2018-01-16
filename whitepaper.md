@@ -98,7 +98,7 @@ The size of the LGBT community translates directly to major global economic impa
 
 `INFOGRAPHIC SHOWING THE ECONOMIC POWER OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
-The disposable income and earning power of the LGBT community continues to grow—at least part of the community. University of Washington’s Marieka Klawitter’s 2014 study determined that lesbians earn a premium of 9% more than heterosexual women. A recent study by Vanderbilt economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts.
+The disposable income and earning power of the LGBT community continues to grow—at least part of the community. University of Washington’s Marieka Klawitter’s 2014 study determined that lesbians earn a premium of 9% more than heterosexual women<sup>int-8</sup>. A recent study by Vanderbilt economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts<sup>int-9</sup>.
 
 Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up significant portion of their income, e.g. up to 10% in the travel industry. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.”<sup>int-5</sup> The “pink dollar” often looks like any other dollar to them, which is a mistake.  Marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions due to a lack of data. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, to date, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
 
@@ -150,7 +150,7 @@ To achieve this, LGBT Token will have three layers of utility for its users and 
 
 ### 1. Economic Transactions Creating Economic Power
 
-LGBT apps and services, like Hornet and its peers, today already constitute an $100M economy trading in virtual goods and services.<sup>token-1</sup> These activities can be transformed from fiat to cryptocurrencies.  By being able to access LGBT buyers and sellers of goods and services, any business trading with the LGBT community can join this economic realm, whether it is a local promoter selling tickets to an event, or large brands incentivizing community members to test their products and services.  With adoption of the LGBT Token, today’s $100M market can quickly grow as an identifiable and bespoke economy that doesn’t know borders but respects each individual member’s right to both their sexual identity and privacy in three major ways.
+LGBT apps and services, like Hornet and its peers, today already constitute an $100M economy trading in virtual goods and services.<sup>token-1</sup> These activities can be transformed from fiat<sup>token-3</sup> to cryptocurrencies.  By being able to access LGBT buyers and sellers of goods and services, any business trading with the LGBT community can join this economic realm, whether it is a local promoter selling tickets to an event, or large brands incentivizing community members to test their products and services.  With adoption of the LGBT Token, today’s $100M market can quickly grow as an identifiable and bespoke economy that doesn’t know borders but respects each individual member’s right to both their sexual identity and privacy in three major ways.
 
 > **LGBT apps and services today already constitute an $100M economy trading in virtual goods and services.**
 
@@ -171,9 +171,9 @@ This is especially important for a community that crosses borders in a literal a
 
 Payment Method | Fee Structure | Rewards
 -------------- | ------------- | -------
-Fiat currency via VISA or similar | approximately 2% of transaction | Varies by Card, personal benefit
-Bitcoin | Absolute Fee, >10 USD | none
-Ethereum | Absolute Fee, ~1 USD | none
+Fiat currency via VISA or similar | approximately 2% of transaction<sup>token-4</sup> | Varies by Card, personal benefit
+Bitcoin | Absolute Fee, >10 USD<sup>token-5</sup> | none
+Ethereum | Absolute Fee, ~1 USD<sup>token-6</sup> | none
 LGBT Token | As Ethereum or lower using off-chain solutions | LGBT Impact
 
 ` GRAPHIC HERE OF A BRICK AND MORTAR STORE OR CLUB WITH A “LGBT TOKENS ACCEPTED” STICKER `
@@ -198,7 +198,7 @@ One of the core ideas behind blockchain is to eliminate centralized storage of s
 
 #### Community Recognized Yet Individually Protected
 
-Could our mission be accomplished with an existing technology or currency?  No.  We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
+Could our mission be accomplished with an existing technology or currency? No.<sup>token-7</sup>  We believe that the LGBT community, its members’ identities, the rule of trade, and the allocation of funds to further LGBT Impact causes should be self-governed by the community and cannot be a derivative of a project with a different mission or uncertain prospect of survival.
 
 > **The idea is to have a digital identity that is unique and stored decentralized and will be used by the launch partners in a respectful way to honor and protect your physical identity.**
 
@@ -209,7 +209,7 @@ It cannot be guaranteed that any outside state or corporation, or a foundation w
 
 > **LGBT Impact is the inherent and powerful funding mechanism for causes of imporance for the LGBT Community in their quest to achieve equal rights and acceptance.**
 
-As an example, a recent wave of detention and torture of gay men in Chechnya beginning in February 2017 has become so outrageous that it has attracted the attention of and action by activists and financial supporters. As a market leader for gay apps in Russia, Hornet has been at the forefront of this effort, providing extensive coverage and education about the situation. But it also provided on the ground and behind-the-scenes work to evacuate up to 70 Chechen men to safety.
+As an example, a recent wave of detention and torture of gay men in Chechnya<sup>impact-1</sup> beginning in February 2017 has become so outrageous that it has attracted the attention of and action by activists and financial supporters. As a market leader for gay apps in Russia, Hornet has been at the forefront of this effort, providing extensive coverage and education about the situation. But it also provided on the ground and behind-the-scenes work to evacuate up to 70 Chechen men to safety.
 
 Not all such acts of oppression draw such a level of attention, however, but remain in the shadows. A response today mainly consists of media coverage, possible and likely partisan social media outrage, and hopefully grassroot initiatives supported by individual donations or occasionally larger grants. In the future, we envision that any such incidents of oppression of rights of LGBTs should be identifiable (who are these victims, how many are there and how can we reach them without endangering them?), and we should be able to allocate and quickly transfer valye in order to make an immediate and meaningful difference on the ground. It is nice to put a sad face on articles reporting such prosecution on social media; awareness is key. We believe, however, that it is even better to also transfer within hours $20,000 to the exact victims, allowing them to organize transportation and security to reach safer pastures before they get injured or worse.
 
@@ -441,10 +441,18 @@ The advisory board of the Foundation will regularly submit grant proposals that 
   * int-5: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
   * int-6: https://esa.un.org/unpd/wpp/
   * int-7: https://genctraveller.com/
+  * int-8: http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract
+  * int-9: http://onlinelibrary.wiley.com/doi/10.1002/soej.12233/full
   * inequ-1: https://hornetapp.com/stories/hornet-chechnya/
   * inequ-2: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
   * token-1: missing source
   * token-2: https://en.wikipedia.org/wiki/ERC20
+  * token-3: Currency that a government has declared to be legal tender, but not backed by a physical commodity. Most modern paper currencies are fiat currencies.
+  * token-4: In the US, https://en.wikipedia.org/wiki/Interchange_fee
+  * token-5: https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+  * token-6: https://ethgasstation.info/index.php
+  * token-7: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
+  * impact-1:  https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
   * launch-3: https://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
