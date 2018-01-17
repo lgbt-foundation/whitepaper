@@ -325,7 +325,8 @@ Funds committed during the MCO Token Creation Even will be held in a secure mult
   Christof Wittig is a serial software entrepreneur and investor.  He is Founder and CEO at Hornet Networks, the world’s second largest gay social network.  He previously founded and ran Servo Software, db4objects, and Apsis Software.  He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
   * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb<br>
   A pioneering business and development leader with a proven track record of launching, scaling, and managing industry-defining technology companies on an international scale. A versatile technologist who excels at identifying niche opportunities in the global marketplace and marrying product and technology with community engagement to drive transformative business growth.
-  * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/, `BIO MISSING`
+  * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
+  Andreas is the swiss army-knife in creating digital products. A passionate UX designer with roots in advertising and deep expertise in brand development. As such he is the driving force behind numerous innovative campaigns, products and services, recognized by over 50 national and international creative awards. Being agile by nature, Andreas enforces a hands-on approach, creates with high attention to detail and steers with strong personality. He’s an early adopter, tech enthusiast and co-founder of the Berlin-based agency HelloDigital.
   * NN, Technical Lead
 
 ### Advisors
