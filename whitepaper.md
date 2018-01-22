@@ -416,19 +416,19 @@ Is is therefore envisioned as an ecosystem and technical infrastructure for all 
 
 ### Mandate
 
-The primary mandate is to grow the number of entities and services that adopt and implement the LGBT Token and provide the necessary infrastructure to run the digital economy. The Foundation in the future may partner with for-profit organizations if required to accelerate the acceptance rate of the LGBT Token.
+The primary goal is to partner with companies to adopt and implement the LGBT Token and provide the necessary infrastructure to run the digital economy. The LGBT Foundation in the future may partner with other organizations if determined to be in the bests interests of the project.
 
 
 ### Safe, Secure, Compliant
 
-Safety, security and compliance stand at the core of the Foundation and its ambition – for the good of our community, our investors and the reputation of our Foundation. We provide a safe space for our members (LGBT Token holders) to interact with the outside world while being true to their identities.
+Safety, security and compliance stand at the core of the LGBT Foundation and its ambition – for the good of our community, our partners and the reputation of our LGBT Foundation. We provide a safe space for our members (LGBT Token holders) to interact with the outside world while being true to their identities.
 
-From a compliance perspective, we are working closely with regulators across the world to ensure that we take the appropriate steps to be legally compliant at all times.
+From a compliance perspective, we are liaising with regulators across the world to ensure that we take the appropriate steps to be legally compliant at all times, and have retained a team of professional advisers to assist.
 
 
 ### Governance Goals
 
-The Foundation will dedicate resources to establish a fair and transparent governance process that will take into account the voices and needs of all participants within the ecosystem. This open governance model will oversee decisions related to the membership process, the token economy, participation rules, legal matters, and content and compliance guidelines. 
+The LGBT Foundation will dedicate resources to establish a fair and transparent governance process that will take into account the voices and needs of all participants within the ecosystem. This open governance model will oversee decisions related to the membership process, the token economy, participation rules, legal matters, and content and compliance guidelines.
 
 
 ### Research & Development Goals
@@ -438,14 +438,14 @@ Resources will foster an environment of innovation by working with partners to t
 
 ### Educational Goals
 
-Identifying the size and power of the Pink Economy is one of the core aspects of the technology that the Foundation will establish. Anonymized data that protects the members as described above, but still allows the Foundation to report on the growth and flow of the Tokens to to educate businesses, organizations and countries about the size and positive impact the LGBT community has on their local economies.
+Identifying the size and power of the Pink Economy is one of the core aspects of the technology that the LGBT Foundation will establish. Anonymized data that protects the members as described above, but still allows the LGBT Foundation to report on the growth and flow of the Tokens to to educate businesses, organizations and countries about the size and positive impact the LGBT community has on their local economies.
 
 
 ### Supportive Goals For The LGBT Community
 
-It is the declared goal of this paper to develop an implicit, transparent and simple mechanism for the Foundation to participate in the overall economy using the LGBT Token. As soon as a viable model is established, the Foundation will use its influx of tokens to support local non-profit organizations, as well as outstanding individuals, influencers and advocates of the LGBT community.
+It is the declared goal of this paper to develop an implicit, transparent and simple mechanism for the LGBT Foundation to participate in the overall economy using the LGBT Token. As soon as a viable model is established, the Foundation will use its influx of tokens to support local non-profit organizations, as well as outstanding individuals, influencers and advocates of the LGBT community.
 
-Supporting the LGBT community clearly is an external task for the outside world as much as from within the community itself. As described in “Inequality and the status of the LGBT community”, the authors of this paper recognize the problems facing the community and want to establish a model to ensure that inequality is reduced inside the community as well as outside.
+Supporting the LGBT community clearly is an external task for the outside world as much as from within the community itself. As described in “Inequality and the status of the LGBT community”, the authors of this paper recognize the problems facing the community and want to establish a foundation that is alive to its social responsibility to address and ensure that inequality is reduced inside the community as well as outside.
 
 
 ### Voting Mechanism
