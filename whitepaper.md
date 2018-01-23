@@ -339,18 +339,31 @@ Funds committed during the MCO Token Creation Even will be held in a secure mult
   Christof Wittig is a serial software entrepreneur and investor.  He is Founder and CEO at Hornet Networks, the world’s second largest gay social network.  He previously founded and ran Servo Software, db4objects, and Apsis Software.  He is Managing Partner at Strive Capital and has made investments in various companies such as AppAnnie, Enish, and VirtaHealth.
   * Ben Kubota, Project Lead, https://www.linkedin.com/in/benkubota/, https://twitter.com/omdb<br>
   A pioneering business and development leader with a proven track record of launching, scaling, and managing industry-defining technology companies on an international scale. A versatile technologist who excels at identifying niche opportunities in the global marketplace and marrying product and technology with community engagement to drive transformative business growth.
-  * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
-  Andreas is the swiss army-knife in creating digital products. A passionate UX designer with roots in advertising and deep expertise in brand development. As such he is the driving force behind numerous innovative campaigns, products and services, recognized by over 50 national and international creative awards. Being agile by nature, Andreas enforces a hands-on approach, creates with high attention to detail and steers with strong personality. He’s an early adopter, tech enthusiast and co-founder of the Berlin-based agency HelloDigital.
-  * NN, Technical Lead
-  * Anne Dorman, CFO, https://www.linkedin.com/in/annedorman/, https://twitter.com/sfbeancounter<br>`BIO MISSING`
   * Alim Dhanji, COO, https://www.linkedin.com/in/adhanji/, https://twitter.com/alimdhanji<br>
     Alim is a seasoned leader in financial markets & technology, uniquely bringing together experience from Wall street and high-growth tech start-ups. He’s held senior, global executive positions at Citigroup, TD Bank, KPMG. Since 2011, he was associated with Kik Interactive as Advisor to the CEO, later as a board director and most recently as Chief People Officer. While at Kik, Alim was a member of the founding executive team of Kin, who recently held a successful ICO raising $100M.
   * Sean Howell, LGBT Impact, https://www.linkedin.com/in/seanhornet/, https://twitter.com/howell4change<br>`BIO MISSING`
+  * NN, Economics
+  * NN, Technical Lead
+  * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
+  Andreas is the swiss army-knife in creating digital products. A passionate UX designer with roots in advertising and deep expertise in brand development. As such he is the driving force behind numerous innovative campaigns, products and services, recognized by over 50 national and international creative awards. Being agile by nature, Andreas enforces a hands-on approach, creates with high attention to detail and steers with strong personality. He’s an early adopter, tech enthusiast and co-founder of the Berlin-based agency HelloDigital.
+  * Anne Dorman, CFO, https://www.linkedin.com/in/annedorman/, https://twitter.com/sfbeancounter<br>`BIO MISSING`
+  * Anna Kim, Legal
+  * NN, Compliance
 
 
 ### Advisors
 
 The full list of advisors will be released shortly, several of which are high profile members of the LGBT or Crypto Community with significant track record in past ICOs. The announcement will be made, when the right balance of diverse advisors has been established.
+
+### Service Provider
+
+` PLEASE FIND LOGOS OF THESE PARTNERS TO ADD IN A UNIFIED VISUAL STYLE. NO NEED TO PUT TEXT, BUT PLEASE LINK THE LOGOS TO THE PAGES `
+
+* KWM, http://kwm.com/
+* NewTown, https://www.newtownpartners.com/
+* Hoffman, https://www.hoffman.com/
+* Civic, https://www.civic.com/
+
 
 ### Partners
 
