@@ -362,11 +362,17 @@ Furthermore, Hornet pledges to migrate its existing Reward program for community
 
 ## LGBT TOKEN ISSUANCE AND TOKEN SALE
 
-A fixed number of tokens will be distributed to the public in exchange for Ether contribution. Additional details about the token sale will be announced on the website and the official channels of the LGBT Foundation. The LGBT Foundation will issue a total of 1,000,000,000 tokens of which 300,000,000 will be offered during the initial token sale. Additional tokens will be distributed as follows.
+The LGBT Foundation will initially issue a total of 1,000,000,000 LGBT Tokens.
+
+At the initial Token Sale, up to 20% or 200,000,000 tokens will be distributed to the public in exchange for Ether contribution. Additional details about the initial Token Sale will be announced on the website [link]lgbt-token.org[/link].
+
+The proceeds of the initial Token Sales will be utilized to finance the development of the infrastructure described in this white paper.
+
+Additional tokens will be distributed as follows.
 
 ` PIE CHART OF TOKEN DISTRIBUTION `
 
-` THIS IS THE DATA FOR THE PIE CHART, PLEASE DON'T ADD THIS TO THE ACTUAL PAPER
+` THIS IS THE DATA FOR THE PIE CHART, PLEASE DON'T ADD THIS TO THE ACTUAL PAPER `
 
 20% Token Sale
 40% Reserve
@@ -374,7 +380,6 @@ A fixed number of tokens will be distributed to the public in exchange for Ether
 10% Integration Partners
 10% Network Accelerator Program
 5% Advisors
-`
 
 ` INFO: The LGBT Foundation will not publish any ether wallet address and will not publish any details on how to participate in the token sale publicly. The only way to participate in the sale is to register on https://lgbt-token.org for the Token Sale. Personalized information on how to participate will be send out individually after all required KYC steps for each participating jurisdiction. `
 
