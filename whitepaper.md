@@ -128,10 +128,10 @@ The growing acceptance of the LGBT community has not yet reached the most margin
 
 In major geographic regions of the world, there is still rampant legal discrimination against and violence toward those in the LGBT community, most notably the Middle East, Africa, and parts of Asia and Eurasia. Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another 44 members have remained stubbornly neutral and silent on the issue of LGBT rights. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, the recent developments in both Russia and Nigeria).
 
-The LGBT Foundation is a socially minded company, committed to galvanizing the LGBT Community by creating a real "pink dollar" economic ecosystem and through its corporate social responsibility program,LGBT Impact.
+The LGBT Foundation is a socially minded company, committed to galvanizing the LGBT Community by creating a real "pink dollar" economic ecosystem and through its corporate social responsibility program, LGBT Impact.
 
 
-### The Blockchain Innovation / How Can Blockchain Help
+### How Can Blockchain Help
 
 The blockchain technology offers new forms of technical innovation for the greater good of the LGBT community. The decentralized nature also ties into the decentralized and grassroot movement that launched the overall LGBT acceptance movement in the first place. And while there are benefits and challenges on the current state of blockchain technologies, the following advantages will be beneficial to the goals of this paper:
 
@@ -145,7 +145,7 @@ Creating a trusted and decentralized identity layer that is being used across th
 
 #### Security
 
-The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. Not one actor can get unauthorized access, is able to manipulate or remove information without the consent of the owner. This prevents governments and organizations to demand or hack these informations, which is especially critical in countries, where the LGBT community faces repercussions.
+The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. Not one actor can get unauthorized access, is able to manipulate or remove information without the consent of the owner. This prevents governments and organizations to demand, hack or otherwise obtain these information, which is especially critical in countries, where the LGBT community faces repercussions.
 
 #### Smart Contracts
 
@@ -381,7 +381,7 @@ Additional tokens will be distributed as follows.
 10% Network Accelerator Program
 5% Advisors
 
-` INFO: The LGBT Foundation will not publish any ether wallet address and will not publish any details on how to participate in the token sale publicly. The only way to participate in the sale is to register on https://lgbt-token.org for the Token Sale. Personalized information on how to participate will be send out individually after all required KYC steps for each participating jurisdiction. `
+` INFO: The LGBT Foundation will not publish any ether wallet address, nor will it publish any details on how to participate in the token sale publicly. The only way to participate in the sale and receive all required information on how to participate is by registering on https://lgbt-token.org for the Token Sale. `
 
 
 ### Network Acceleration Program
