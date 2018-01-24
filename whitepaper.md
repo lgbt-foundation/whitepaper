@@ -2,16 +2,9 @@
 
 > Using **BLOCKCHAIN TECHNOLOGY** to **ADVANCE EQUAL RIGHTS AND ACCEPTANCE** for the **LGBT COMMUNITY**
 
-## ABOUT THIS DOCUMENT
-
-In this early version of the white paper that aims to discuss two major problems affecting the LGBT community: 1. the "pink economy" not being adequately leveraged for its members' interest;
-and 2. lack of dedicated and adequate funding to resolve persist inequality and discrimination against its members.
-
-While this paper proposes technical and economical solutions to these problems, this is first and foremost an invitation of participation.
-
 ### Legal Disclaimer
 
-This white paper is a confidential overview of the LGBT Token project and token sale. It may be amended or replaced at any time.  There is no obligation to update the whitepaper or to provide the recipient with notification of any changes or access to any additional information.
+This white paper is an overview of the LGBT Token project and token sale. It may be amended or replaced at any time. There is no obligation to update the whitepaper or to provide the recipient with notification of any changes or access to any additional information.
 
 Recipients are notified as follows:
 
@@ -22,13 +15,15 @@ Recipients are notified as follows:
   * **Risk warning:** potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens.
   * **Translations:** this whitepaper and related materials are issued in English. Any translation is for reference purposes only and is not certified by any person. If there is any inconsistency between a translation and the English version of this whitepaper, the English version prevails.
   * **Restricted transmission:** this whitepaper must not be taken or transmitted to any jurisdictionwhere distribution or dissemination of this whitepaper is prohibited or restricted.
-  * No offer of fund-raising appeals or charitable donains: The LGBT Foundation Limited ("LGBT Foundation") is currently not yet set up as a charitable, philantropic and benevolent society, but it is intended to achieve such status in the near term, as prespective permits and accredetations have been obtained. As part of the ICO, the LGBT Foundation does not engage in fund-raising appeals or seek participation in the toen sale to fund charitable, philantropic or benevolent causes. Any involement in social impact programs is through the LGBT Foundation own discretionary social responsibility program called LGBT Impact (see 'LGBT Impact' section below), which will be fundend from future token creation.
+  * No offer of fund-raising appeals or charitable donations: The LGBT Foundation Limited ("LGBT Foundation") is currently not yet set up as a charitable, philanthropic and benevolent society, but it is planning to convert to such status, as soon as respective permits and accreditations have been obtained. As part of the ICO, the LGBT Foundation does not engage in fund-raising appeals or seek participation in the token sale to fund charitable, philanthropic or benevolent causes. Any involvement in social impact programs is through the LGBT Foundation own discretionary social responsibility program called LGBT Impact (see 'LGBT Impact' section below), which will be funded from future token creation.
 
-This whitepaper has not been reviewed by any regulatory authority in any jurisdiction. References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than Hornet Networks Limited (“Hornet”), the use of any company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.
+This whitepaper has not been reviewed by any regulatory authority in any jurisdiction. References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than explicitly mentioned partners or providers such as Hornet Networks Limited (“Hornet”), the use of any other company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.
 
 All references to ‘dollars’ or ‘$’ are references to United States dollars unless otherwise stated.
 
 ## EXECUTIVE SUMMARY
+
+January 12, 2018 saw the launch of the LGBT Foundation, a not-for-profit organization initiated by Hornet, the leading gay social network with 25 million users worldwide. The LGBT Foundation recognized the potential of blockchain technology to protect and advance the rights of the LGBT community<sup>int-1</sup> across the globe. By tokenizing the Pink Dollar, the LGBT Foundation will support three principal goals:
 
 January 12, 2018 saw the launch of the LGBT Foundation, a not-for-profit organization initiated by Hornet Networks, the leading gay social network and pioneering app with 25 million users worldwide. The LGBT Foundation recognized the potential of blockchain technology to protect and advance the rights of the LGBT community across the globe. By tokenizing the Pink Dollar, the LGBT Foundation will support three principle goals:
 
@@ -56,7 +51,7 @@ To achieve its stated goals, the LGBT Foundation invites likeminded partners to 
 
 ## INTRODUCTION
 
-In recent years, the LGBT<sup>int-1</sup> community has reached an inflection point with an increased number of society segments and governments becoming more accepting of and providing equal rights to LGBTs.  The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress.  Another is that an increasing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that corporate social responsibility is fundamental to the operation of their business, and that it is an important matter to their customers.
+In recent years, the LGBT community<sup>int-1</sup> has reached an inflection point with an increased number of society segments and governments becoming more accepting of and providing equal rights to LGBTs.  The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress.  Another is that an increasing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that corporate social responsibility is fundamental to the operation of their business, and that it is an important matter to their customers.
 
 Progress for the LGBT community has become visible through landmark events, such as:
 
@@ -343,11 +338,16 @@ Funds committed during the MCO Token Creation Even will be held in a secure mult
     Alim is a seasoned leader in financial markets & technology, uniquely bringing together experience from Wall street and high-growth tech start-ups. He’s held senior, global executive positions at Citigroup, TD Bank, KPMG. Since 2011, he was associated with Kik Interactive as Advisor to the CEO, later as a board director and most recently as Chief People Officer. While at Kik, Alim was a member of the founding executive team of Kin, who recently held a successful ICO raising $100M.
   * Sean Howell, LGBT Impact, https://www.linkedin.com/in/seanhornet/, https://twitter.com/howell4change<br>`BIO MISSING`
   * NN, Economics
-  * NN, Technical Lead
+  * Alex Conway, Technical Lead, https://www.linkedin.com/in/alex-conway-042666105/, https://twitter.com/alxcnwy<br>
+  `BIO MISSING`
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
   Andreas is the swiss army-knife in creating digital products. A passionate UX designer with roots in advertising and deep expertise in brand development. As such he is the driving force behind numerous innovative campaigns, products and services, recognized by over 50 national and international creative awards. Being agile by nature, Andreas enforces a hands-on approach, creates with high attention to detail and steers with strong personality. He’s an early adopter, tech enthusiast and co-founder of the Berlin-based agency HelloDigital.
+  `PLEASE SHORTEN BIO TO BE IN LINE WITH THE OTHER ONES`
+  * Alisha Grauso, Editorial Lead, https://www.linkedin.com/in/alishagrauso/, https://twitter.com/AlishaGrauso
+  Alisha is an experienced writer and editor with a focus on marketing. As the former editor-at-large of Movie Pilot, she built the editorial team and helped grow the largest entertainment fan community in the world. An outspoken voice, she regularly uses her writing and social media platforms to champion women's rights, LGBT rights and diversity.
   * Anne Dorman, CFO, https://www.linkedin.com/in/annedorman/, https://twitter.com/sfbeancounter<br>`BIO MISSING`
-  * Anna Kim, Legal
+  * Anna Kim, Legal Counsel, https://www.linkedin.com/in/anna-kim-16365146/<br>
+  `BIO MISSING`
   * NN, Compliance
 
 
@@ -505,7 +505,9 @@ The advisory board of the Foundation will regularly submit grant proposals that 
 ## Notes on the layout
 
   * The overall layout of the white paper is rather a brochure than a technical paper. We will release a more technical _yellow paper_ and a more traditional whitepaper layout later. Alternatively, we could call this one the Pink Paper :)
+  * Please use a smaller font for the legal disclaimer, so it's not as prominent as the rest.
   * Embrace white space
+  * Footnote int-1 used twice on purpose
   * Each H1 headline (UPCASE headlines) start a new page, ideally in a visually distinguishable fashion
   * Each blockquote is either a quote when in _italic_ or a pullquote when **bold**
   * All images need to list the source and may have a caption
