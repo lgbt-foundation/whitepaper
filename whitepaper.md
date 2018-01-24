@@ -381,7 +381,7 @@ Additional tokens will be distributed as follows.
 10% Network Accelerator Program
 5% Advisors
 
-` INFO: The LGBT Foundation will not publish any ether wallet address, nor will it publish any details on how to participate in the token sale publicly. The only way to participate in the sale and receive all required information on how to participate is by registering on https://lgbt-token.org for the Token Sale. `
+` INFO: The LGBT Foundation will not publish any ether wallet address, nor will it publish any details on how to participate in the token sale publicly. The only way to participate in the sale and receive all required information on how to participate is by registering on https://lgbt-token.org for the Token Sale. We will publish all announcements and updates through our official channels: [link]Twitter[/link] and [link]Telegram[/link]. `
 
 
 ### Network Acceleration Program
