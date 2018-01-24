@@ -27,7 +27,7 @@ January 12, 2018 saw the launch of the LGBT Foundation, a not-for-profit organiz
 
 - enable members to verify and protect their LGBT identities;
 - demonstrate and exert the economic might of the LGBT community;
-- generate resources to tackle anti-LGBT repression and ine
+- generate resources to tackle anti-LGBT repression and inequality;
 
 In the first half of 2018, the LGBT Foundation will conduct a Token Sale to raise 60,000 ETH to build the required infrastructure described in this paper. It will allocate 20% of its available cryptocurrency tokens (LGBT Tokens) to participants in the initial Token Sale.  The remaining Tokens will be governed by the non-for-profit Foundation to finance future platform development, incentivize token adoption, and remunerate contributors of this project.
 
