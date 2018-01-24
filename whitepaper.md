@@ -245,7 +245,7 @@ Furthermore, not all such acts of oppression draw a similar level of attention, 
 The LGBT Foundation would make sure that such emergency tokens are available immediately, that further tokens can be mobilized quickly, that these tokens can be transferred across borders without hassle or undue cost, and that they reach exactly the right targets, without risk of abusing the fluid LGBT identity for double dipping or unscrutinized embezzlement of such funds. We imagine if that this entire process, from an initial call for help right up to purchasing plane tickets or travel fare to evacuate, could be achieved using LGBT Token; one’s sexual and gender identity and purchases would be protected and private throughout. It will, quite literally, save lives, but it’s just one of the examples by which we could illustrate the numerous ways in which LGBT Impact can make a tangible difference in the lives of LGBT community members, no matter where they are.
 
 
-## LAUNCH PARTNERS/TESTIMONIALS
+## LAUNCH PARTNERS
 
 Hornet is the initiator and a founding member of the LGBT Foundation. We are in the process of selecting other launch partners from the LGBT community, who are interested to implement the LGBT Token into their business. Furthermore, we are building a roster of opinion leaders in the LGBT and cryptocurrency communities to advise the founders on this project and endorse its mission and the proposed implementation.
 
@@ -308,6 +308,16 @@ Furthermore, Hornet pledges to migrate its existing Reward program for community
 A fixed number of tokens will be distributed to the public in exchange for Ether contribution. Additional details about the token sale will be announced on the website and the official channels of the LGBT Foundation. The LGBT Foundation will issue a total of 1,000,000,000 tokens of which 300,000,000 will be offered during the initial token sale. Additional tokens will be distributed as follows.
 
 ` PIE CHART OF TOKEN DISTRIBUTION `
+
+` THIS IS THE DATA FOR THE PIE CHART, PLEASE DON'T ADD THIS TO THE ACTUAL PAPER
+
+20% Token Sale
+40% Reserve
+15% Team
+10% Integration Partners
+10% Network Accelerator Program
+5% Advisors
+`
 
 ` INFO: The LGBT Foundation will not publish any ether wallet address and will not publish any details on how to participate in the token sale publicly. The only way to participate in the sale is to register on https://lgbt-token.org for the Token Sale. Personalized information on how to participate will be send out individually after all required KYC steps for each participating jurisdiction. `
 
@@ -380,6 +390,14 @@ Funds committed during the MCO Token Creation Even will be held in a secure mult
 
 The full list of advisors will be released shortly, several of which are high profile members of the LGBT or Crypto Community with significant track record in past ICOs. The announcement will be made, when the right balance of diverse advisors has been established.
 
+* Erik Lamontange
+* Vinnie Lingham
+* Paulo Trezentos
+* Andres Wydler, `TWITTER / LINKEDIN`
+  Andres is the Executive Director of StartOut, the world’s largest non-profit organization to support LGBTQ entrepreneurs and economically empower the community. Prior, Andres was a serial entrepreneur in the software industry, co-founded a successful angel group, and developed and taught a course on clean tech entrepreneurship at Stanford’s Continuing Studies program. Andres holds an MBA from Stanford and JD equivalent (lic. iur.) from the University of Zurich.
+
+
+
 ### Service Provider
 
 ` PLEASE FIND LOGOS OF THESE PARTNERS TO ADD IN A UNIFIED VISUAL STYLE. NO NEED TO PUT TEXT, BUT PLEASE LINK THE LOGOS TO THE PAGES `
@@ -403,9 +421,9 @@ At this stage, several elements of possible solutions are discussed as follows:
 
 ### Hybrid Off-Chain/On-Chain Architecture
 
-Although the Ethereum blockchain technology is powerful due to its support for readily- deployable smart contracts, one of its oft-cited drawbacks is that it is slow and expensive to confirm a transaction. While there are a number of proposals on the roadmap to address the issue, it is presently not clear how the issue will be resolved in the near future. We are aware that the time taken to confirm a transaction on the blockchain is increasingly crucial as we move toward mass adoption, and are constantly surveying alternative solutions.
+Although the Ethereum blockchain technology is powerful due to its support for readily-deployable smart contracts, one of its oft-cited drawbacks is that it is slow and expensive to confirm a transaction. While there are a number of proposals on the roadmap to address the issue, it is presently not clear how the issue will be resolved in the near future. We are aware that the time taken to confirm a transaction on the blockchain is increasingly crucial as we move toward mass adoption, and are constantly surveying alternative solutions.
 
-As part of our ongoing research and development efforts, we are also evaluating a hybrid architecture (off-chain/on-chain solution) to support fast transaction execution required by an increasing volume of transactions, while preserving a sufficient degree of decentralization. Furthermore, we are constantly observing the advacements made by all major blockchain infrastructure providers to use the right technology for each one of our key purposes.
+As part of our ongoing research and development efforts, the LGBT Foundation as well as each of its partners are evaluating a hybrid architecture (off-chain/on-chain solution) to support fast transaction execution required by an increasing volume of transactions, while preserving a sufficient degree of decentralization. Furthermore, we are constantly observing the advacements made by all major blockchain infrastructure providers to use the right technology for each one of our key purposes.
 
 
 ### Ethereum Settlement Layer
@@ -416,6 +434,43 @@ It is the intention of the LGBT Foundation to list the LGBT Token on public exch
 
 
 ## TIMELINE
+
+`please visualize the timelinein a way that you find most useful`
+
+**January '18**
+- release of white paper in version 0.7
+- open social channels and github account and start open discussion
+
+**Febuary '18**
+- release additional details and mechanics of the Token Economics
+- release of white paper in version 0.8
+
+**March '18**
+- release of additional details concerning the technical infrastructure and APIs
+- publish early smart contracts on github
+
+**April '18**
+- release of white paper in version 1.0
+- Pre-Sale ICO (one week)
+- Public ICO (four weeks)
+
+**Q2 '18**
+- Token issuance event and token distribution
+- Implementation of Hornet wallet
+- release of public API specifications and libraries for future integrations
+- transfer of Hornet Reward Model to LGBT Token
+
+**Q3 '18**
+- Implementation of wallet and payment systems for launch partners
+
+**Q4 '18**
+- release of API specification for the identity protection layer
+- Integration of Identity protection layer in Hornet
+
+**Q1 '19**
+- first additional token generation event and launch of LGBT Impact
+
+
 
 ## AN OPEN LETTER FOR PARTICIPATION
 
@@ -471,7 +526,7 @@ The LGBT Foundation will dedicate resources to establish a fair and transparent 
 
 ### Research & Development Goals
 
-Resources will foster an environment of innovation by working with partners to test new ways to participate in the ecosystem and drive value creation and network effects. The Foundation will also fund the development of tools that give LGBT Token partners the ability to build, grow, and create value for one another. 
+Resources will foster an environment of innovation by working with partners to test new ways to participate in the ecosystem and drive value creation and network effects. The Foundation will also fund the development of tools that give LGBT Token partners the ability to build, grow, and create value for one another.
 
 
 ### Educational Goals
@@ -537,5 +592,6 @@ The advisory board of the Foundation will regularly submit grant proposals that 
   * Each blockquote is either a quote when in _italic_ or a pullquote when **bold**
   * All images need to list the source and may have a caption
   * The team pages (team, advisor, partner) should be in a grid format, please grab images from linkedin. We should include linkedin and twitter links where applicable
+  * Please keep the "advisors to be announced" section in there and do not list the advisors as of now. The list of advisors is merely to collect the data
   * Footnotes are to be on the page where they have been referenced and are to be numbered only. We use per-paragraph named footnotes like _int-1_ for convenience. At the end, the footnots should be numerical only.
   * Please add an element to the footer of the layout that links to the exact version of the whitepaper on github, ideally as Version number and hash. We will use tags accordingly: e.g. Version 0.5 (834a4fe) with `834a4fe` being a link to github (https://github.com/lgbt-foundation/whitepaper/commit/834a4fecfbe4369f478134ae15f1a540cfa274b2)
