@@ -23,30 +23,35 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 ## EXECUTIVE SUMMARY
 
-January 12, 2018 saw the launch of the LGBT Foundation, a not-for-profit organization initiated by Hornet, the leading gay social network with 25 million users worldwide. The LGBT Foundation recognized the potential of blockchain technology to protect and advance the rights of the LGBT community<sup>int-1</sup> across the globe. By tokenizing the Pink Dollar, the LGBT Foundation will support three principal goals:
+The LGBT Foundation launched on January 12, 2018 with the aim to harness the power of blockchain technology to deliver equality for the global LGBT community<sup>int-1</sup>. The LGBT Foundation will tokenize the power of the LGBT economy ("Pink Economy") to support three principal goals:
 
-- enable members to verify and protect their LGBT identities;
-- demonstrate and exert the economic might of the LGBT community;
-- generate resources to tackle anti-LGBT repression and inequality;
+- Enable members to verify and protect their LGBT identities;
+- Demonstrate and exert the economic might of the LGBT community;
+- Generate resources to tackle anti-LGBT repression and inequality;
 
-In the first half of 2018, the LGBT Foundation will conduct a Token Sale to raise 60,000 ETH to build the required infrastructure described in this paper. It will allocate 20% of its available cryptocurrency tokens (LGBT Tokens) to participants in the initial Token Sale.  The remaining Tokens will be governed by the non-for-profit Foundation to finance future platform development, incentivize token adoption, and remunerate contributors of this project.
+**LGBT Tokens**
+In the first half of 2018, the LGBT Foundation will conduct a Token Sale to raise 60,000 Ethereum (ETH) for building the required infrastructure described in this paper. It will allocate 20% of its available cryptocurrency tokens (LGBT Tokens) to participants in the initial Token Sale. The remaining Tokens will be governed by the non-profit LGBT Foundation to finance future platform development, incentivize token adoption, and remunerate contributors of this project.
 
-The power of the Pink Economy is often underestimated. If the LGBT community were a country, it would be the world's fourth largest economy with a GDP of USD 4.6 trillion. The LGBT Foundation will make this global economic muscle tangible and visible - by establishing a digital asset to allow borderless transactions and exchange among an already global community, while safeguarding their members’ identity.
+**Making the Pink Economy visible**
+If the LGBT community were a country, it would be the world's fourth largest economy with a GDP of USD 4.6 trillion. However, the power of the Pink Economy is often underestimated. The LGBT Foundation will make this global economic muscle tangible and visible - by establishing a LGBT-centric digital asset to allow borderless transactions and exchange among an already global community, while safeguarding its members' identities.
 
+**Tackling anti-LGBT repression and inequality**
 Furthermore, resources from the LGBT Foundation will be allocated on an ongoing basis to actively support members of the LGBT community in instances where they are vulnerable, distressed, or suffering from inequality - this can include financial assistance to support political activism, mobilization of crowdsourcing, as well as logistical and operational support.
 
-Beyond the non-profit use of the Token, the economically more significant use of the Token is to drive its adoption as a mean of payment in everyday transactions of businesses, large and small. From the get go, Hornet and several other launch partners will accept the LGBT Token as a mean of payment for their services. Businesses can thus demonstrate their affiliation with the LGBT Community and optimize their LGBT oriented business by being able to better target this important customer segment, which, depending on industry, can constitute a large yet often elusive element of their corporate income.  On the flipside, they can reward and incentivize members of the LGBT community to take desirable actions, ranging widely from generating social media stories to permission marketing.
+**Driving adoption of LGBT Tokens in everyday transactions**
+Beyond the non-profit use of the Token, the economically more significant use of the Token is to drive its adoption as a method of payment in everyday transactions across all businesses. From the outset, Hornet Networks, the instigator of the LGBT Foundation, and its launch partners will accept the LGBT Token as a means of payment for their services. Businesses can thus demonstrate their affiliation with the LGBT Community and optimize their LGBT-oriented business by being able to better target this important customer segment, which, depending on the industry, can constitute a large yet elusive element of their corporate income.
 
-The LGBT Foundation has established a Network Accelerator Program (see 'Network LGBT Accelerator Program' section below) to support businesses that wish to adopt the Token. It has set aside grants worth 10% of the issued Tokens to jumpstart launch partnerships and broad community adoption. A range of practical measures - such as providing plug-ins for ecommerce stores, or devices in physical locations, that accept LGBT Tokens as payment, are proposed to further support adoption.
+The LGBT Foundation has established a Network Accelerator Program to help businesses adopt the Token, and dedicated grants worth 10% of the issued Tokens to jumpstart launch partnerships and broad community adoption. A range of practical measures - such as providing plug-ins for ecommerce stores or devices in physical locations that accept LGBT Tokens as payment - will also further its adoption.
 
-The LGBT Token is build as an ERC20 compatible Token, based on the Ethereum blockchain ecosystem and will adopt publicly available smart contracts to achieve its goals.
+**Invitation to get involved with the LGBT Foundation**
+With backgrounds in enriching the LGBT community through innovative uses of technology, Hornet Networks and the launch team are uniquely positioned to act as catalysts to unlock the potential of the Pink Economy with blockchain.
 
-With their long background in LGBT innovation through technology, Hornet and the launch team are the first and uniquely positioned initiators to unlock the potential of the Pink Economy with blockchain. To achieve its stated goals, the LGBT Foundation invites and seeks involvement and contributions from individuals and organizations across the LGBT community to join these efforts and shape the future of the LGBT Token together.
+To achieve its stated goals, the LGBT Foundation is inviting and seeking involvement and contributions from individuals and organizations across the LGBT community and beyond to join these efforts and shape the future of the LGBT Foundation together.
 
 
 ## TABLE OF CONTENTS
 
-` MISSING - WILL BE ADDED LAST `
+` WILL BE ADDED AUTOMATICALLY `
 
 
 ## INTRODUCTION
