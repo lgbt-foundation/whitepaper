@@ -305,6 +305,7 @@ The Foundation invites everyone to support the project and specifically invites 
 
 > _“At Hornet, we pursue the mission to give the gay community a digital home.  We strive to foster meaningful connections between its members, to foster collaboration for the greater good, and to give advertisers a brand-safe access to the huge purchasing power of the community”_ - Christof Wittig, Hornet Founder and CEO 
 
+` SMALL HORNET LOGO `
 Hornet has been a leading innovator in the gay community since 2011 and is the proud original sponsor of this proposal. It was born to create more meaningful ways to connect members of local gay communities, and has since evolved to a social lifestyle app by connecting people, listing events and locations, participating as a media outlet, giving advertisers access to the community, and actively supporting both local communities and global events.
 
 Hornet is the number one gay app in a dozen countries, such as France, Brazil, Taiwan, and Russia, and rapidly growing in many other markets including the United States. Hornet’s network boasts 25 million users, with over 4 million of them monthly active, generating over $10 million USD in revenue this year.
@@ -339,7 +340,8 @@ The LGBT Token initiative has been started and initially sponsored by Hornet Net
 
 ### The LGBT Foundation
 
-The LGBT Token will be issued by the LGBT Foundation, an organization to initiate, develop and foster the ecosystem of the Token. The LGBT Foundation will administer the supply and ensure a healthy economic model for the users and partners. It also intends to provide the necessary infrastructure to operate a decentralized and autonomous network.
+The LGBT Token will be issued by the LGBT Foundation, an organization to initiate, develop and foster the ecosystem of the token. The LGBT Foundation will administer the supply and ensure a healthy economic model for the users and partners. It also intends to provide the necessary infrastructure to operate a decentralized and autonomous network. At the point of publishing of this paper, the LGBT Foundation shares certain resources with its sponsor, like overhead and development personel. The LGBT Foundation will, however, operate completely independent of Hornet and is building its own teams, governance and managment that will only operate in the interest of the missions stated in this paper.
+
 
 ### Usage Of The LGBT Token By The Launch Partners
 
@@ -423,7 +425,7 @@ ETH (Ethereum) committed during the Token Sale will be held in a secure multi-si
 - NN - external individual
 
 
-### Team
+## Team
 
   ` LAYOUT REMARK: please find a nice way to show the team, this is just the raw data. Please use icons for LinkedIn and Twitter instead of the URLs and link them accordingly `
 
@@ -598,6 +600,19 @@ Supporting the LGBT community clearly is an external task for the outside world 
 ### Voting Mechanism
 
 The Advisory Board of the LGBT Foundation will regularly submit grant proposals that it believes deserves LGBT Impact support on the LGBT Foundation website. Each Token holder will be able to cast votes in support of the projects they believe should receive support. The number of votes is proposed to be equal to the number of Tokens a person holds.  The details of this voting mechanism will be announced in due course.
+
+
+### LAST PAGE (not an actual headline, just a page break reminder)
+
+**LGBT Foundation Ltd**
+13/F, Gloucester Tower
+The Landmark
+15 Queen’s Road
+Hong Kong
+
+Twitter icon and link
+Telegram icon and link
+
 
 
 ## Footnotes
