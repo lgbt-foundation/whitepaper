@@ -136,21 +136,54 @@ In major geographic regions of the world, there is still rampant legal discrimin
 The LGBT Foundation is a socially-minded company, committed to galvanizing the LGBT community by creating a real "pink dollar" economic ecosystem and through its corporate social responsibility program, LGBT Impact.
 
 
-### How Blockchain Can Help
+## THE LGBT TOKEN
 
-Blockchain technology offers new forms of technical innovation for the greater good of the LGBT community. Its decentralized nature also ties into the decentralized and grassroots movement that launched the overall LGBT acceptance movement in the first place. And while there are benefits and challenges with the current state of blockchain technologies, the following characteristics will be beneficial to the goals of this paper:
+> **We established the LGBT Foundation to issue and govern the LGBT Token, based on Ethereum and the ERC20 Standard.**
+
+The LGBT Token is a cryptographic asset that follows the ERC-20<sup>token-5</sup> standard for smart contracts running on the public Ethereum<sup>token-1</sup> blockchain.
+
+Blockchain technology offers new forms of technical innovation for the greater good of the LGBT community. Its decentralized nature also ties into the decentralized and grassroots movement that launched the overall LGBT acceptance movement in the first place. And while there are benefits and challenges with the current state of blockchain technologies, they do present untold opportunities to innovate and use technology for good.
+
+Reserach on the blockchain is moving incredibly fast and while we have already conducted an extensive 3 month technical feasibility study and implemented initial smart contracts, the details discussed below (including the use of the Ethereum blockchain) are subject to change during the course of development. We are certain, that the available infrastructure to allow us to focus on real life use cases. This project does not intend to add a significant technological addition to the Ethereum ecosystem, but rather leverage existing technologies to provide value and day-to-day use cases tailored towards the global LGBT community.
+
+### Why issue a token?
+
+Crypto-currencies have several high-level benefits that are tailored toward the core missions described in this paper, including:
+
 
 #### Decentralized
 
-The LGBT Token is built on top of a decentralized ledger and while some partners might choose to implement off-chain solutions for performance reasons, the decentralized nature of the Ethereum network is important as an independent and immutable trust layer between the participating parties. The LGBT Token is explicitly intended as a digital asset that can be used across apps and businesses.
+The LGBT Token is built on top of a decentralized ledger and while some partners might choose to implement off-chain solutions for performance reasons, the decentralized nature of the Ethereum network is important as an independent and immutable trust layer between the participating parties. The LGBT Token is explicitly intended as a digital asset that can be used across apps and businesses. The decentralized nature is using consensus algorithms to settle transaction and is therefore immune to centralized or government control. Furthermore, its free of discrimination - everyone with an internet connection and phone can access crypto-currency.
+
+
+#### Cheap Micropayments
+
+The blockchain, especially in conjunction with off-chain master-node transactions, brings the promise of much faster and much cheaper transaction fees than are typical when paying by credit card.
+
+LGBT Token are intented to be used for payment at brick and mortar stores by showing the cashier a QR-code of your public wallet key. You can earn tokens for being a loyal customer in the form of discounted purchases where your loyalty is securely and privately stored on the LGBT blockchain.
+
+Apps that implement the LGBT Token will be able to charge micropayments for unlocking app features that are otherwise usually packaged as subscriptions. Being forced to pay a minimum transaction fee of at least 2% and usually a minimum absolute amount like 0.01 USD leaves no room to charge for single uses of features.
+
+Conversely, users can be rewarded micropayments for ensuring a healthy community or by adding value to the participating apps, for example by generating content, flagging abusive behavior or by simply reporting bugs.<sup>token-7</sup> This aligns incentives since they are monetarily motivated to generate content but have the option to opt-out, for example while they stake a certain number of LGBT tokens. Staking can also be used to provide features such as boosting a profile's exposure in a social media app context while that user is staking tokens.
+
 
 #### LGBT Identity and Pseudonymity
 
 Creating a trusted and decentralized identity layer that can be used across the launch partners and others allows a reputation system where each participating party can record the reputations of each within their ecosystem or community and make that information available for others. The pseudonymity allows users to protect their physical identities while giving them credibility and authority within the system.
 
+> By putting *encrypted* identity on the blockchain, there is less fraud and people can trust a decentralized trustless system through asymmetric encryption
+
+#### Voting & Decentralized Governance
+
+For the LGBT Impact program, the LGBT Foundation will mint new tokens on a fixed rate of 1% of the circulation at that point. The newly minted funds will be distributed towards individuals and organizations. To determine the exact allocations of the different organizations, users can cast votes using smart contracts. Voting on the blockchain is public and untamperable (while still privacy preserving)<sup>token-6</sup>
+
+The recently proposed ERC-725 standard<sup>token-8</sup> suggests new standards to enable voting - including delegated voting - to smart contracts on the Ethereum blockchain. It is already possible to implement a voting contract using the ERC-20 standard and this is the course we will take for now. Implementing "delegated voting" is further down the roadmap but it is feasible that users may nominate a reputable member of the community or third party charity - and let them proxy the user's "delegated vote".
+
+
 #### Security
 
 The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. Not one actor can get unauthorized access or is able to manipulate or remove information without the consent of the owner. This prevents governments and organizations from demanding, hacking or otherwise obtaining this information, an especially critical safeguard in countries where the LGBT community faces repercussions and victimization.
+
 
 #### Smart Contracts
 
@@ -162,18 +195,15 @@ For example,
 - funds sent via LGBT Impact can be bound to acquire goods and services only from whitelisted wallets of specific merchants and organizations to eliminate unwanted spending of LGBT Impact funds.
 
 
-## THE LGBT TOKEN
+#### Current Technical Limitations of the Ethereum Network
 
-> **We will establish the LGBT Foundation to issue and govern the LGBT Token, based on Ethereum and the ERC20 Standard.**
+Although the Ethereum blockchain technology is powerful due to its support for readily-deployable smart contracts, one of its drawbacks is that it is expensive and slow to confirm a transaction. While there are a number of proposals on the roadmap to address the issue, it is presently not clear how the issue will be resolved in the near future. We are aware that the time taken to confirm a transaction on the blockchain is increasingly crucial as we move toward mass adoption, and are constantly surveying alternative solutions.
 
-The LGBT Token is a cryptographic asset issued by the LGBT Foundation, as an ERC-20 compliant Token running on the public Ethereum platform<sup>token-1</sup>.
+As part of our ongoing research and development efforts, the LGBT Foundation and each of its partners are evaluating a hybrid architecture (off-chain/on-chain solution) to support fast transaction execution required by an increasing volume of transactions, while preserving a sufficient degree of decentralization. Furthermore, we are constantly observing the advancements made by all major blockchain infrastructure providers to use the right technology for each one of our key purposes.
 
-By tokenizing the Pink Dollar, the LGBT Foundation will support three principal goals:
+This white paper focuses on the issues that the LGBT Foundation strives to solve. A paper with further details exploring the exact technical solution will be released separately and with the input of the crypto community. Afterwards, the source code and APIs will be publicly available on github.
 
-- enable members to verify and protect their LGBT identities;
-- demonstrate and utilize the economic might of the LGBT community;
-- generate resources to tackle anti-LGBT repression and inequality;
-
+However, the LGBT Foundation believes that the currently available technical infrastructure is sufficient to solve the following issues.
 
 ` INSERT GRAPHIC TO HIGHLIGHT THE THREE ASPECTS / PILLARS `
 
@@ -418,7 +448,7 @@ The Foundation is planning to newly generate up to 1% annually of the entire Tok
 
 ### Escrow of Proceeds
 
-ETH (Ethereum) committed during the Token Sale will be held in a secure multi-signature wallet and will only be released from the account with two out of three signatures of:
+ETH committed during the Token Sale will be held in a secure multi-signature wallet and will only be released from the account with two out of three signatures of:
 
 - Christof Wittig - Founder and CEO of Hornet Networks
 - NN - Member of the Advisory Board
@@ -438,7 +468,7 @@ ETH (Ethereum) committed during the Token Sale will be held in a secure multi-si
   * Sean Howell, LGBT Impact, https://www.linkedin.com/in/seanhornet/, https://twitter.com/howell4change<br>`BIO MISSING`
   * NN, Economics
   * Alex Conway, Technical Lead, https://www.linkedin.com/in/alex-conway-042666105/, https://twitter.com/alxcnwy<br>
-  `BIO MISSING`
+  Alex is a data scientist / machine learning researcher / nerd. He is the Founder and lead Data Scientist at NumberBoost, a machine learning software consultancy that has won multiple startup competitions including with Mercedes-Benz and MultiChoice. Numberboost develops full-stack solutions to machine learning problems across all verticals. He has experience building all kinds of software solutions in all kinds of stacks and situations, managing small and large tech teams.
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
   A passionate UX designer with roots in advertising and deep expertise in brand development, Andreas has been the driving force behind numerous innovative campaigns, products and services, recognized by over 50 national and international creative awards. He’s an early adopter, tech enthusiast and co-founder of the Berlin-based agency HelloDigital.
   * Alisha Grauso, Editorial Lead, https://www.linkedin.com/in/alishagrauso/, https://twitter.com/AlishaGrauso
@@ -469,25 +499,6 @@ The full list of advisors will be released shortly, several of which are high pr
 The full list of partners will be released shortly. Please [link]subscribe to our newsletter[/link] to be informed about the launch partners and other parties that have expressed interest in adopting the LGBT Token.
 
 
-## TECHNICAL INFRASTRUCTURE
-
-The LGBT Tokens will be compliant with ERC20 standard and will be based on the Ethereum blockchain.  A technical white paper will also be considered in due course. This white paper focuses on the issues that the LGBT Foundation strives to solve. A paper with further details exploring the solution will be released separately.
-
-At this stage, several elements of possible solutions are discussed as follows:
-
-### Hybrid Off-Chain/On-Chain Architecture
-
-Although the Ethereum blockchain technology is powerful due to its support for readily-deployable smart contracts, one of its oft-cited drawbacks is that it is expensive and slow to confirm a transaction. While there are a number of proposals on the roadmap to address the issue, it is presently not clear how the issue will be resolved in the near future. We are aware that the time taken to confirm a transaction on the blockchain is increasingly crucial as we move toward mass adoption, and are constantly surveying alternative solutions.
-
-As part of our ongoing research and development efforts, the LGBT Foundation and each of its partners are evaluating a hybrid architecture (off-chain/on-chain solution) to support fast transaction execution required by an increasing volume of transactions, while preserving a sufficient degree of decentralization. Furthermore, we are constantly observing the advancements made by all major blockchain infrastructure providers to use the right technology for each one of our key purposes.
-
-
-### Ethereum Settlement Layer
-
-Users wishing to transfer LGBT Token into and out of the applications will be able to do so by interacting with the public Ethereum network, which will serve as a decentralized settlement layer. Initially, users interacting with the LGBT Token inside Hornet will have a more managed experience. This will allow the early version of the system to solve for blockchain scalability bottlenecks, feeless transactions, faster transaction times, and encapsulation of complex features like private keys. Over time, we expect the LGBT Token will be used beyond the launch partners, and we expect the development of blockchain technology to accommodate these features in a decentralized setting.
-
-LGBT Foundation may be listed on public exchanges shortly after the initial Token Share and the LGBT Foundation will announce such developments accordingly.
-
 
 ## TIMELINE
 
@@ -498,11 +509,11 @@ LGBT Foundation may be listed on public exchanges shortly after the initial Toke
 - open social channels and GitHub account and start open discussion
 
 **February 2018**
-- release additional details and mechanics of the Token economics
+- release additional details and mechanics of the Token economics ("Pink Paper")
 - release of white paper in version 0.8
 
 **March 2018**
-- release of additional details concerning the technical infrastructure and APIs
+- release of additional details concerning the technical infrastructure and APIs ("Yellow Paper")
 - publish early smart contracts on GitHub
 
 **April 2018**
@@ -521,10 +532,12 @@ LGBT Foundation may be listed on public exchanges shortly after the initial Toke
 
 **Q4 2018**
 - release of API specification for the identity protection layer
-- Integration of identity protection layer in Hornet
+- first brick and mortar usage in Taipei, Sao Paulo and Paris
 
-**Q1 2019**
+**Q1/Q2 2019**
 - first additional Token generation event and launch of LGBT Impact
+- Integration of identity protection layer in Hornet
+- additional brick and mortar integration of trusted Hornet locations
 
 
 
@@ -641,6 +654,10 @@ Telegram icon and link
   * token-2: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-3: missing source
   * token-4: Currency that a government has declared to be legal tender, but not backed by a physical commodity. Most modern paper currencies are fiat currencies.
+  * token-5: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+  * token-6: https://www.princeton.edu/~rblee/ELE572Papers/CSurveys_SymmAsymEncrypt-simmons.pdf
+  * token-7: see Appendix 3
+  * token-8: https://github.com/ethereum/EIPs/issues/725/
   * impact-1: https://hornetapp.com/stories/hornet-chechnya/
   * impact-2: https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
