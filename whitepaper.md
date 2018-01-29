@@ -160,7 +160,7 @@ The LGBT Token is built on top of a decentralized ledger and while some partners
 
 The blockchain, especially in conjunction with off-chain master-node transactions, brings the promise of much faster and much cheaper transaction fees than are typical when paying by credit card.
 
-LGBT Token are intented to be used for payment at brick and mortar stores by showing the cashier a QR-code of your public wallet key. You can earn tokens for being a loyal customer in the form of discounted purchases where your loyalty is securely and privately stored on the LGBT blockchain.
+LGBT Token are intended to be used for payment at brick and mortar stores by showing the cashier a QR-code of your public wallet key. You can earn tokens for being a loyal customer in the form of discounted purchases where your loyalty is securely and privately stored on the LGBT blockchain.
 
 Apps that implement the LGBT Token will be able to charge micropayments for unlocking app features that are otherwise usually packaged as subscriptions. Being forced to pay a minimum transaction fee of at least 2% and usually a minimum absolute amount like 0.01 USD leaves no room to charge for single uses of features.
 
