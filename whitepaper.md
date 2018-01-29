@@ -41,7 +41,7 @@ Furthermore, resources from the LGBT Foundation will be allocated on an ongoing 
 **Driving adoption of LGBT Tokens in everyday transactions**
 Beyond the non-profit use of the Token, the economically more significant use of the Token is to drive its adoption as a method of payment in everyday transactions across all businesses. From the outset, Hornet Networks, the instigator of the LGBT Foundation, and its launch partners will accept the LGBT Token as a means of payment for their services. Businesses can thus demonstrate their affiliation with the LGBT community and optimize their LGBT-oriented business by being able to better target this important customer segment, which, depending on the industry, can constitute a large yet elusive element of their corporate income.
 
-The LGBT Foundation has established a Network Accelerator Program to help businesses adopt the Token, and dedicated grants worth 10% of the issued Tokens to jumpstart launch partnerships and broad community adoption. A range of practical measures, such as providing plug-ins for e-commerce stores or offering a mobile app that stores can use with their existing point-of-sale systems in physical locations in order to accept LGBT Tokens will be implemented in the future.
+The LGBT Foundation will establish a Network Accelerator Program to help businesses adopt the Token, and dedicates grants jumpstart launch partnerships and broad community adoption. A range of practical measures, such as providing plug-ins for e-commerce stores or offering a mobile app that stores can use with their existing point-of-sale systems in physical locations in order to accept LGBT Tokens will be implemented in the future.
 
 **Invitation to get involved with the LGBT Foundation**
 With backgrounds in enriching the LGBT community through innovative uses of technology, Hornet Networks and the launch team are uniquely positioned to act as catalysts to unlock the potential of the Pink Economy with blockchain.
@@ -219,7 +219,7 @@ To assist with creating a usable asset, the LGBT Foundation plans to streamline 
 
 #### Network Accelerator Program
 
-The LGBT Foundation has established a Network Accelerator Program to help businesses adopt the Token. It proposes to set aside grants of Tokens, with 10% of the issued Tokens reserved to jumpstart launch partnerships and broad community adoption.
+The LGBT Foundation will establish a Network Accelerator Program to help businesses adopt the Token. It proposes to set aside grants of Tokens reserved to jumpstart launch partnerships and broad community adoption.
 
 A portion of the Tokens will be set aside to be used by current and future LGBT Foundation members as they see fit to reward users that support their products and services. While the Tokens can be used to purchase services, for example, using the apps of the launch partners, the LGBT Foundation will also actively promote and enable other usage of Tokens. This includes, but is not limited to:
 
