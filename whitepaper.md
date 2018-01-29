@@ -12,6 +12,7 @@ Recipients are notified as follows:
   * **No offer of regulated products or services:** the LGBT Token (as described in this white paper) is not intended to constitute a security or any other regulated product or service in any jurisdiction. This white paper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction. Any offer or agreement in relation to any sale and purchase of LGBT Tokens is to be governed solely by a separate document setting out the terms and conditions (“Ts&Cs”) of such agreement. In the event of any inconsistencies between the Ts&Cs and this white paper, the former prevails.
   * **No advice:** this white paper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
   * **No representations:** no representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this white paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this white paper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
+
   * **Risk warning:** potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens.
   * **Translations:** this white paper and related materials are issued in English. Any translation is for reference purposes only and is not certified by any person. If there is any inconsistency between a translation and the English version of this white paper, the English version prevails.
   * **Restricted transmission:** this white paper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this white paper is prohibited or restricted.
@@ -57,6 +58,7 @@ To achieve its stated goals, the LGBT Foundation is inviting and seeking involve
 ## INTRODUCTION
 
 In recent years, the LGBT community<sup>int-1</sup> has reached an inflection point with an increased number of society segments and governments becoming more accepting of and providing equal rights to LGBTs. The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress. Another is that an increasing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that social responsibility is fundamental to the operation of their business, and that it is an important matter to their customers.
+
 
 Progress for the LGBT community has become visible through landmark events, such as:
 
@@ -174,6 +176,7 @@ As noted earlier, only a few companies in a few countries have fully understood 
 ` GRAPHIC OF A BRICK AND MORTAR STORE OR CLUB WITH A “LGBT TOKENS ACCEPTED” STICKER `
 
 By participating in the Pink Economy outright, however, these companies can, in an easy and meaningful manner, directly reach the LGBT community to treat LGBT consumers with the right level of attention they welcome and deserve. The LGBT Foundation will use the publicly available blockchain data to visualize the growth and usage of the LGBT Token to educate businesses and countries to accelerate their interaction with and economic inclusion of the LGBT community. Once established, LGBT Token will then use its own internal data to help establish marketing and demographic patterns to even further understand the Pink Economy.
+
 
 
 #### Endemic LGBT Economy
@@ -337,6 +340,7 @@ The Foundation invites everyone to support the project and specifically invites 
 
 > _“At Hornet, we pursue the mission to give the gay community a digital home.  We strive to foster meaningful connections between its members, to foster collaboration for the greater good, and to give advertisers a brand-safe access to the huge purchasing power of the community”_ - Christof Wittig, Hornet Founder and CEO 
 
+
 ` SMALL HORNET LOGO `
 Hornet has been a leading innovator in the gay community since 2011 and is the proud original sponsor of this proposal. It was born to create more meaningful ways to connect members of local gay communities, and has since evolved to a social lifestyle app by connecting people, listing events and locations, participating as a media outlet, giving advertisers access to the community, and actively supporting both local communities and global events.
 
@@ -380,6 +384,7 @@ The LGBT Token will be issued by the LGBT Foundation, an organization to initiat
 #### Hornet Networks
 
 Hornet helps its users to foster meaningful social connections.  It offers premium features and functions, such as “Who Checked You Out”, for users subscribing to a premium membership that is either purchased through an app store such as Apple iTunes or Google Play, Hornet’s website, or by redeeming rewards (see below).
+
 
 Hornet also sells advertising space in the app and on their website to premium advertisers through a direct salesforce, headquartered in New York City, or through advertising networks and exchanges all around the globe. Directly and indirectly, many major brands such as Verizon, GlaxoSmithKline, Iberia, Hilton, Uber, Apple are using Hornet’s massive audience reach on a social mobile channel to attract the pink dollar.
 
@@ -658,7 +663,7 @@ Telegram icon and link
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
   * launch-3: https://love.hornetapp.com/blog/2014/12/11/leading-gay-mobile-app-takes-major-steps-to-raise-hiv-awareness-among-its-4-million-members
   * launch-4: https://hornetapp.com/stories/pepe-mexican-youtuber-machismo
-  * launch-5:  http://www.unaids.org/sites/default/files/media_asset/towards-global-HIV-prevention-coalition-and-road-map_en.pdf
+  * launch-5: http://www.unaids.org/sites/default/files/media_asset/towards-global-HIV-prevention-coalition-and-road-map_en.pdf
 
 
 
