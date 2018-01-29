@@ -471,7 +471,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
   * Anne Dorman, CFO, https://www.linkedin.com/in/annedorman/, https://twitter.com/sfbeancounter<br>
     Anne has served as a Consulting Chief Financial Officer for VC backed startup companies in Silicon Valley (and beyond) for the past 25 years. Currently, she is working with game-changing companies such as Bandcamp, Coraid, Kii, Turo and a few others in stealth mode. She has been a board member of Boojum Institute, National Center for Lesbian Rights (NCLR), the Metropolitan Community Church (MCC), and Resourceful Women, and was Chair of the Board of Prescott College through the leadership transition of three presidents.
   * Anna Kim, Legal Counsel, https://www.linkedin.com/in/anna-kim-16365146/<br>
-  `BIO MISSING`
+    Anna is a senior legal consultant at KorumLegal, a boutique legal consultancy firm committed to providing flexible, innovative and client-centric legal solutions. Having background in computer science, Anna is passionate about both law and technology.
   * NN, Compliance
 
 
