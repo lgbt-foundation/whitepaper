@@ -566,7 +566,7 @@ Hornet Networks Founder and CEO
 
 # APPENDICES
 
-## Appendix - The LGBT Foundation
+## Appendix 1 - The LGBT Foundation
 
 The LGBT Foundation is a Hong Kong-based private company with the goal of supporting genuine equality and advancing the aims of the LGBT community across the world. By harnessing the power and potential of blockchain technology and other technological innovations, the LGBT Foundation aims to foster greater acceptance of the LGBT community, drive positive social change for the benefit of its members, and protect vulnerable community members. Its goal is to foster and realize the potential of the Pink Economy, and provide a safe and secure environment to access cryptocurrencies and other products and services, enabling members to verify and protect their identities as required.
 
@@ -609,6 +609,68 @@ Supporting the LGBT community clearly is an external task for the outside world 
 ### Voting Mechanism
 
 The Advisory Board of the LGBT Foundation will regularly submit grant proposals that it believes deserves LGBT Impact support on the LGBT Foundation website. Each Token holder will be able to cast votes in support of the projects they believe should receive support. The number of votes is proposed to be equal to the number of Tokens a person holds.  The details of this voting mechanism will be announced in due course.
+
+
+## Appendix 2 - The Hornet Reward Program
+
+` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. `
+
+Hornet formalized  the Hornet Reward Model in 2016 to allow the community to more actively participate in the development and improvement of the Hornet ecosystem. The program explicitly accepted contributions to improve the quality of the app for all of its members. Participation ranged from beta testing new features, to translating the app in more languages to - most importantly - supporting the local communities by becoming brand and city ambassadors. Recently, the programs have also evolved into accepting content submissions (like articles by users) and unveiling a feature called rewarded video which allows users to gain access to premium features by watching videos from advertisers and earn special perks for their loyalty.
+
+` ENTER IMAGE: HORNET REWARD POINT PROGRAM - THE IMAGE FROM https://hornetapp.com/community/programs/ `
+
+The amount of contribution is astounding, growing by more than 250% MoM in 2017 and generating a total of over one million reward points, the majority of which have been redeemed for in-app premium services, gift cards and merchandise.
+
+The rate of adoption of the Reward Program is encouraging and showcases an active, engaged audience with a high brand identification. It became clear to Hornet that not only does this provide a unique opportunity to transition the Rewards Program to a cryptocurrency, it is also an obligation to reward its users in the best way possible. Hornet developed a prototype to convert the Reward Program from its proprietary system to a blockchain solution in Q3 of 2017, which eventually led to this paper.
+
+` IMAGE: CHART OF COMMUNITY PROGRAM GROWTH WITH ACTUALS AND ESTIMATES - LET'S DISCUSS IN PERSON `
+
+The Hornet Reward Program includes a widespread range of activities to support and foster a healthy ecosystem and brand perception, including:
+
+- Participants of a national KY sponsored survey in Brazil received points as rewards which they later claimed in the community web shop (in the process getting familiar with additional ways to contribute and earning points)
+- Featured Hornet users lent their images for a promotional campaign in the Paris Metro and got rewarded with points with the same outcome
+- community program participants are periodically rewards with points after submitting their contributions (translations, app moderations, etc) thanks to an automated process
+
+With users already familiar with the digital economy of the Rewards Program and the same surface mechanics applying, Hornet feels the shift to conducting transactions with LGBT Token will be a smooth and logical transition for users.  Hornet is the first to pledge full support for LGBT Token in all aspects of its business by December 31, 2018. This puts the core of Hornet’s existing user base with its robust and growing economy at the forefront of driving adoption for the LGBT Token, and instantly allow 25 million users to participate in the pink economy with the push of a button.
+
+
+## Appendix 3 - Example Use Case: Hornet Wallet
+
+` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. (same info box as above) `
+
+The initial requirement for a wide adoption is an easily accessed wallet. Hornet pledges to build the initial wallet as a showcase for other launch partners, including simple private key storage and backup capabilities, as well as QR code and NFC support.
+
+The wallet will allow users to send and receive money to and from one another, as well as provide transaction information about digital services purchased in Hornet and earned via the Hornet Reward Program.
+
+The LGBT Foundation recognizes that ease of use, a simple and reliable way of using cryptocurrencies, is important to build trust for the 25 million users of Hornet. The LGBT Foundation is committed to significantly reducing onboarding frictions known from other wallets and allowing users to use the wallet without any prior expertise with cryptocurrencies.
+
+` USE WALLET IMAGES AS BEST SUITED `
+
+
+## Appendix 4 - Example Use Case: Ticket Purchase
+
+` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. (same info box as above) `
+
+Hornet has trusted relationships with event venues in many major cities (e.g. Paris, Sao Paulo, Taipei, Hong Kong) and intends to enable ticket purchases as well as in-store purchases using LGBT Token.
+
+This is an ideal use case to leverage the identity protection layer, as the event can request certain mandatory and optional information (like demographics and personal information). The user will stay in full control of what information they share with the venue.
+
+If sufficient data has been shared, and the user can pay the required amount, a ticket is generated for the user. This also allows easy reward and payback scenarios, if additional data is being shared, or a user is a loyal visitor of the venue.
+
+` USE TICKET IMAGES AS BEST SUITED `
+
+
+## Appendix 5 - Example Use Case: LGBT Impact
+
+` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. (same info box as above) `
+
+The LGBT Impact program will select individuals and not-for-profit organizations that seek funds and provide a significant service to the LGBT community. The LGBT Foundation and its advisers will conduct careful audits before listing any organization but intends to allow user submissions to allow a wide spectrum of supported entities. The LGBT Impact program will focus on small scale operations on underdeveloped regions. Once selected, the list of individuals and organizations will be made public to either donate to these projects directly (crowdfunding approach) or by staking LGBT Tokens to cast votes on the distribution for the LGBT Impact funds.
+
+Hornet and future partners pledge to make donations visible, if supported by the application and intended by the user that donated.
+
+The LGBT Foundation will approach large charity organizations to match donations by burning Tokens from LGBT Impact funds.
+
+` USE IMPACT IMAGES AS BEST SUITED `
 
 
 ### LAST PAGE (not an actual headline, just a page break reminder)
@@ -654,9 +716,8 @@ Telegram icon and link
   * token-6: Currency that a government has declared to be legal tender, but not backed by a physical commodity. Most modern paper currencies are fiat currencies.
   * impact-1: https://hornetapp.com/stories/hornet-chechnya/
   * impact-2: https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
-  * token-7: see Appendix 3
+  * token-7: see Appendix 2
   * token-8: https://www.princeton.edu/~rblee/ELE572Papers/CSurveys_SymmAsymEncrypt-simmons.pdf
-  
   * token-9: https://github.com/ethereum/EIPs/issues/725/
   * launch-1: https://hornetapp.com/stories/casa-1-lgbtq-shelter-local-landmark
   * launch-2: https://hornetapp.com/stories/voguing-balls-paris-documentary
