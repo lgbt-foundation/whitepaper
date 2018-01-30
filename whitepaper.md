@@ -462,7 +462,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
   * Sean Howell, LGBT Impact, https://www.linkedin.com/in/seanhornet/, https://twitter.com/howell4change<br>
     Sean is an activist turned entrepreneur and Hornet's Co-Founder and President. Prior to Hornet, he was a fellow of the World Affairs Council and President of the Young Professional International Network. He helps hundreds of organizations leverage technology to expand their impact through his work with the MSM Global Forum, UNAIDS, E-CDC, PFLAG and Center for Public Health and Human Rights at John Hopkins. Sean is also a founding member of the UN Global Coalition for HIV Prevention and technical advisor to UNDPs and the World Bank LGBTI Index.
   * Llew Claasen, Token Economics, https://www.linkedin.com/in/llew-claasen-aa7145/, https://twitter.com/llewclaasen<br>
-    Llew is a seasoned technology go-to-market strategist with deep expertise in designing, building, merchandising and marketing Online & Mobile software products and services (B2B, B2C, B2B2C). He currently serves as the Executive Director of the Bitcoin Foundation.
+    Llew is a highly experienced technology go-to-market strategist with deep expertise in designing, building, merchandising and marketing online & mobile software products and services (B2B, B2C, B2B2C). He currently serves as the Executive Director of the Bitcoin Foundation.
   * Alex Conway, Technical Lead, https://www.linkedin.com/in/alex-conway-042666105/, https://twitter.com/alxcnwy<br>
     Alex is a data scientist / machine learning researcher / nerd. He is the founder and lead data scientist at NumberBoost, a machine learning software consultancy that has won multiple startup competitions including with Mercedes-Benz and MultiChoice. NumberBoost develops full-stack solutions to machine learning problems across all verticals. He has experience building software solutions in all kinds of stacks and situations, managing small and large tech teams.
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
@@ -474,7 +474,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
   * Anna Kim, Legal Counsel, https://www.linkedin.com/in/anna-kim-16365146/<br>
     Anna is a senior legal consultant at KorumLegal, a boutique legal consultancy firm committed to providing flexible, innovative and client-centric legal solutions. Having background in computer science, Anna is passionate about both law and technology.
   * Scott Benson, Compliance, https://www.linkedin.com/in/scottbensonbsaaml/<br>
-    Scott is a 20+ year veteran of Operations, Compliance and Risk functions responsible for delivering "best-in-class" protocols with a record of progressive responsibility and significant achievement in development of standardized Operations, Administration and Compliance for Bitcoin, Blockchain, Payments, FinTech, RegTech, InsureTech, MSB/MTL, Securities, Banks and Insurance.
+    Scott Benson is a seasoned operations professional and regulatory compliance specialist, with experience in building, managing, and maintaining compliance programs for regulated entities. He has held multiple senior level compliance and operations roles at various banks, broker dealers and insurance companies including Citigroup, Merrill Lynch and Co., Northwestern Mutual Investment Services, RBC Wealth Management and MetLife Securities with a tenure as a Senior Examiner with FINRA.
 
 
 ### Advisers
