@@ -479,7 +479,10 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
 
 ### Advisers
 
-The full list of advisers will be released shortly, several of which are high profile members of the LGBT or crypto community with significant track records in past Token Sales. The announcement will be made when the right balance of diverse advisers has been established.
+  * Vinnie Lingham, CEO Civic, https://www.linkedin.com/in/vinnylingham/
+  * Andres Wydler, Managing Director startout.org, https://www.linkedin.com/in/awydler/
+  * Paulo Trezentos, CEO Aptoid, https://www.linkedin.com/in/paulotrezentos/
+  * Erik Lamontage, Senior Economist UNAIDS, https://www.linkedin.com/in/erik-lamontagne-68456812/
 
 
 ### Service Providers
