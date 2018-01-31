@@ -713,8 +713,8 @@ Telegram icon and link
   * inequ-2: https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report
   * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
   * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
-  * token-1: https://en.wikipedia.org/wiki/ERC20
-  * token-2: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+  * token-1: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+  * token-2: https://www.ethereum.org/
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
