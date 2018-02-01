@@ -474,7 +474,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
   * Anna Kim, Legal Counsel, https://www.linkedin.com/in/anna-kim-16365146/, https://twitter.com/hk_ankim<br>
     Anna is a senior legal consultant at KorumLegal, a boutique legal consultancy firm committed to providing flexible, innovative and client-centric legal solutions. Having background in computer science, Anna is passionate about both law and technology.
   * Scott Benson, Compliance, https://www.linkedin.com/in/scottbensonbsaaml/<br>
-    Scott is a 20+ year veteran of Operations, Compliance and Risk functions responsible for delivering "best-in-class" protocols with a record of progressive responsibility and significant achievement in development of standardized Operations, Administration and Compliance for Bitcoin, Blockchain, Payments, FinTech, RegTech, InsureTech, MSB/MTL, Securities, Banks and Insurance.
+    Scott Benson is a seasoned operations professional and regulatory compliance specialist, with experience in building, managing, and maintaining compliance programs for regulated entities. He has held multiple senior level compliance and operations roles at various banks, broker dealers and insurance companies including Citigroup, Merrill Lynch and Co., Northwestern Mutual Investment Services, RBC Wealth Management and MetLife Securities including a tenure as a Senior Examiner with FINRA.
 
 
 ### Advisers
