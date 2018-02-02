@@ -471,15 +471,17 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
     Alisha is an experienced writer and editor with a focus on marketing and startups. As the former editor-at-large of Movie Pilot, she built the editorial team and helped grow the largest entertainment fan community in the world. An outspoken voice, she regularly uses her writing and social media platforms to champion women's rights, LGBT rights and diversity.
   * Anne Dorman, CFO, https://www.linkedin.com/in/annedorman/, https://twitter.com/sfbeancounter<br>
     Anne has served as a Consulting Chief Financial Officer for VC backed startup companies in Silicon Valley (and beyond) for the past 25 years. Currently, she is working with game-changing companies such as Bandcamp, Coraid, Kii, Turo and a few others in stealth mode. She has been a board member of Boojum Institute, National Center for Lesbian Rights (NCLR), the Metropolitan Community Church (MCC), and Resourceful Women, and was Chair of the Board of Prescott College through the leadership transition of three presidents.
-  * Anna Kim, Legal Counsel, https://www.linkedin.com/in/anna-kim-16365146/<br>
+  * Anna Kim, Legal Counsel, https://www.linkedin.com/in/anna-kim-16365146/, https://twitter.com/hk_ankim<br>
     Anna is a senior legal consultant at KorumLegal, a boutique legal consultancy firm committed to providing flexible, innovative and client-centric legal solutions. Having background in computer science, Anna is passionate about both law and technology.
   * Scott Benson, Compliance, https://www.linkedin.com/in/scottbensonbsaaml/<br>
-    Scott Benson is a seasoned operations professional and regulatory compliance specialist, with experience in building, managing, and maintaining compliance programs for regulated entities. He has held multiple senior level compliance and operations roles at various banks, broker dealers and insurance companies including Citigroup, Merrill Lynch and Co., Northwestern Mutual Investment Services, RBC Wealth Management and MetLife Securities with a tenure as a Senior Examiner with FINRA.
-
+    Scott Benson is a seasoned operations professional and regulatory compliance specialist, with experience in building, managing, and maintaining compliance programs for regulated entities. He has held multiple senior level compliance and operations roles at various banks, broker dealers and insurance companies including Citigroup, Merrill Lynch and Co., Northwestern Mutual Investment Services, RBC Wealth Management and MetLife Securities including a tenure as a Senior Examiner with FINRA.
 
 ### Advisers
 
-The full list of advisers will be released shortly, several of which are high profile members of the LGBT or crypto community with significant track records in past Token Sales. The announcement will be made when the right balance of diverse advisers has been established.
+  * Vinny Lingham, CEO Civic, https://www.linkedin.com/in/vinnylingham/
+  * Andres Wydler, Managing Director startout.org, https://www.linkedin.com/in/awydler/
+  * Paulo Trezentos, CEO Aptoid, https://www.linkedin.com/in/paulotrezentos/
+  * Erik Lamontage, Senior Economist UNAIDS, https://www.linkedin.com/in/erik-lamontagne-68456812/
 
 
 ### Service Providers
@@ -570,7 +572,7 @@ Hornet Networks Founder and CEO
 
 ## Appendix 1 - The LGBT Foundation
 
-The LGBT Foundation is a Hong Kong-based private company with the goal of supporting genuine equality and advancing the aims of the LGBT community across the world. By harnessing the power and potential of blockchain technology and other technological innovations, the LGBT Foundation aims to foster greater acceptance of the LGBT community, drive positive social change for the benefit of its members, and protect vulnerable community members. Its goal is to foster and realize the potential of the Pink Economy, and provide a safe and secure environment to access cryptocurrencies and other products and services, enabling members to verify and protect their identities as required.
+The LGBT Foundation is a Hong Kong-based private company with the goal of supporting genuine equality and advancing the aims of the LGBT community across the world. Harnessing the power and potential of blockchain technology and other technological innovations, the LGBT Foundation aims to foster greater acceptance of the LGBT community, drive positive social change for the benefit of its members, and protect vulnerable community members. Its goal is to foster and realize the potential of the Pink Economy, and provide a safe and secure environment to access cryptocurrencies and other products and services, enabling members to verify and protect their identities as required.
 
 Is is therefore envisioned as an ecosystem and technical infrastructure for all partners that accept and adopt LGBT Token. The LGBT Foundation is intended as an independent and democratic governance body for its members.
 
@@ -710,8 +712,8 @@ Telegram icon and link
   * inequ-2: https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report
   * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
   * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
-  * token-1: https://en.wikipedia.org/wiki/ERC20
-  * token-2: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+  * token-1: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+  * token-2: https://www.ethereum.org/
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
