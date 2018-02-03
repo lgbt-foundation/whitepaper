@@ -742,6 +742,7 @@ Telegram icon and link
 
   * The overall layout of the white paper is rather a brochure than a technical paper. We will release a more technical _yellow paper_ and a more traditional white paper layout later. Alternatively, we could call this one the Pink Paper :)
   * Please use a smaller font for the legal disclaimer, so it's not as prominent as the rest.
+  * Please have the official website as part of the footer
   * Embrace white space
   * Footnote int-1 used twice on purpose
   * Each H1 headline (UPCASE headlines) start a new page, ideally in a visually distinguishable fashion
