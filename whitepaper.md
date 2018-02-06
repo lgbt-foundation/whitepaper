@@ -127,7 +127,7 @@ In a breakout report from the National Center for Transgender Equality’s U.S. 
   * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents
   * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population
 
-The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 72 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities.<sup>inequ-2</sup> In ten countries, the death penalty is an official legal punishment for being gay or partaking in same-sex activities<sup>inequ-3</sup>.
+The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 72 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities.<sup>inequ-2</sup> In ten countries, the death penalty is an official legal punishment for being gay or partaking in same-sex sexual activities<sup>inequ-3</sup>.
 
 ` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
 
@@ -297,7 +297,7 @@ Creating a trusted and decentralized identity layer that can be used across the 
 
 #### Voting & Decentralized Governance
 
-For the LGBT Impact program, the LGBT Foundation will mint new tokens on a fixed rate of 1% of the circulation at that point. The newly minted funds will be distributed towards individuals and organizations. To determine the exact allocations of the different organizations, users can cast votes using smart contracts. Voting on the blockchain is public and untamperable (while still privacy preserving)<sup>token-8</sup>.
+For the LGBT Impact program, the LGBT Foundation will mint new tokens at a fixed rate of 1% of the circulation at that point. The newly minted funds will be distributed towards individuals and organizations. To determine the exact allocations of the different organizations, users can cast votes using smart contracts. Voting on the blockchain is public and untamperable (while still privacy preserving)<sup>token-8</sup>.
 
 The recently proposed ERC-725 standard<sup>token-9</sup> suggests new standards to enable voting - including delegated voting - to smart contracts on the Ethereum blockchain. It is already possible to implement a voting contract using the ERC-20 standard and this is the course we will take for now. Implementing "delegated voting" is further down the roadmap but it is feasible that users may nominate a reputable member of the community or third party charity and let them proxy the user's "delegated vote."
 
@@ -419,13 +419,13 @@ Additional tokens will be distributed as follows.
 
 ### Network Acceleration Program and Incentives
 
-To kickstart the ecosystem of the launch partners and future LGBT Foundation members, a significant portin of the Tokens will be granted to the users of the participating partners. This will allow each app or community to immediately utilize the Tokens and to move existing reward programs seamlessly to the LGBT Token.
+To kickstart the ecosystem of the launch partners and future LGBT Foundation members, a significant portion of the Tokens will be granted to the users of the participating partners. This will allow each app or community to immediately utilize the Tokens and to move existing reward programs seamlessly to the LGBT Token.
 
 The Tokens will be carefully assigned to partners in the coming years as approved by the LGBT Token Advisory Board.
 
 Additional Tokens are being used as compensation for the hard work of many people that made this initiative a reality, but they are also meant as an incentive for future contributors to the LGBT Foundation. All Team Tokens will be locked for at least 12 months and are vested over time while being bound to milestones and goals.
 
-Furthermore, some Token supply is reserved for current and future contributors of the LGBT Foundation, including service providers such as legal, marketing or technical experts, and a roster of advisers from a wide range of backgrounds. The Tokens will be generally in lock-up and are vested based on milestones such as reaching a certain adaption rate or bringing a certain number of partners on board.
+Furthermore, some Token supply is reserved for current and future contributors of the LGBT Foundation, including service providers such as legal, marketing or technical experts, and a roster of advisers from a wide range of backgrounds. The Tokens will be generally in lock-up and are vested based on milestones such as reaching a certain adoption rate or bringing a certain number of partners on board.
 
 
 ### Token Reserve
@@ -619,7 +619,7 @@ The Advisory Board of the LGBT Foundation will regularly submit grant proposals 
 
 ` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. `
 
-Hornet formalized  the Hornet Reward Model in 2016 to allow the community to more actively participate in the development and improvement of the Hornet ecosystem. The program explicitly accepted contributions to improve the quality of the app for all of its members. Participation ranged from beta testing new features, to translating the app in more languages to - most importantly - supporting the local communities by becoming brand and city ambassadors. Recently, the programs have also evolved into accepting content submissions (like articles by users) and unveiling a feature called rewarded video which allows users to gain access to premium features by watching videos from advertisers and earn special perks for their loyalty.
+Hornet formalized  the Hornet Reward Model in 2016 to allow the community to more actively participate in the development and improvement of the Hornet ecosystem. The program explicitly accepted contributions to improve the quality of the app for all of its members. Participation ranged from beta testing new features, to translating the app in more languages to - most importantly - supporting the local communities by becoming brand and city ambassadors. Recently, the programs have also evolved into accepting content submissions (like articles by users) and unveiling a feature called rewarded video which allows users to gain access to premium features by watching videos from advertisers, earning special perks for their loyalty.
 
 ` ENTER IMAGE: HORNET REWARD POINT PROGRAM - THE IMAGE FROM https://hornetapp.com/community/programs/ `
 
@@ -632,7 +632,7 @@ The rate of adoption of the Reward Program is encouraging and showcases an activ
 The Hornet Reward Program includes a widespread range of activities to support and foster a healthy ecosystem and brand perception, including:
 
 - Participants of a national KY sponsored survey in Brazil received points as rewards which they later claimed in the community web shop (in the process getting familiar with additional ways to contribute and earning points)
-- Featured Hornet users lent their images for a promotional campaign in the Paris Metro and got rewarded with points with the same outcome
+- Featured Hornet users lent their images for a promotional campaign in the Paris Metro and got rewarded with points to use in the web shop
 - community program participants are periodically rewards with points after submitting their contributions (translations, app moderations, etc) thanks to an automated process
 
 With users already familiar with the digital economy of the Rewards Program and the same surface mechanics applying, Hornet feels the shift to conducting transactions with LGBT Token will be a smooth and logical transition for users.  Hornet is the first to pledge full support for LGBT Token in all aspects of its business by December 31, 2018. This puts the core of Hornet’s existing user base with its robust and growing economy at the forefront of driving adoption for the LGBT Token, and instantly allow 25 million users to participate in the pink economy with the push of a button.
@@ -668,7 +668,7 @@ If sufficient data has been shared, and the user can pay the required amount, a 
 
 ` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. (same info box as above) `
 
-The LGBT Impact program will select individuals and not-for-profit organizations that seek funds and provide a significant service to the LGBT community. The LGBT Foundation and its advisers will conduct careful audits before listing any organization but intends to allow user submissions to allow a wide spectrum of supported entities. The LGBT Impact program will focus on small scale operations on underdeveloped regions. Once selected, the list of individuals and organizations will be made public to either donate to these projects directly (crowdfunding approach) or by staking LGBT Tokens to cast votes on the distribution for the LGBT Impact funds.
+The LGBT Impact program will select individuals and not-for-profit organizations that seek funds and provide a significant service to the LGBT community. The LGBT Foundation and its advisers will conduct careful audits before listing any organization but intends to allow user submissions to allow a wide spectrum of supported entities. The LGBT Impact program will focus on small scale operations in underdeveloped regions. Once selected, the list of individuals and organizations will be made public to either donate to these projects directly (crowdfunding approach) or by staking LGBT Tokens to cast votes on the distribution for the LGBT Impact funds.
 
 Hornet and future partners pledge to make donations visible, if supported by the application and intended by the user that donated.
 
