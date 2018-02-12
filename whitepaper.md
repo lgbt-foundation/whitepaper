@@ -480,7 +480,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
 
   * Vinny Lingham, CEO Civic, https://www.linkedin.com/in/vinnylingham/
   * Andres Wydler, Managing Director startout.org, https://www.linkedin.com/in/awydler/
-  * Paulo Trezentos, CEO Aptoid, https://www.linkedin.com/in/paulotrezentos/
+  * Paulo Trezentos, CEO Aptoide, https://www.linkedin.com/in/paulotrezentos/
   * Erik Lamontage, Senior Economist UNAIDS, https://www.linkedin.com/in/erik-lamontagne-68456812/
 
 
