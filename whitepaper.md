@@ -62,7 +62,7 @@ Progress for the LGBT community has become visible through landmark events, such
 
   * legal recognition of marriage equality in 26 countries including the United States of America, Australia, Colombia, and South Africa, and soon with Taiwan and Austria to follow<sup>int-2</sup>;
   * the emergence of publicly open LGBT politicians in senior leadership roles, such as Jóhanna Sigurðardóttir, the Prime Minister of Iceland, in January 2009 and Leo Varadkar, the Irish Taoiseach, as of June 2017<sup>int-3</sup>;
-  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013<sup>int-5</sup>;
+  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013 followed by a pardon of all men cautioned or convicted under historical legislation that outlawed homosexual acts in England and Wales.<sup>int-5</sup>;
   * the supportive stance of a large part of the international community toward eliminating remaining anti-LGBT laws and constraining leaders in less progressive countries, most visibly in the United Nations Human Rights Council’s 2011 Resolution on LGBT Rights and General Assembly declaration of LGBT rights, signed by a combined 99 member states<sup>int-6</sup>, and;
   * improvements in treatment, cure, prevention, and increased de-stigmatization of HIV/AIDS, such as the FDA approval for Truvada as pre-exposure prophylaxis (PrEP) in 2012<sup>int-7</sup> and Prince Harry’s continued call to de-stigmatize HIV in 2017<sup>int-8</sup>.
 
@@ -698,7 +698,7 @@ Telegram icon and link
   * int-2: https://en.wikipedia.org/wiki/Same-sex_marriage
   * int-3: https://www.usnews.com/news/best-countries/slideshows/openly-lgbt-world-leaders
   * int-4: http://www.cbc.ca/news/politics/100-million-apology-gay-purge-victims-1.4421921
-  * int-5: http://www.bbc.com/news/technology-25495315
+  * int-5: https://en.wikipedia.org/wiki/Alan_Turing_law
   * int-6: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * int-7: https://aidsinfo.nih.gov/news/1254/fda-approves-first-drug-for-reducing-the-risk-of-sexually-acquired-hiv-infection
   * int-8: https://www.theguardian.com/uk-news/2017/oct/13/prince-harry-calls-for-society-to-embrace-hiv-aids-tests-diana
@@ -707,7 +707,7 @@ Telegram icon and link
   * int-11: https://genctraveller.com/
   * int-12: http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract
   * int-13: http://onlinelibrary.wiley.com/doi/10.1002/soej.12233/full
-  * int-14: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
+  * int-14: https://www.ncbi.nlm.nih.gov/pubmed/29514190
   * inequ-1: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
   * inequ-2: https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report
   * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
