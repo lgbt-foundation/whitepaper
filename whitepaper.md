@@ -708,16 +708,15 @@ Telegram icon and link
   * int-12: http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract
   * int-13: http://onlinelibrary.wiley.com/doi/10.1002/soej.12233/full
   * int-14: https://www.ncbi.nlm.nih.gov/pubmed/29514190
-  * inequ-1: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
-  * inequ-2: https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report
-  * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
+  * inequ-1: https://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF
+  * inequ-2: https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory
   * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * token-1: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
-  * token-2: https://www.ethereum.org/
+  * token-2: https://en.wikipedia.org/wiki/Ethereum
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
-  * token-6: Currency that a government has declared to be legal tender, but not backed by a physical commodity. Most modern paper currencies are fiat currencies.
+  * token-6: Fiat currency is declared to be legal tender by government, but not backed by a physical commodity such as the old gold-standard. Most modern paper currencies are fiat currencies regulated and valued by governmental regulation.
   * impact-1: https://hornetapp.com/stories/hornet-chechnya/
   * impact-2: https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
   * token-7: see Appendix 2
