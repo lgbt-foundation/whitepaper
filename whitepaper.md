@@ -73,7 +73,7 @@ This hard work is far from over. There are still many countries in which openly 
 
 ### Understanding the Challenges
 
-There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies becomes available.
+There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies become available.
 
 The most fundamental and initial challenge we aim to solve is an insufficient definition and understanding of the size of the global LGBT community. The size of the LGBT community is measured from voluntary reporting of sexual orientation and behavior. Clearly, respondents' willingness to do this can vary considerably by country, region and age group. This leads to difficulty measuring the exact size of the global LGBT population.
 
@@ -710,13 +710,14 @@ Telegram icon and link
   * int-14: https://www.ncbi.nlm.nih.gov/pubmed/29514190
   * inequ-1: https://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF
   * inequ-2: https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory
+  * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
   * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * token-1: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
   * token-2: https://en.wikipedia.org/wiki/Ethereum
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
-  * token-6: Fiat currency is declared to be legal tender by government, but not backed by a physical commodity such as the old gold-standard. Most modern paper currencies are fiat currencies regulated and valued by governmental regulation.
+  * token-6: Fiat currency is declared to be legal tender by government, but not backed by a physical commodity such as the old gold standard. Most modern paper currencies are fiat currencies regulated and valued by governmental regulation.
   * impact-1: https://hornetapp.com/stories/hornet-chechnya/
   * impact-2: https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
   * token-7: see Appendix 2
