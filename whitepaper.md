@@ -62,7 +62,7 @@ Progress for the LGBT community has become visible through landmark events, such
 
   * legal recognition of marriage equality in 26 countries including the United States of America, Australia, Colombia, and South Africa, and soon with Taiwan and Austria to follow<sup>int-2</sup>;
   * the emergence of publicly open LGBT politicians in senior leadership roles, such as Jóhanna Sigurðardóttir, the Prime Minister of Iceland, in January 2009 and Leo Varadkar, the Irish Taoiseach, as of June 2017<sup>int-3</sup>;
-  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013<sup>int-5</sup>;
+  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013 followed by a pardon of all men cautioned or convicted under historical legislation that outlawed homosexual acts in England and Wales.<sup>int-5</sup>;
   * the supportive stance of a large part of the international community toward eliminating remaining anti-LGBT laws and constraining leaders in less progressive countries, most visibly in the United Nations Human Rights Council’s 2011 Resolution on LGBT Rights and General Assembly declaration of LGBT rights, signed by a combined 99 member states<sup>int-6</sup>, and;
   * improvements in treatment, cure, prevention, and increased de-stigmatization of HIV/AIDS, such as the FDA approval for Truvada as pre-exposure prophylaxis (PrEP) in 2012<sup>int-7</sup> and Prince Harry’s continued call to de-stigmatize HIV in 2017<sup>int-8</sup>.
 
@@ -73,7 +73,7 @@ This hard work is far from over. There are still many countries in which openly 
 
 ### Understanding the Challenges
 
-There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies becomes available.
+There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies become available.
 
 The most fundamental and initial challenge we aim to solve is an insufficient definition and understanding of the size of the global LGBT community. The size of the LGBT community is measured from voluntary reporting of sexual orientation and behavior. Clearly, respondents' willingness to do this can vary considerably by country, region and age group. This leads to difficulty measuring the exact size of the global LGBT population.
 
@@ -698,7 +698,7 @@ Telegram icon and link
   * int-2: https://en.wikipedia.org/wiki/Same-sex_marriage
   * int-3: https://www.usnews.com/news/best-countries/slideshows/openly-lgbt-world-leaders
   * int-4: http://www.cbc.ca/news/politics/100-million-apology-gay-purge-victims-1.4421921
-  * int-5: http://www.bbc.com/news/technology-25495315
+  * int-5: https://en.wikipedia.org/wiki/Alan_Turing_law
   * int-6: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * int-7: https://aidsinfo.nih.gov/news/1254/fda-approves-first-drug-for-reducing-the-risk-of-sexually-acquired-hiv-infection
   * int-8: https://www.theguardian.com/uk-news/2017/oct/13/prince-harry-calls-for-society-to-embrace-hiv-aids-tests-diana
@@ -707,17 +707,17 @@ Telegram icon and link
   * int-11: https://genctraveller.com/
   * int-12: http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract
   * int-13: http://onlinelibrary.wiley.com/doi/10.1002/soej.12233/full
-  * int-14: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
-  * inequ-1: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
-  * inequ-2: https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report
+  * int-14: https://www.ncbi.nlm.nih.gov/pubmed/29514190
+  * inequ-1: https://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF
+  * inequ-2: https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory
   * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
   * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * token-1: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
-  * token-2: https://www.ethereum.org/
+  * token-2: https://en.wikipedia.org/wiki/Ethereum
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
-  * token-6: Currency that a government has declared to be legal tender, but not backed by a physical commodity. Most modern paper currencies are fiat currencies.
+  * token-6: Fiat currency is declared to be legal tender by government, but not backed by a physical commodity such as the old gold standard. Most modern paper currencies are fiat currencies regulated and valued by governmental regulation.
   * impact-1: https://hornetapp.com/stories/hornet-chechnya/
   * impact-2: https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
   * token-7: see Appendix 2
