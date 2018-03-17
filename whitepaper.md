@@ -399,7 +399,7 @@ Furthermore, Hornet pledges to migrate its existing Reward program for community
 
 The LGBT Foundation will initially issue a total of 1,000,000,000 LGBT Tokens.
 
-At the initial Token Sale, up to 20% or 200,000,000 Tokens will be distributed to the public in exchange for Ether contribution. Additional details about the initial Token Sale will be announced on the website [link]lgbt-token.org[/link]. An additional 10% or 100,000,000 Tokens will be offered after at least six months and when approvals for additional jurisdictions have been obtained (for example the U.S.). All Tokens not being sold during the initial Token Sale or the second Token Sale will be burned.
+At the initial Token Sale, up to 20% or 200,000,000 Tokens will be distributed in exchange for Ether contribution. Additional details about the initial Token Sale will be announced on the website [link]lgbt-token.org[/link]. An additional 10% or 100,000,000 Tokens will be offered after at least six months and when approvals for additional jurisdictions have been obtained (for example the U.S.). All Tokens not being sold during the initial Token Sale or the second Token Sale will be burned.
 
 The proceeds of the initial Token Sales are proposed to be utilized to finance the development of the infrastructure described in this white paper.
 
@@ -497,47 +497,6 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
 ### Partners
 
 The full list of partners will be released shortly. Please [link to lgbt-token.org]subscribe to our newsletter[/link] to be informed about the launch partners and other parties that have expressed interest in adopting the LGBT Token.
-
-
-
-## TIMELINE
-
-`please visualize the timeline in a way that you find most useful`
-
-**January 2018**
-- release of white paper in version 0.7
-- open social channels and GitHub account and start open discussion
-
-**February 2018**
-- release additional details and mechanics of the Token economics ("Pink Paper")
-- release of white paper in version 0.8
-
-**March 2018**
-- release of additional details concerning the technical infrastructure and APIs ("Yellow Paper")
-- publish early smart contracts on GitHub
-
-**April 2018**
-- release of white paper in version 1.0
-- pre-sale Token offering (one week)
-- public Token Sale (four weeks)
-
-**Q2 2018**
-- Token issuance event and Token distribution
-- implementation of Hornet wallet
-- release of public API specifications and libraries for future integrations
-- transfer of Hornet Reward Model to LGBT Token
-
-**Q3 2018**
-- Implementation of wallet and payment systems for launch partners
-
-**Q4 2018**
-- release of API specification for the identity protection layer
-- first brick-and-mortar usage in Taipei, Sao Paulo and Paris
-
-**Q1/Q2 2019**
-- first additional Token generation event and launch of LGBT Impact
-- integration of identity protection layer in Hornet
-- additional brick-and-mortar integration of trusted Hornet locations
 
 
 
