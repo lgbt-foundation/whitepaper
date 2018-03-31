@@ -328,11 +328,8 @@ The voting structure will work as follows:
 * A selection of charities will be chosen for any token holder to be able to submit a vote from their wallet. A token holder’s wallet will consist of LGBT tokens which have been deposited into the account at different times with ![n](http://latex.codecogs.com/gif.latex?%5Cinline%20n) different UTXOs (unspent transactions). Each UTXO ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) can be represented as an amount deposited ![D_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20D_%7Bi%7D) and a ‘time since deposited’ ![t_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20t_%7Bi%7D) (i.e. ![(D, t_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28D%2C%20t_%7Bi%7D%29)).
 * The voting weight for this particular UTXO can then be calculated as 
 ![V_{i} = D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}
-](http://latex.codecogs.com/gif.latex?%5Cinline%20V_%7Bi%7D%20%3D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D) so that a token holder’s total vote weight is
-<div style="text-align:center">
-![\sum _{i=1} ^{n} V_{i} = \sum _{i=1} ^{n} D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}](http://latex.codecogs.com/gif.latex?%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20V_%7Bi%7D%20%3D%20%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D)
-
-</div>
+](http://latex.codecogs.com/gif.latex?%5Cinline%20V_%7Bi%7D%20%3D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D) so that a token holder’s total vote weight is<br/>
+![\sum _{i=1} ^{n} V_{i} = \sum _{i=1} ^{n} D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}](http://latex.codecogs.com/gif.latex?%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20V_%7Bi%7D%20%3D%20%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D)<br/>
 Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of vote weight as a function of token “age” and _β_ reflecting how much the “age” of a token is weighted compared to the actual token amount. 
 
 `` [[ CHART OF VOTE WEIGHT WITH DIFFERENT VALUES FOR β ]] ``
