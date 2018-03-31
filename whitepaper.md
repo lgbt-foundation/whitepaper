@@ -62,7 +62,7 @@ Progress for the LGBT community has become visible through landmark events, such
 
   * legal recognition of marriage equality in 26 countries including the United States of America, Australia, Colombia, and South Africa, and soon with Taiwan and Austria to follow<sup>int-2</sup>;
   * the emergence of publicly open LGBT politicians in senior leadership roles, such as Jóhanna Sigurðardóttir, the Prime Minister of Iceland, in January 2009 and Leo Varadkar, the Irish Taoiseach, as of June 2017<sup>int-3</sup>;
-  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013<sup>int-5</sup>;
+  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013 followed by a pardon of all men cautioned or convicted under historical legislation that outlawed homosexual acts in England and Wales.<sup>int-5</sup>;
   * the supportive stance of a large part of the international community toward eliminating remaining anti-LGBT laws and constraining leaders in less progressive countries, most visibly in the United Nations Human Rights Council’s 2011 Resolution on LGBT Rights and General Assembly declaration of LGBT rights, signed by a combined 99 member states<sup>int-6</sup>, and;
   * improvements in treatment, cure, prevention, and increased de-stigmatization of HIV/AIDS, such as the FDA approval for Truvada as pre-exposure prophylaxis (PrEP) in 2012<sup>int-7</sup> and Prince Harry’s continued call to de-stigmatize HIV in 2017<sup>int-8</sup>.
 
@@ -73,7 +73,7 @@ This hard work is far from over. There are still many countries in which openly 
 
 ### Understanding the Challenges
 
-There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies becomes available.
+There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies become available.
 
 The most fundamental and initial challenge we aim to solve is an insufficient definition and understanding of the size of the global LGBT community. The size of the LGBT community is measured from voluntary reporting of sexual orientation and behavior. Clearly, respondents' willingness to do this can vary considerably by country, region and age group. This leads to difficulty measuring the exact size of the global LGBT population.
 
@@ -127,7 +127,7 @@ In a breakout report from the National Center for Transgender Equality’s U.S. 
   * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents
   * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population
 
-The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 72 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities.<sup>inequ-2</sup> In ten countries, the death penalty is an official legal punishment for being gay or partaking in same-sex activities<sup>inequ-3</sup>.
+The growing acceptance of the LGBT community has not yet reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 72 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities.<sup>inequ-2</sup> In ten countries, the death penalty is an official legal punishment for being gay or partaking in same-sex sexual activities<sup>inequ-3</sup>.
 
 ` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
 
@@ -297,7 +297,7 @@ Creating a trusted and decentralized identity layer that can be used across the 
 
 #### Voting & Decentralized Governance
 
-For the LGBT Impact program, the LGBT Foundation will mint new tokens on a fixed rate of 1% of the circulation at that point. The newly minted funds will be distributed towards individuals and organizations. To determine the exact allocations of the different organizations, users can cast votes using smart contracts. Voting on the blockchain is public and untamperable (while still privacy preserving)<sup>token-8</sup>.
+For the LGBT Impact program, the LGBT Foundation will mint new tokens at a fixed rate of 1% of the circulation at that point. The newly minted funds will be distributed towards individuals and organizations. To determine the exact allocations of the different organizations, users can cast votes using smart contracts. Voting on the blockchain is public and untamperable (while still privacy preserving)<sup>token-8</sup>.
 
 The recently proposed ERC-725 standard<sup>token-9</sup> suggests new standards to enable voting - including delegated voting - to smart contracts on the Ethereum blockchain. It is already possible to implement a voting contract using the ERC-20 standard and this is the course we will take for now. Implementing "delegated voting" is further down the roadmap but it is feasible that users may nominate a reputable member of the community or third party charity and let them proxy the user's "delegated vote."
 
@@ -399,7 +399,7 @@ Furthermore, Hornet pledges to migrate its existing Reward program for community
 
 The LGBT Foundation will initially issue a total of 1,000,000,000 LGBT Tokens.
 
-At the initial Token Sale, up to 20% or 200,000,000 Tokens will be distributed to the public in exchange for Ether contribution. Additional details about the initial Token Sale will be announced on the website [link]lgbt-token.org[/link]. An additional 10% or 100,000,000 Tokens will be offered after at least six months and when approvals for additional jurisdictions have been obtained (for example the U.S.). All Tokens not being sold during the initial Token Sale or the second Token Sale will be burned.
+At the initial Token Sale, up to 20% or 200,000,000 Tokens will be distributed in exchange for Ether contribution. Additional details about the initial Token Sale will be announced on the website [link]lgbt-token.org[/link]. An additional 10% or 100,000,000 Tokens will be offered after at least six months and when approvals for additional jurisdictions have been obtained (for example the U.S.). All Tokens not being sold during the initial Token Sale or the second Token Sale will be burned.
 
 The proceeds of the initial Token Sales are proposed to be utilized to finance the development of the infrastructure described in this white paper.
 
@@ -419,13 +419,13 @@ Additional tokens will be distributed as follows.
 
 ### Network Acceleration Program and Incentives
 
-To kickstart the ecosystem of the launch partners and future LGBT Foundation members, a significant portin of the Tokens will be granted to the users of the participating partners. This will allow each app or community to immediately utilize the Tokens and to move existing reward programs seamlessly to the LGBT Token.
+To kickstart the ecosystem of the launch partners and future LGBT Foundation members, a significant portion of the Tokens will be granted to the users of the participating partners. This will allow each app or community to immediately utilize the Tokens and to move existing reward programs seamlessly to the LGBT Token.
 
 The Tokens will be carefully assigned to partners in the coming years as approved by the LGBT Token Advisory Board.
 
 Additional Tokens are being used as compensation for the hard work of many people that made this initiative a reality, but they are also meant as an incentive for future contributors to the LGBT Foundation. All Team Tokens will be locked for at least 12 months and are vested over time while being bound to milestones and goals.
 
-Furthermore, some Token supply is reserved for current and future contributors of the LGBT Foundation, including service providers such as legal, marketing or technical experts, and a roster of advisers from a wide range of backgrounds. The Tokens will be generally in lock-up and are vested based on milestones such as reaching a certain adaption rate or bringing a certain number of partners on board.
+Furthermore, some Token supply is reserved for current and future contributors of the LGBT Foundation, including service providers such as legal, marketing or technical experts, and a roster of advisers from a wide range of backgrounds. The Tokens will be generally in lock-up and are vested based on milestones such as reaching a certain adoption rate or bringing a certain number of partners on board.
 
 
 ### Token Reserve
@@ -462,7 +462,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
   * Sean Howell, LGBT Impact, https://www.linkedin.com/in/seanhornet/, https://twitter.com/howell4change<br>
     Sean is an activist turned entrepreneur and Hornet's Co-Founder and President. Prior to Hornet, he was a fellow of the World Affairs Council and President of the Young Professional International Network. He helps hundreds of organizations leverage technology to expand their impact through his work with the MSM Global Forum, UNAIDS, E-CDC, PFLAG and Center for Public Health and Human Rights at John Hopkins. Sean is also a founding member of the UN Global Coalition for HIV Prevention and technical advisor to UNDPs and the World Bank LGBTI Index.
   * Llew Claasen, Token Economics, https://www.linkedin.com/in/llew-claasen-aa7145/, https://twitter.com/llewclaasen<br>
-    Llew is a highly experienced technology go-to-market strategist with deep expertise in designing, building, merchandising and marketing online & mobile software products and services (B2B, B2C, B2B2C). He currently serves as the Executive Director of the Bitcoin Foundation.
+    Llew is Managing Partner of Newtown Partners, a boutique blockchain investment and advisory services firm that he founded with Vinny Lingham. Newtown Partners employs a team of specialists in token economy design and implementation and has assisted a number of startups with their token sales. Llew is also the Executive Director of the Bitcoin Foundation, the world's oldest and largest Bitcoin advocacy organization.
   * Alex Conway, Technical Lead, https://www.linkedin.com/in/alex-conway-042666105/, https://twitter.com/alxcnwy<br>
     Alex is a data scientist / machine learning researcher / nerd. He is the founder and lead data scientist at NumberBoost, a machine learning software consultancy that has won multiple startup competitions including with Mercedes-Benz and MultiChoice. NumberBoost develops full-stack solutions to machine learning problems across all verticals. He has experience building software solutions in all kinds of stacks and situations, managing small and large tech teams.
   * Andreas Barhainski, Art Director and UX Design, https://www.linkedin.com/in/monotask/
@@ -480,7 +480,7 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
 
   * Vinny Lingham, CEO Civic, https://www.linkedin.com/in/vinnylingham/
   * Andres Wydler, Managing Director startout.org, https://www.linkedin.com/in/awydler/
-  * Paulo Trezentos, CEO Aptoid, https://www.linkedin.com/in/paulotrezentos/
+  * Paulo Trezentos, CEO Aptoide, https://www.linkedin.com/in/paulotrezentos/
   * Erik Lamontage, Senior Economist UNAIDS, https://www.linkedin.com/in/erik-lamontagne-68456812/
 
 
@@ -497,47 +497,6 @@ ETH committed during the Token Sale will be held in a secure multi-signature wal
 ### Partners
 
 The full list of partners will be released shortly. Please [link to lgbt-token.org]subscribe to our newsletter[/link] to be informed about the launch partners and other parties that have expressed interest in adopting the LGBT Token.
-
-
-
-## TIMELINE
-
-`please visualize the timeline in a way that you find most useful`
-
-**January 2018**
-- release of white paper in version 0.7
-- open social channels and GitHub account and start open discussion
-
-**February 2018**
-- release additional details and mechanics of the Token economics ("Pink Paper")
-- release of white paper in version 0.8
-
-**March 2018**
-- release of additional details concerning the technical infrastructure and APIs ("Yellow Paper")
-- publish early smart contracts on GitHub
-
-**April 2018**
-- release of white paper in version 1.0
-- pre-sale Token offering (one week)
-- public Token Sale (four weeks)
-
-**Q2 2018**
-- Token issuance event and Token distribution
-- implementation of Hornet wallet
-- release of public API specifications and libraries for future integrations
-- transfer of Hornet Reward Model to LGBT Token
-
-**Q3 2018**
-- Implementation of wallet and payment systems for launch partners
-
-**Q4 2018**
-- release of API specification for the identity protection layer
-- first brick-and-mortar usage in Taipei, Sao Paulo and Paris
-
-**Q1/Q2 2019**
-- first additional Token generation event and launch of LGBT Impact
-- integration of identity protection layer in Hornet
-- additional brick-and-mortar integration of trusted Hornet locations
 
 
 
@@ -619,7 +578,7 @@ The Advisory Board of the LGBT Foundation will regularly submit grant proposals 
 
 ` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. `
 
-Hornet formalized  the Hornet Reward Model in 2016 to allow the community to more actively participate in the development and improvement of the Hornet ecosystem. The program explicitly accepted contributions to improve the quality of the app for all of its members. Participation ranged from beta testing new features, to translating the app in more languages to - most importantly - supporting the local communities by becoming brand and city ambassadors. Recently, the programs have also evolved into accepting content submissions (like articles by users) and unveiling a feature called rewarded video which allows users to gain access to premium features by watching videos from advertisers and earn special perks for their loyalty.
+Hornet formalized  the Hornet Reward Model in 2016 to allow the community to more actively participate in the development and improvement of the Hornet ecosystem. The program explicitly accepted contributions to improve the quality of the app for all of its members. Participation ranged from beta testing new features, to translating the app in more languages to - most importantly - supporting the local communities by becoming brand and city ambassadors. Recently, the programs have also evolved into accepting content submissions (like articles by users) and unveiling a feature called rewarded video which allows users to gain access to premium features by watching videos from advertisers, earning special perks for their loyalty.
 
 ` ENTER IMAGE: HORNET REWARD POINT PROGRAM - THE IMAGE FROM https://hornetapp.com/community/programs/ `
 
@@ -632,7 +591,7 @@ The rate of adoption of the Reward Program is encouraging and showcases an activ
 The Hornet Reward Program includes a widespread range of activities to support and foster a healthy ecosystem and brand perception, including:
 
 - Participants of a national KY sponsored survey in Brazil received points as rewards which they later claimed in the community web shop (in the process getting familiar with additional ways to contribute and earning points)
-- Featured Hornet users lent their images for a promotional campaign in the Paris Metro and got rewarded with points with the same outcome
+- Featured Hornet users lent their images for a promotional campaign in the Paris Metro and got rewarded with points to use in the web shop
 - community program participants are periodically rewards with points after submitting their contributions (translations, app moderations, etc) thanks to an automated process
 
 With users already familiar with the digital economy of the Rewards Program and the same surface mechanics applying, Hornet feels the shift to conducting transactions with LGBT Token will be a smooth and logical transition for users.  Hornet is the first to pledge full support for LGBT Token in all aspects of its business by December 31, 2018. This puts the core of Hornet’s existing user base with its robust and growing economy at the forefront of driving adoption for the LGBT Token, and instantly allow 25 million users to participate in the pink economy with the push of a button.
@@ -668,7 +627,7 @@ If sufficient data has been shared, and the user can pay the required amount, a 
 
 ` INFO BOX: The following paragraphs will be part of the Pink Paper released in the near future that will focus on the utility and Token Economics of the LGBT Token. The content may change. (same info box as above) `
 
-The LGBT Impact program will select individuals and not-for-profit organizations that seek funds and provide a significant service to the LGBT community. The LGBT Foundation and its advisers will conduct careful audits before listing any organization but intends to allow user submissions to allow a wide spectrum of supported entities. The LGBT Impact program will focus on small scale operations on underdeveloped regions. Once selected, the list of individuals and organizations will be made public to either donate to these projects directly (crowdfunding approach) or by staking LGBT Tokens to cast votes on the distribution for the LGBT Impact funds.
+The LGBT Impact program will select individuals and not-for-profit organizations that seek funds and provide a significant service to the LGBT community. The LGBT Foundation and its advisers will conduct careful audits before listing any organization but intends to allow user submissions to allow a wide spectrum of supported entities. The LGBT Impact program will focus on small scale operations in underdeveloped regions. Once selected, the list of individuals and organizations will be made public to either donate to these projects directly (crowdfunding approach) or by staking LGBT Tokens to cast votes on the distribution for the LGBT Impact funds.
 
 Hornet and future partners pledge to make donations visible, if supported by the application and intended by the user that donated.
 
@@ -698,7 +657,7 @@ Telegram icon and link
   * int-2: https://en.wikipedia.org/wiki/Same-sex_marriage
   * int-3: https://www.usnews.com/news/best-countries/slideshows/openly-lgbt-world-leaders
   * int-4: http://www.cbc.ca/news/politics/100-million-apology-gay-purge-victims-1.4421921
-  * int-5: http://www.bbc.com/news/technology-25495315
+  * int-5: https://en.wikipedia.org/wiki/Alan_Turing_law
   * int-6: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * int-7: https://aidsinfo.nih.gov/news/1254/fda-approves-first-drug-for-reducing-the-risk-of-sexually-acquired-hiv-infection
   * int-8: https://www.theguardian.com/uk-news/2017/oct/13/prince-harry-calls-for-society-to-embrace-hiv-aids-tests-diana
@@ -707,17 +666,17 @@ Telegram icon and link
   * int-11: https://genctraveller.com/
   * int-12: http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract
   * int-13: http://onlinelibrary.wiley.com/doi/10.1002/soej.12233/full
-  * int-14: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
-  * inequ-1: http://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf
-  * inequ-2: https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report
+  * int-14: https://www.ncbi.nlm.nih.gov/pubmed/29514190
+  * inequ-1: https://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF
+  * inequ-2: https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory
   * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
   * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * token-1: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
-  * token-2: https://www.ethereum.org/
+  * token-2: https://en.wikipedia.org/wiki/Ethereum
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
-  * token-6: Currency that a government has declared to be legal tender, but not backed by a physical commodity. Most modern paper currencies are fiat currencies.
+  * token-6: Fiat currency is declared to be legal tender by government, but not backed by a physical commodity such as the old gold standard. Most modern paper currencies are fiat currencies regulated and valued by governmental regulation.
   * impact-1: https://hornetapp.com/stories/hornet-chechnya/
   * impact-2: https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias
   * token-7: see Appendix 2
@@ -742,6 +701,7 @@ Telegram icon and link
 
   * The overall layout of the white paper is rather a brochure than a technical paper. We will release a more technical _yellow paper_ and a more traditional white paper layout later. Alternatively, we could call this one the Pink Paper :)
   * Please use a smaller font for the legal disclaimer, so it's not as prominent as the rest.
+  * Please have the official website as part of the footer
   * Embrace white space
   * Footnote int-1 used twice on purpose
   * Each H1 headline (UPCASE headlines) start a new page, ideally in a visually distinguishable fashion
