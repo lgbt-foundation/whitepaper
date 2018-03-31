@@ -4,7 +4,7 @@
 
 ### Legal Disclaimer
 
-This white paper is an overview of the LGBT Token project and Token Sale. It may be amended or replaced at any time. There is no obligation to update the white paper or to provide the recipient with notification of any changes or access to any additional information.
+This paper is an overview of the LGBT Token project and Token Sale. It may be amended or replaced at any time. There is no obligation to update the paper or to provide the recipient with notification of any changes or access to any additional information.
 
 Recipients are notified as follows:
 
@@ -25,12 +25,14 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 A token to address the needs of the LGBT community is proposed. This token will aggregate the economic strength of the LGBT community, which is estimated to be between 3%-6% of the global household wealth. The token leverages this economic power and blockchain technology to advance equal rights and full acceptance for all members of the LGBT+ community worldwide. Both macro- and microeconomic models are proposed to facilitate a sustainable token economy that will encourage early network adoption through launch partners. The token technical design enables scalable transaction throughput, while protecting identity for members of the LGBT community. A route-to-market through launch partners is discussed on a high level and analysis undertaken to increase the likelihood that  a viable economy will emerge.
 
+This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The White Paper offers additional context and rationale on the opportunities and challenges concerning the LGBT community in general and the Pink Economy in particular. While not required, it it recommended to read both document. For your convenience we reduced the context to a minimum in this document.
+
 
 ## LGBT Economy Strength
 
 ### The size of the LGBT economy
 
-The estimated LGBT share of the global household wealth is $16 trillion (LGBT Capital, 2016) which constitutes a significant portion (6%) of the estimated global household wealth of $250 trillion (Credit Suisse, 2015). The estimated global purchasing power of the LGBT economy in 2016 was between $2 trillion and $4.6 trillion (Peter Jordan (LGBT Consumer Trends), 2018). This represents a significant portion (4.7%) of the estimated global purchasing power of $115.6 trillion (World Bank, 2016). 
+The estimated LGBT share of the global household wealth is $16 trillion ([LGBT Capital, 2016](http://www.lgbt-capital.com/docs/Estimated_LGBT-Wealth_(table)_-_May_2016.pdf)) which constitutes a significant portion (6%) of the estimated global household wealth of $250 trillion (Credit Suisse, 2015). The estimated global purchasing power of the LGBT economy in 2016 was between $2 trillion and $4.6 trillion (Peter Jordan (LGBT Consumer Trends), 2018). This represents a significant portion (4.7%) of the estimated global purchasing power of $115.6 trillion (World Bank, 2016). 
 
 The geographical breakdown of this spending power is roughly proportional to the standard breakdown of total purchasing power, with Asian spending dominating all other markets (more than both the US and European Union combined). This is particularly relevant considering the size of Asian cryptocurrency markets and penetration of cryptocurrency technologies. In mid-2017, Asia was estimated to constitute 38% of all cryptocurrency users (Cambridge, 2017, p.109). However, it is difficult to ascertain how many of these users are speculative in nature.
 
@@ -38,15 +40,15 @@ Western economies offer a combination of technological progress and LGBT freedom
 
 ### LGBT spending habits
 
-There are strong indicators that LGBT people are more likely to spend at inclusive businesses. Survey data, as will be discussed below, indicates that many make an intentional effort to do so.
+There are strong indicators that LGBT people are more likely to spend at inclusive businesses. Survey data, as will be discussed below, indicates that many make an intentional effort to do so. The following statements are from markets (mainly the US) where no direct repercussions for being a member of the LGBT community is expected. The reality differs vastly in other regions.
 
-The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the average household income of gay men differs from that of lesbians significantly. However, both married male-male couples and female-female couples have, on average, higher household income than their heterosexual counterparts. 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organisations. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
+The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the average household income of gay men differs from that of lesbians significantly. However, both married male-male couples and female-female couples have, on average, higher household income than their heterosexual counterparts in regions where equal rights are obtained. 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organisations. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
 
 The LGBT community perceives itself to be financially stable, with only 15% reporting a negative economic outlook for themselves. Both tourism and cultural events form a significant part of LGBT spending, with over two-thirds of LGBT people reported spending  over $50 eating out weekly. Thes are significant markets that could further optimize their appeal to the LGBT community.
 
-The LGBT community overwhelmingly favours using the services of businesses that support the community. 88% of respondents in the CMI survey reported that corporations that support LGBT equality are essential and 77% reported that companies that support LGBT equality would get more of their business in the next year. The reverse also seems to be true, such as when LGBT people actively boycotted Chick-fil-A after it was perceived to be anti-LGBT.
+The LGBT community overwhelmingly favours using the services of businesses that support the community. 88% of respondents in the CMI survey reported that corporations that support LGBT equality are essential and 77% reported that companies that support LGBT equality would get more of their business in the next year. The reverse also seems to be true, such as when [LGBT people actively boycotted Chick-fil-A](https://en.wikipedia.org/wiki/Chick-fil-A_same-sex_marriage_controversy) after it was perceived to be anti-LGBT.
 
-11% of LGBT people reported being self-employed. This is a significant portion of the LGBT market that immediately has a natural interest in engaging commercially with the LGBT community. The National Gay & Lesbian Chamber of Commerce in the U.S. certifies LGBT-owned businesses, and has certified 909 businesses. When considering that only 7% of respondents in the CMI survey indicated that they are a registered LGBT Business Enterprise, this gives an encouraging approximation for the total amount of LGBT-owned businesses (around 13,000 in the USA).
+11% of LGBT people reported being self-employed. This is a significant portion of the LGBT market that immediately has a natural interest in engaging commercially with the LGBT community. The National Gay & Lesbian Chamber of Commerce in the U.S. certifies LGBT-owned businesses, but has only [909 certified businesses](http://nglcc.org/sites/default/files/[REPORT]%20NGLCC%20Americas%20LGBT%20Economy%20.pdf). When considering that only 7% of respondents in the CMI survey indicated that they are a registered LGBT Business Enterprise, this gives an encouraging approximation for the total amount of LGBT-owned businesses (around 13,000 in the USA).
 
 When it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men. 
 
@@ -65,7 +67,7 @@ LGBT people require privacy due to the wide scope of discrimination experienced 
 
 ### Societal Persecution
 
-Although good progress has been made, there are still significant risks of persecution for members of the LGBT community. Even in developed countries like the U.S., members of the community are still socially excluded and heavily discriminated against. For example, in a breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS), which aggregated data from 27,715 respondents nationwide, 796 African-American transgender or gender non-identifying respondents clarified the stark reality facing them:
+Although good progress has been made, there are still significant risks of persecution for members of the LGBT community. Even in developed countries like the U.S., members of the community are still socially excluded and heavily discriminated against. For example, in a [breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS)](https://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf), which aggregated data from 27,715 respondents nationwide, 796 African-American transgender or gender non-identifying respondents clarified the stark reality facing them:
 
  * 20% of respondents were unemployed, twice the rate of African-American people in the U.S. population, and four times that of the U.S. population overall.
  * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall.
@@ -112,9 +114,9 @@ The second and third token objectives can be rewritten and expanded upon, so tha
 
 These two objectives tie into each other, as the bigger the adoption of the token, the more money can be spent on charitable causes. Thus, the focus on the token economy design will be maximising objective two. 
 
-### Token Economics
+## Token Economics
 
-One of the primary aims of most decentralized networks is to reduce the volatility of the native token’s price in terms of more stable currencies (such as bitcoin or fiat). There is still much debate regarding how best to value cryptoassets, but the prevailing approach is to use aform of the traditional macroeconomic Quantity Theory of Money applied to cryptoeconomics. This model is expressed in the Equation of Exchange:	
+One of the primary aims of most decentralized networks is to reduce the volatility of the native token’s price in terms of more stable currencies (such as bitcoin or fiat). There is still much debate regarding how best to value cryptoassets, but the prevailing approach is to use aform of the traditional macroeconomic [Quantity Theory of Money](https://en.wikipedia.org/wiki/Quantity_theory_of_money) applied to cryptoeconomics. This model is expressed in the [Equation of Exchange](https://en.wikipedia.org/wiki/Equation_of_exchange):	
 		
 ![M \cdot V = P \cdot Q](http://latex.codecogs.com/gif.latex?M%20%5Ccdot%20V%20%3D%20P%20%5Ccdot%20Q)
 	
@@ -164,7 +166,7 @@ Transactional use cases constitute interactions which mirror their traditional c
 Incentivization use cases are different, as they involve the token being earned for certain types of behaviour. They are predicated on an out-of-network actor, such as a launch partner, incentivizing users to behave in a particular way. We aim to harness these use cases to modulate token velocity. This will be done by assisting and incentivizing network partners to incorporate microeconomic models, which link the token value to the transaction value within the network. This is discussed in the token micro-design section below. 
 
 
-### Token Macro-design
+## Token Macro-design
 
 We provide an overview of the proposed macroeconomic variable values in the LGBT token network. Due to unknown implementation details of certain aspects of the network (such as governance), some of these variables are discussed at a higher level, whereas others are explored at a more granular level.
 
@@ -374,7 +376,7 @@ Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of
 
 We believe this process fairly allocates proportional funds to all qualifying (i.e. votes exceeding ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T)) charities while taking into account hard and soft caps. Every time a qualifying charity is removed for exceeding a hard cap or falling below a soft cap, the additional funds available mean the new potential rewards for the remaining charities need to be recalculated. Out of the charities which did not meet their soft caps, determining which to remove first is done based on number of votes (i.e. the one with the lowest votes is removed first), with their potential earnings being redistributed and potentially allowing other charities with more votes to meet their soft cap.
 
-The voting itself will not be done in a decentralized manner, at least not initially. The LGBT Foundation – as a trusted entity which manages the privacy of identity of users interacting in the network – will manage the voting separately using an acceptable E2E-type voting format, such as Helios, which preserves the anonymity of users as much as possible while guaranteeing integrity of the votes.
+The voting itself will not be done in a decentralized manner, at least not initially. The LGBT Foundation – as a trusted entity which manages the privacy of identity of users interacting in the network – will manage the voting separately using an acceptable [E2E-type voting](https://en.wikipedia.org/wiki/End-to-end_auditable_voting_systems) format, such as [Helios](https://heliosvoting.org/), which preserves the anonymity of users as much as possible while guaranteeing integrity of the votes.
 
 
 ### Users
@@ -401,5 +403,210 @@ Where ![\lambda, \mu](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clambda%
 `` [[ CHART: PRICE OF HORNET PREMIUM AS A FUNCTION OF HOURS PURCHASED ]] ``
 
 This incentivizes purchasing for longer periods, but allows users to purchase any amount of Hornet Premium at a time.
+
+#### Community Rewards
+
+Hornet has an existing community rewards program which will be incorporating the LGBT token network and expanded to provide rewards for a variety of behaviors. Actions which have been identified as reward-generators are:
+
+ * Moderating the Hornet platform. This includes reporting bad or inappropriate behaviour and becoming a part of the designated moderation team.
+ * Referring new users to Hornet. People can be invited to Hornet by existing users who receive a reward if the user signs up and verifies their account. 
+ * A ‘first’ action for certain types of actions will generate rewards. Such as submitting your first story. This incentivizes user participation in the network.
+ * There may be rewards for reaching follower milestones. This is applied to both users and content creators.
+
+| Action | Perk |
+| ------ | ---- |
+| Claiming a Hornet wallet (for LGBT tokens) | 1 LGBT token per user. ~ 5 million LGBT tokens have been allocated to encourage widespread adoption of the wallet. |
+| Community Rewards (today): Moderators; Translators; Beta testers; City ambassadors; Stories; Hornet guys | Currently users rewarded perk points. Users can redeem these points in the Hornet shop. The early version of the shop contains 7 items. |
+| Community Rewards (amplified); All of the above +; Influencer; Traveller; Party starter; Host | Users will now instead receive LGBT tokens.; The community rewards will be aggressively increased by 10x  through the use of the LGBT token. Increase diversity of rewards program; The increase is considered sustainable as currently approximately; $2,000 per a month is distributed through community rewards. This can be increased and enlarged sustainably. |
+| Profile Completion | The Hornet team is exploring building out rewards for users who complete their profile. It is proven that profiles which are completed have higher activity. Thus, Hornet may choose to incentive profile completion using the LGBT token. However, Hornet will decide how and when this is done. |
+| Profile Verification | As above, genuine profiles are more valuable to Hornet than fake accounts, so in future Hornet may incentivize profile verification. |
+
+#### Hornet Attainment
+
+Hornet Attainment is a service which will be available to users in some Asian regions. Users will have a ‘reputation score’ which reflects their social status in the network. Users can show appreciation to influential users by gifting them virtual goods that are purchased with LGBT tokens. When these goods are sent to the recipient, 50% of the LGBT token value is reflected in their wallet as ‘attainment’ tokens. These tokens count towards their reputation score using the formula below. The other 50% is reflected as Hornet revenue. Hornet attainment is not designed to be lucrative for users, but rather for users to accrue reputation points. Recipients who hold their attainment tokens, instead of cashing them out, will earn reputation points based on the value of these tokens as well as how long these tokens have been held.  For ‘attainment’ tokens with an LGBT token value ![G](http://latex.codecogs.com/gif.latex?%5Cinline%20G) having been held for time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t), the reputation points ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) accrued are:
+
+
+where ![\alpha](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha), ![\beta](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cbeta), ![\varrho](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cvarrho) are configurable parameters. ![0 < \alpha < \beta](http://latex.codecogs.com/gif.latex?%5Cinline%200%20%3C%20%5Calpha%20%3C%20%5Cbeta) and these are used to determine how quickly the value of ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) decays over time. ![\varrho](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cvarrho) is used to scale the reputation.
+
+Note the starting value may be different for different values of ![\alpha](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha) but this can just be rescaled by ![\varrho](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cvarrho).
+
+Users can also show off these gifts in a virtual trophy case. Reputation may also include tangible benefits such as visibility in a certain area for Hornet social matches.
+
+### Content Creators
+
+#### Monetization
+
+To incentivize both the presence of content creators (to choose Hornet as a content platform), network interactions and higher quality content, a monetization scheme for content creators will be introduced. Every fixed time interval, the monetization for a content creator should be calculated and once this exceeds a certain threshold, it should be deposited into their LGBT token wallet. When calculating the monetization at a later time interval for content which has already been monetized, the mechanism takes into account that only additional interactions which haven’t previously been accounted for in monetization, should be used.
+
+Monetization should be based on a variety of factors and scale appropriately, while ensuring it cannot be abused by smaller or larger content creators:
+
+ * How many likes a post receives should influence the monetization scheme. This should be tempered by the fact that for larger content creators, followers will correlate with likes, so the ratio ![](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7Blikes%7D%7Bfollowers%7D) is a more appropriate metric.
+ * Similarly to how many likes, the number of shares should influence the monetization, using a similar ratio as defined in the previous point. For each action such as share, like etc., an ‘effort’ factor should be used to determine how many likes or shares are appropriate for the monetization threshold, to discourage abuse.
+ * There should be a threshold which a particular monetization calculation needs to exceed to be considered a monetization (so if you have one follow and one like, for example, there is no monetization for that post). 
+
+We define the following variables:
+
+ * ![f](http://latex.codecogs.com/gif.latex?%5Cinline%20f) is the number of followers a content creator has.
+ * ![g](http://latex.codecogs.com/gif.latex?%5Cinline%20g) is a growth rate factor determining how payout scales with more followers.
+ * ![l](http://latex.codecogs.com/gif.latex?%5Cinline%20l) is the number of likes a content creator receives for a given post.
+ * ![s](http://latex.codecogs.com/gif.latex?%5Cinline%20s) is the number of times a content creators post is shared.
+ * ![\alpha_{l}](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha_%7Bl%7D) is a scaling parameter for likes to scale it down to a payout (since 10,000 likes should not pay out 10,000 LGBT tokens). This is determined as a network parameter based on how likely the average user will like something.
+ * Similarly, ![\alpha_{s}](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha_%7Bs%7D) is a scaling parameter for shares.
+ * ![\varrho](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cvarrho) is a general scaling factor used to adjust the entire payout function.
+
+The monetization ![M_{n}](http://latex.codecogs.com/gif.latex?%5Cinline%20M_%7Bn%7D) at time interval n for a particular content creator’s post (which was created at time interval ![m](http://latex.codecogs.com/gif.latex?%5Cinline%20m)) is then
+
+![M_{n} = \varrho \cdot \frac{\alpha_{l}l+\alpha_{s}s}{\sqrt{f^{g}}}](http://latex.codecogs.com/gif.latex?M_%7Bn%7D%20%3D%20%5Cvarrho%20%5Ccdot%20%5Cfrac%7B%5Calpha_%7Bl%7Dl&plus;%5Calpha_%7Bs%7Ds%7D%7B%5Csqrt%7Bf%5E%7Bg%7D%7D%7D)
+
+`` [[ CHART PAYOUT IN TOKENS x NUMBERS OF FOLLOWERS ]] ``
+
+The actual payout ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M) for a particular post should be computed as: 
+
+![M = max(M_{n} - \displaystyle\sum^{n-1}_{i=m}) M_{i}, 0)
+](http://latex.codecogs.com/gif.latex?M%20%3D%20max%28M_%7Bn%7D%20-%20%5Cdisplaystyle%5Csum%5E%7Bn-1%7D_%7Bi%3Dm%7D%29%20M_%7Bi%7D%2C%200%29)
+
+(where ![M_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20M_%7Bi%7D) in the sum are the actual payouts of previous time intervals) so that previous likes and shares are not double-counted. If this is below zero (such that if followers are lost, or posts are unliked), then the payout becomes zero (as opposed to becoming negative). This is accumulated if it exceeds ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T). The formula can effectively be calculated by subtracting the total amount paid out for a post up to time period ![n-1](http://latex.codecogs.com/gif.latex?%5Cinline%20n-1) from ![M_{n}](http://latex.codecogs.com/gif.latex?%5Cinline%20M_%7Bn%7D).
+
+Part of Hornet’s go-to-market strategy is to target content creators within a specific geographic area. Hornet may supercharge content creator incentives within specific geographic areas to encourage such local growth.
+
+#### Generalization to various actions with multipliers
+
+If multiple interactions are introduced which allow users to interact with content creators, these can all be included in a monetization function with their own scalings (since the rate at which each action is used can vary significantly - people often like more than they share, for example).
+
+Assume there is a set of actions A = {Ai}(such as likes, shares, etc) with an associated set of payout multipliers {i}. Let the cardinality of A be C. Then
+
+`` MISSING PART ``
+
+Alternative distribution models for launch partner to explore, but which were not deemed suitable for Hornet, are described in Appendix A. 
+
+### Other Implementations
+
+#### Credit Card
+
+A credit card is expected to be introduced that enables users to claim LGBT token rebates on purchases. Users can decide whether these rebates are directed towards causes or toward their wallet. This is expected to be implemented within one year. This will allow tokens to be earnt by users, which can be spent wherever LGBT tokens are accepted. 
+
+The LGBT token rebates on purchases using the credit card will be based on a levelled system consisting of tiers. An early draft of the system is shown below:
+
+| Amount of LGBT token spent over 12 months | 0 - 999 | 1,000- 4,999 | 5,000- 9,999 | 10,000+ |
+| ----------------------------------------- | ------- | ------------ | -------- | ----- |
+| Your reward level | 1 | 2 | 3 | 4 |
+| | Rabate rates | | |
+| Hornet purchases | 0.5% | 0.7% | 0.9% | 1% |
+| LGBT affiliated events | 0.2% | 0.4% | 0.7% | 1% |
+| Shopping | 0.1% | 0.2% | 0.5% | 0.8% |
+
+## Token Technical Design
+
+### Design Objectives
+
+Design objectives help guide us toward a set of desired characteristics for the token that will both benefit and empower the LGBT community. Currently, we examine the overarching design objectives that can all be perceived as key ingredients to the success of the LGBT token:
+
+
+### LGBT token transaction Pseudonymity
+
+As discussed in the token objectives, we want the LGBT token transactions to be anonymous. 
+
+Furthermore, expecting LGBT members to be willing to expose their entire transaction histories on a public blockchain is a level of hyper-transparency that is not currently commonplace. For example, one's bank knows one's transaction history, but the history is not known by all stores where the account's linked credit card has been used.
+
+
+### LGBT token transaction scalability
+
+We would need to build our token on a blockchain platform that offers a likely path to high throughout transaction scaling. Once global mass adoption of the LGBT token happens, it is critical to be supported by a blockchain ecosystem that is able to handle this increased level of network activity. Scalability influences both transaction fees and the time taken to confirm transactions.
+
+
+### LGBT token functionality 
+
+This refers to the scope of the token’s use. Simple token functionality implies that we can only use the token for transfers and it would function purely as a medium-of-exchange. More complex token functionality requires that a token can be used in a smart contract environment. Here, tokens fulfil numerous use-cases beyond simple transfers. Ideally, LGBT tokens should be able to incorporate smart contract functionality. 
+
+
+### LGBT token decentralization 
+
+This refers to the extent to which the system cannot be controlled or significantly influenced by any single or small group of users. Since we want this token to be governed by the LGBT community and not just a few powerful stakeholders, decentralization is of the utmost importance. Furthermore, decentralization presents a more robust architecture that doesn’t contain a few central points of weakness which are susceptible to attack. Most blockchains are inherently decentralized, however different consensus protocols – amongst other factors – greatly influence the degree of decentralization and this should thus be carefully considered. 
+
+The LGBT Foundation deems the technical design objectives to have the following ranking: 
+
+`` Pseudonymity > Decentralization > Scalability > Functionality ``
+
+Finally, we note that there is **no** design objective which aims at pioneering blockchain technology development. The LGBT token will instead focus on harnessing currently available blockchain technology to further the economic and social goals of the LGBT community. When new blockchain technology solutions aligning with this mission become available, they will be integrated into the system. This is encompassed in ‘ecosystem support’ in Table 1 below. 
+
+## Platform Comparison
+
+### Platforms under consideration
+
+Numerous blockchain platforms were analyzed. The following platforms were explored: Ethereum, Stellar, Waves, EOS, Simple Token, NEO, Tezos, Cardano and Rchain. Emphasis was placed on privacy and scalability of these platforms and the technology surrounding these considerations.
+
+We explored many interesting scaling solutions, such as Raiden, Sharding, Plasma, leased proof-of-stake and recursive snarks. We reviewed production timelines along with the technology underpinning these solutions. The Raiden network showed great promise for LGBT tokens and it provided some degree of anonymity, which we discuss later. Platforms such as Stellar already show sufficient scalability, albeit at the cost of decentralization and functionality.
+
+Regarding privacy, we initially explored high-tech solutions that serve to completely obfuscate transaction history through advanced cryptographic techniques. Zero-knowledge proofs were one such technique. Although theoretically bulletproof, we found these techniques not to be production-ready. We also examined low-tech solutions that use clever combinations of cryptographic hashes, signatures and other interesting mechanisms to obfuscate transaction trails. The idea of creating an in-house mixing service shows particular promise for the LGBT token.
+
+Drawing on the above insights, we compared two platforms that we believe align with the vision of the LGBT token. These platforms are the Stellar and Ethereum platforms. The motivations for these platforms are twofold. First, both platforms are currently production-ready. Secondly, and more importantly, both platforms plan to integrate payment channels into the network by Q4-2018: Ethereum through the [Raiden network](https://raiden.network/) and [Stellar through the Lightning network](https://www.stellar.org/blog/2018-Stellar-Roadmap/). The Raiden and Lightning networks refer roughly to the same technology known as payment channels. Payment channels will likely provide the necessary degree of scalability and privacy required by the LGBT token. 
+
+Next, we briefly compare Ethereum and Stellar as they exist today and then again in Q4-2018, when we believe payment channels will be integrated into both platforms. Table 1 scores both platforms by a scoring (out of 10) and weighting individual platform aspects based on their importance to the LGBT token network. Next, Table 2 briefly outlines the differences between the platforms in these chosen criteria, motivating the scores found in Table 1. 
+
+|  | Weight | Ethereum Q1/2018 | Ethereum with Raiden Q4/2018 | Stellar Q1/2018 | Stellar with Lightning network Q4/2018 |
+| -------------------------- | -------- | ----- | ------- | ------- | ------- |
+| Privacy                    |    25%   |   3   |    8    |    2    |    6    |
+| Scalability                |    15%   |   3   |    7    |    7    |    9    |
+| Decentralization           |    20%   |   6   |    7    |    2    |    3    |
+| Transaction fees and speed |    15%   |   2   |    7    |    8    |    9    | 
+| Functionality              |    10%   |   8   |    9    |    3    |    4    |
+| Ecosystem support          |    15%   |   9   |   10    |    7    |    8    |
+| **Weighted Total**         | **100%** | **5** | **7.9** | **4.5** | **6.4** |
+`Table x: Matrix ranking: Ethereum vs. Stellar in Q1-2018 vs. Q4-2018.` 
+<br>
+<br>
+
+| | Ethereum | Stellar |
+| --- | --- | --- |
+| **Privacy:** The degree to which users can transact anonymously. | Pseudo-anonymous. Payment channels introduce an acceptable level of anonymity. Active research by Ethereum Foundation into high-tech zero-knowledge privacy solutions. | Pseudo-anonymous. Payment channels introduce an acceptable level of anonymity. |
+| **Scalability:** Limits on the number of transactions the network can process. | Currently, around 15 transactions per second. Payment channels enable unlimited near instantaneous off-chain transfers between connected parties. This result will be suitable to handle mass LGBT token adoption. | Currently, around 1,000 transactions per second. Payment channels and protocol advances will improve scalability. Stellar still falls significantly short of Visa or Mastercard, etc. at 20,000 transactions per second. |
+| Decentralization: The extent to which the system cannot be controlled by any single user. | Anyone can run a node and validate transactions. No significant barrier to entry of running a node. | Anyone can run a Stellar Core node and validate transactions (although significant barrier to entry when compared to Ethereum). There is less incentive to run a full node as no mining fees collected. Inherently Stellar has fewer validators and, thus, a greater degree of centralization. |
+| **Transaction fees and speed** | Median transaction confirmation speed: 3.5 minutes. Transaction fees depend on computation complexity, speed of the transaction, amongst other variables. Median fee: US$0.069  per transaction. Payment channels enable negligible off-chain transfer fees and near instantaneous transfers. | Median transaction confirmation speed: 5 seconds. Negligible fees:  US$0.000002 per operation in each transaction. |
+| **Functionality:** i.e. does the platform allow full smart contract functionality? | Almost any conceivable and programmable application as Ethereum is Turing-complete. | Largely restricted to payments and a small library of other abstractions. Very limited functionality. |
+| **Ecosystem support** | A large community of actively contributing developers and a strong network of support. | Growing number of developers and a growing network of support. |
+`Table x: Comparing Ethereum to Stellar`
+
+### Ethereum vs. Stellar 
+
+As it currently stands, Ethereum and Stellar each present unique strengths and weaknesses. Ethereum displays a good degree of decentralization, strong functionality and a promising outlook regarding privacy. However, Ethereum has relatively high transaction fees and long transaction confirmation times. Stellar, on the other hand, facilitates fast and cheap transactions. Unfortunately, this comes with the opportunity cost of decentralization and a lack of complete smart contract functionality.  
+
+Table 1 shows that based on these insights we currently score Ethereum 5/10 overall while Stellar receives a score of 4.5/10. These scores reflect the fact that Ethereum scores better on the critical design features needed for the LGBT token – decentralization and privacy – which are more heavily weighted when calculating the final score. 
+
+When payment channels are integrated into both Stellar and Ethereum – in the form of the Raiden and Lighting networks – we see Ethereum move even further ahead. Table 1 shows Ethereum’s new overall score of 7.9/10 compared to Stellar's 6.4/10. The greater jump in score for Ethereum highlights that Ethereum has more to gain from payment channel integration. This is because Stellar is already relatively scalable, whilst Ethereum is currently not. The introduction of payment channels in Ethereum will facilitate near-instant, low-fee transactions, remedying Ethereum's current high-fee and slow transaction speed shortfall. 
+
+The superior current and future scoring of Ethereum in Table 1 reflects our sentiment that Ethereum is the best technology platform to use when creating and issuing the LGBT token. It satisfies all major requirements of the LGBT token. Beyond this, Ethereum has a very active community working on numerous platform improvements (zk-SNARK, Raiden, etc.) that will further benefit the LGBT token. Although Stellar shows promise, its lack of decentralization positions it as a compromised second-choice solution. 
+
+### Platform Conclusion
+
+We found Ethereum to perform better in the areas of decentralization, privacy and functionality. Stellar performed best in scalability exhibiting high-speed and low-fee transactions. Since privacy and decentralization are the key requirements of the LGBT token, this positions Ethereum as the leading platform.
+
+In the near future, when payment channels are integrated into both platforms, we find that Ethereum stands to benefit more from these near-instant, low-fee and scalable transactions. In light of this analysis, Ethereum emerges as the preferred platform to use for building and issuing the LGBT token.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
