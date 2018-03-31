@@ -550,6 +550,7 @@ Next, we briefly compare Ethereum and Stellar as they exist today and then again
 | Functionality              |    10%   |   8   |    9    |    3    |    4    |
 | Ecosystem support          |    15%   |   9   |   10    |    7    |    8    |
 | **Weighted Total**         | **100%** | **5** | **7.9** | **4.5** | **6.4** |
+
 `Table x: Matrix ranking: Ethereum vs. Stellar in Q1-2018 vs. Q4-2018.` 
 <br>
 <br>
@@ -562,6 +563,7 @@ Next, we briefly compare Ethereum and Stellar as they exist today and then again
 | **Transaction fees and speed** | Median transaction confirmation speed: 3.5 minutes. Transaction fees depend on computation complexity, speed of the transaction, amongst other variables. Median fee: US$0.069  per transaction. Payment channels enable negligible off-chain transfer fees and near instantaneous transfers. | Median transaction confirmation speed: 5 seconds. Negligible fees:  US$0.000002 per operation in each transaction. |
 | **Functionality:** i.e. does the platform allow full smart contract functionality? | Almost any conceivable and programmable application as Ethereum is Turing-complete. | Largely restricted to payments and a small library of other abstractions. Very limited functionality. |
 | **Ecosystem support** | A large community of actively contributing developers and a strong network of support. | Growing number of developers and a growing network of support. |
+
 `Table x: Comparing Ethereum to Stellar`
 
 ### Ethereum vs. Stellar 
