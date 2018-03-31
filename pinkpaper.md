@@ -93,24 +93,24 @@ These two objectives tie into each other, as the bigger the adoption of the toke
 ### Token Economics
 
 One of the primary aims of most decentralized networks is to reduce the volatility of the native token’s price in terms of more stable currencies (such as bitcoin or fiat). There is still much debate regarding how best to value cryptoassets, but the prevailing approach is to use aform of the traditional macroeconomic Quantity Theory of Money applied to cryptoeconomics. This model is expressed in the Equation of Exchange:	
-				
-$$ M * V = P * Q $$
+		
+![M \cdot V = P \cdot Q](http://latex.codecogs.com/gif.latex?M%20%5Ccdot%20V%20%3D%20P%20%5Ccdot%20Q)
+	
+  * ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M) is the monetary supply, the total number of tokens in the network.
+  * ![V](http://latex.codecogs.com/gif.latex?%5Cinline%20V) is the token velocity, the number of times a single token is transferred within a fixed period.
+  * ![P](http://latex.codecogs.com/gif.latex?%5Cinline%20P) is the price of one ‘unit’ of output in terms of the native token.
+  * ![Q](http://latex.codecogs.com/gif.latex?%5Cinline%20Q) is the total output in the given time period. The output here could be ‘total volume of transactions’ in a cryptoeconomy. Note that this is the total volume of transactions **in terms of the native token**.
 
-* M is the monetary supply, the total number of tokens in the network.
-* V is the token velocity, the number of times a single token is transferred within a fixed period.
-* P is the price of one ‘unit’ of output in terms of the native token.
-* Q is the total output in the given time period. The output here could be ‘total volume of transactions’ in a cryptoeconomy. Note that this is the total volume of transactions **in terms of the native token**.
 
+The goal is to determine the value of ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E), the exchange rate of a single token for a more stable and established currency (say USD). We can apply the following transformation:
 
-The goal is to determine the value of $$E$$, the exchange rate of a single token for a more stable and established currency (say USD). We can apply the following transformation:
+![E \cdot M \cdot V=\alpha \cdot Q](http://latex.codecogs.com/gif.latex?E%20%5Ccdot%20M%20%5Ccdot%20V%3D%5Calpha%20%5Ccdot%20Q)
 
-$$ E * M * V = α * Q $$
+where is ![α](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha) the price of one ‘unit’ of output in terms of the currency used in the exchange rate ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E) (say USD).
 
-where is $$α$$ the price of one ‘unit’ of output in terms of the currency used in the exchange rate $$E$$ (say USD).
+Making ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E) the subject of the equation,
 
-Making E the subject of the equation,
-
-$$ E = \frac{α * Q}{M * V} $$
+![E = \frac{\alpha \cdot Q}{M \cdot V}](http://latex.codecogs.com/gif.latex?E%20%3D%20%5Cfrac%7B%5Calpha%20%5Ccdot%20Q%7D%7BM%20%5Ccdot%20V%7D)
 
 shows us that in this model the price of the token in USD depends on many factors. The monetary supply is typically fixed or growing at a known rate. The quantity of output is hard to control and is determined by the utility offered and the number of participants in the network.
 
