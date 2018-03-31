@@ -362,14 +362,44 @@ Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of
   2. A preliminary payout ![P_{i} = C_{i} \cdot DPV](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3D%20C_%7Bi%7D%20%5Ccdot%20DPV) is determined for each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) still in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). 
   3. If ![P_{i} < H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3C%20H_%7Bi%7D) for every charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R), terminate this process.
   4. For all charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) such that ![P_{i} > H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3E%20H_%7Bi%7D), that charity is paid out ![H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20H_%7Bi%7D) and is removed from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R).
-  5. Return to 1
+  5. Return to 1<br>
+  <br>
+  We now have a set of charities ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) remaining who did not exceed their hard cap (those that did have already been paid out their hard caps). However, some of these charities may not have exceeded their soft caps. Since ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is ordered-ascending in terms of votes we now iterate through the charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i):<br>
+  <br>
+  6. (Re)calculate the ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP).
+  7. Calculate ![P_{i}=C_{i} \cdot DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%3DC_%7Bi%7D%20%5Ccdot%20DVP) each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) starting from the lowest ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i). For each ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i), if ![P_{i}>S_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%3ES_%7Bi%7D), pay out that charity and remove it from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). Do this until a charity is found such that ![S_{i} > P_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20S_%7Bi%7D%20%3E%20P_%7Bi%7D) (or until ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is empty). Remove this charity from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) but do not pay out since it did not reach its soft cap.
+  8. If ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is empty, terminate this process.
+  9. Reapply the process ``HARD_CAP_PURGE`` to the remaining charities in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) since they may now have exceeded their hard cap with the additional funds from the removed charity being distributed.
+  10. Return to step 5 if ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is non-empty.
 
-We now have a set of charities ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) remaining who did not exceed their hard cap (those that did have already been paid out their hard caps). However, some of these charities may not have exceeded their soft caps. Since ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is ordered-ascending in terms of votes we now iterate through the charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i):
+We believe this process fairly allocates proportional funds to all qualifying (i.e. votes exceeding ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T)) charities while taking into account hard and soft caps. Every time a qualifying charity is removed for exceeding a hard cap or falling below a soft cap, the additional funds available mean the new potential rewards for the remaining charities need to be recalculated. Out of the charities which did not meet their soft caps, determining which to remove first is done based on number of votes (i.e. the one with the lowest votes is removed first), with their potential earnings being redistributed and potentially allowing other charities with more votes to meet their soft cap.
+
+The voting itself will not be done in a decentralized manner, at least not initially. The LGBT Foundation – as a trusted entity which manages the privacy of identity of users interacting in the network – will manage the voting separately using an acceptable E2E-type voting format, such as Helios, which preserves the anonymity of users as much as possible while guaranteeing integrity of the votes.
 
 
+### Users
 
+#### Pay as you go (PAYG) for Hornet Premium
 
+A PAYG model will be introduced, which will allow for existing subscription packages in addition to more granular choices of Hornet membership. The base price of Hornet Premium for a month is characterized as ![\$x/hour](http://latex.codecogs.com/gif.latex?%5Cinline%20%5C%24x/hour). Hornet will introduce a continuous price function to allow someone to purchase the below durations of Hornet membership. This price function is guided by the following price points (guided by the philosophy that ‘buying in bulk’ should be cheaper per hour):
 
+ * Annual package - Hornet costs $0.007 per hour ~ ($5/month)
+ * Quarterly package - Hornet costs $0.01 per hour ~ ($7/month)
+ * Monthly package - Hornet costs $0.014 per hour ~ ($10/month)
+ * Weekly package - Hornet costs $0.03 per hour ~ ($5/week)
+ * Daily package - Hornet costs $0.1 per hour ~ ($2.4/day)
+ * Hourly package - Hornet costs $0.5 per hour ~ ($0.5/hour)
 
+Based on these guiding points the following Hornet Premium pricing model is proposed, where people can purchase Hornet Premium for any amount of hours h:
+
+![\$/hour Price(h) = \lambda h^{-\mu}](http://latex.codecogs.com/gif.latex?%5C%24/hour%20Price%28h%29%20%3D%20%5Clambda%20h%5E%7B-%5Cmu%7D)
+
+Where ![\lambda, \mu](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clambda%2C%20%5Cmu) are adjustable parameters. Using the above points as a guide, this produces the following price multiplier function:
+
+![\$/hour Price(h) = 0.4459h^{-0.49}](http://latex.codecogs.com/gif.latex?%5Cinline%20%5C%24/hour%20Price%28h%29%20%3D%200.4459h%5E%7B-0.49%7D)
+
+`` [[ CHART: PRICE OF HORNET PREMIUM AS A FUNCTION OF HOURS PURCHASED ]] ``
+
+This incentivizes purchasing for longer periods, but allows users to purchase any amount of Hornet Premium at a time.
 
 
