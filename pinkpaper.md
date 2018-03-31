@@ -1,3 +1,25 @@
+# LGBT Token - PINK PAPER
+
+> Using **BLOCKCHAIN TECHNOLOGY** to **ADVANCE EQUAL RIGHTS AND ACCEPTANCE** for the **LGBT COMMUNITY**
+
+### Legal Disclaimer
+
+This white paper is an overview of the LGBT Token project and Token Sale. It may be amended or replaced at any time. There is no obligation to update the white paper or to provide the recipient with notification of any changes or access to any additional information.
+
+Recipients are notified as follows:
+
+  * **Eligible purchasers:** the information in this white paper is for prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
+  * **No offer of regulated products or services:** the LGBT Token (as described in this white paper) is not intended to constitute a security or any other regulated product or service in any jurisdiction. This white paper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction. Any offer or agreement in relation to any sale and purchase of LGBT Tokens is to be governed solely by a separate document setting out the terms and conditions (“Ts&Cs”) of such agreement. In the event of any inconsistencies between the Ts&Cs and this white paper, the former prevails.
+  * **No advice:** this white paper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
+  * **No representations:** no representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this white paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this white paper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
+  * **Risk warning:** potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens.
+  * **Translations:** this white paper and related materials are issued in English. Any translation is for reference purposes only and is not certified by any person. If there is any inconsistency between a translation and the English version of this white paper, the English version prevails.
+  * **Restricted transmission:** this white paper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this white paper is prohibited or restricted.
+  * **No offer of fund-raising appeals or charitable donations:** the LGBT Foundation Limited ("LGBT Foundation" or "we") is currently not yet set up as a charitable, philanthropic and benevolent society. It however plans on exploring and obtaining any necessary regulatory licenses or approvals in the future as needed. As part of the LGBT Token Sale ("Token Sale"), the LGBT Foundation does not engage in fund-raising appeals or seek participation in the Token Sale to fund charitable, philanthropic or benevolent causes. Any involvement in social impact programs is through the LGBT Foundation own proprietary discretionary social responsibility program called LGBT Impact (see 'LGBT Impact' section below), which will be funded from future token creation.
+
+This white paper has not been reviewed by any regulatory authority in any jurisdiction. References in this white paper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than explicitly mentioned partners or providers such as Hornet Networks Limited (“Hornet”), the use of any other company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.
+
+All references to ‘dollars’ or ‘$’ are references to United States dollars unless otherwise stated.
 
 ## Abstract
 
