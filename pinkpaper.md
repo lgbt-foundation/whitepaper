@@ -27,6 +27,7 @@ A token to address the needs of the LGBT community is proposed. This token will 
 
 This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The White Paper offers additional context and rationale on the opportunities and challenges concerning the LGBT community in general and the Pink Economy in particular. While not required, it it recommended to read both document. For your convenience we reduced the context to a minimum in this document.
 
+`` [[ INSERT TABLE OF CONTENTS ]] ``
 
 ## LGBT Economy Strength
 
