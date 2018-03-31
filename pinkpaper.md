@@ -185,10 +185,10 @@ As aforementioned, inflation must be carefully considered based on what it is ex
 
 1. Newly generated tokens are directed to the LGBT Impact Program fund, to address the impact program, operating costs and other activities that serve to benefit the ecosystem. The voting mechanism of the LGBT Impact program is described in the token micro-design section.  
 2. Transaction fees in the system can be used for multiple purposes. Some of these purposes include:
-  * as rebates to cover exchange fees in the system for merchants.
-  * discounts for users to incentive the token use.
-funding the LGBT Foundation.
-  * being directed into a special project fund that is controlled by a decentralized governance mechanism. 
+   * as rebates to cover exchange fees in the system for merchants.
+   * discounts for users to incentive the token use.
+   * funding the LGBT Foundation.
+   * being directed into a special project fund that is controlled by a decentralized governance mechanism. 
 
 The inflation mechanism proposed is subject to change as the economy is developed further. Launch partners will be allocated tokens that are released at fixed time intervals, which also simulates inflation in the medium term. 
 
@@ -364,10 +364,9 @@ Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of
   2. A preliminary payout ![P_{i} = C_{i} \cdot DPV](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3D%20C_%7Bi%7D%20%5Ccdot%20DPV) is determined for each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) still in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). 
   3. If ![P_{i} < H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3C%20H_%7Bi%7D) for every charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R), terminate this process.
   4. For all charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) such that ![P_{i} > H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3E%20H_%7Bi%7D), that charity is paid out ![H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20H_%7Bi%7D) and is removed from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R).
-  5. Return to 1<br>
-  <br>
+  5. Return to 1<br/><br/>
   We now have a set of charities ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) remaining who did not exceed their hard cap (those that did have already been paid out their hard caps). However, some of these charities may not have exceeded their soft caps. Since ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is ordered-ascending in terms of votes we now iterate through the charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i):<br>
-  <br>
+  
   6. (Re)calculate the ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP).
   7. Calculate ![P_{i}=C_{i} \cdot DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%3DC_%7Bi%7D%20%5Ccdot%20DVP) each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) starting from the lowest ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i). For each ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i), if ![P_{i}>S_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%3ES_%7Bi%7D), pay out that charity and remove it from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). Do this until a charity is found such that ![S_{i} > P_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20S_%7Bi%7D%20%3E%20P_%7Bi%7D) (or until ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is empty). Remove this charity from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) but do not pay out since it did not reach its soft cap.
   8. If ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is empty, terminate this process.
