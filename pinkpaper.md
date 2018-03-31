@@ -236,6 +236,117 @@ The foundation will consult with each individual launch partner to ensure that m
 There are various mechanisms that can be implemented to reduce price volatility of the LGBT token. One of the primary ways to confer value to a token is to ensure token velocity is acceptably low, as discussed above. Here is an overview of all price-stability levers which were explored and their feasibility for the LGBT token use cases.
 
 
+| Lever                 | Description | Viability for LGBT Token |
+| --------------------- | ----------- | ------------------------ |
+| Dividends             | Continuous income through the holding of tokens from protocol design such as transaction fees or inflation. Lowers velocity. | Unfeasible for the LGBT token. Both transaction fees and inflation are designated for other use cases. |
+| Staking               | Tokens are locked up for a certain amount of time in order to perform a lucrative function. Lowers velocity. | Staking can be used in reward programs by launch partners, but likely not on a protocol level. |
+| Gamification          | Incentivize holding of tokens in exchange for larger rewards or discovery. Lowers velocity. | Feasible if a large number of launch partners will use the token for rewards. The appendix contains a  microeconomy template for launch partners incorporating a gamification model. |
+| Curation Markets      | A market with a native token where users curate particular subtopics. Buy-in is through a predefined token price curve. Lowers velocity. | Unfeasible for the LGBT token. No reason to use LGBT token as a reserve token over more established tokens. |
+| Cryptocurrency        | Becoming a cryptocurrency with mass adoption encourages holding for convenience and as a store of value. Lowers velocity. This is a long-term goal. | Difficult to ensure but providing a wide variety of launch partners during the early stage will be a primary driver.The token requires time to become a true cryptocurrency.
+| Money Supply Changes  | Maintaining price stability through adjusting the money supply through inflation and burning mechanisms. | This approach is considered infeasible due to its centralized nature and legal ramifications. |
+| Discount Token Models | Applying a Discount Token Model where holding tokens enables a discount for transactions. Lowers velocity. | Possible to use for LGBT token depending on services offered. Can be used in a microeconomic template for launch partners in tandem with gamification. |
+| Airdrops              | Token airdrops to holders of other currencies in order to encourage use would increase velocity if these holders spend the token. | Airdrops for arbitrary Ethereum (or any other cryptocurrency holders) holders is deemed infeasible as it provides no utility and introduces reputational as well as potential regulatory risk. |
+| Promotional Events    | Offering tokens to targeted demographics in concentrated LGBT centers will promote the use of the token to appropriate demographics, increasing velocity. | This is appropriate for the LGBT token as it addresses the target market and introduces potential users to the network. These users derive maximum utility from the LGBT token. |
+
+## Token Micro-design
+
+### Microeconomic Model
+
+A microeconomic template has been developed for launch partners (which operate a network-based app) to implement using the LGBT token to incentivize appropriate behaviours by all actors in the network. Below, this template is applied to the Hornet use case, which will be the first partner in the LGBT token network.
+
+
+### Example: Hornet Network
+
+Hornet currently has a reward program which rewards users points for certain activities, which can be redeemed in the Hornet store. This will be transferred to the LGBT token and expanded to increase functionality and utility of the program. We will apply a microeconomic model to the Hornet Reward Program context to see how it can be used by any launch partners with a network-based app.
+
+
+### Hornet Overview
+
+Hornet is a social networking app for gay men which intends to give them a more meaningful and holistic way to express themselves and connect with others. It has a mobile app and web-based app, which allows users to upload information, message others and upload “stories” which are similar to posts on other social networking sites. This is intended to be expanded to include much more engagement functionality by users in line with Hornet’s vision of becoming a social media platform where gay men can be their true selves. Additionally, there are features to find local clubs and other LGBT-related events and businesses. 
+
+When Hornet switches to the LGBT token, it will have an associated wallet to store a users’ LGBT tokens. Additionally, there will be a decentralized SSO layer which will be used to manage user identity. This will increase privacy when transacting.
+
+We can see below how the Hornet app translates directly to the generalized template found in the appendix. The motivations for each actor are as described above.
+
+
+### Token Route to Market
+
+The Route-to-Market is designed so that the token can demonstrate and exert the economic strength of the LGBT community.
+
+In order to achieve this, we break down how to unite the LGBT community around the token. We believe that there are three types of participants in the token economy. These are:
+
+1. Token Partners: the businesses who are willing to accept and use the LGBT token, such as Hornet
+2. Token Backers: HNW (High Net Worth) individuals and funds who are have invested in the token sale or brought the token on the open market.
+3. Token Users: Members of the LGBT community, who will use the token as a transactional medium.
+
+
+We believe – on a high-level – the route-to-market process is as follows:
+
+1. Seed Partners with the token. These partners must use the token as a reward or incentive for their users. This will allow:
+  * Users to understand the value of the token as they would have earned it through performing work e.g. for Hornet this would be platform-enhancing behaviour.
+  * Partners to work out a sustainable reward strategy. These partners should not gift the tokens in an unsustainable way as, eventually, they will be required to purchase rewards tokens off of an external cryptocurrency exchange at market prices. Thus, the rewards to users must be lower than their lifetime value (LTV) as customers,.
+  * The number of token holders to increase, which in turn will increase the  utility of the token.
+2. Promote earning by Users: This process will be initiated by Partners. As described above, Partners will encourage Users to earn LGBT tokens for completing specific high-value behaviour.
+3. Promote spending by Users: Initially partners, but eventually offline stores will be encouraged to accept the LGBT cryptocurrencytokens as payment. As discussed in token opportunities, these stores will accept the token as it signals their progressive nature and LGBT community support. Furthermore, stores can be incentivized by offering ‘cash-back’ compared to traditional payment methods e.g. A user receives a 1% rebate. 
+4. Eventually, once the token is accepted by a significant portion of the LGBT community, it will become a sustainable MoE and Unit of Account (UoA).
+
+
+### Launch Partner  Microeconomic Model
+
+We explored the LGBT token implementation in Hornet, the gay social media app, who is also a key launch partner of the LGBT token. The token implementation was modelled after consolidation with the relevant stakeholders. This gives a good indication on how the token will be implemented in practise. The Hornet model will be described through all possible actor interactions, detailing the mechanisms governing these interactions.
+
+
+### Third-party Services
+
+#### Point of Sale (Medium of Exchange)
+
+Businesses and events listed in the Hornet app can use Hornet as a point of sale for certain products, by using the LGBT token. Users will be able to pay for events offered by businesses in their area with LGBT tokens using their Hornet wallets. The identity SSO layer should ensure their privacy is maintained while purchasing goods tied to their identity, such as event tickets. This will also allow for the introduction of promotional events where a business could offer a small discount for users paying with LGBT token through the Hornet app. One example would be the buying of drinks at specific events. For example, LGBT parties in San Paulo could allow for attendees to simply buy drinks throughout the night with their LGBT tokens in their Hornet Wallet. This is beneficial for Hornet, as it encourages users to join the Hornet network for convenience and other financial rewards. Incorporating point of sale functionality into the Hornet app will contribute to the LGBT token’s status as a medium-of-exchange token, where its utility is at least partially derived for the ability to conduct transactions for goods and services with it. Incorporating this functionality has a network effect, as driving early utility of the token for payments encourages other businesses to accept the token as a form of payment.
+
+
+### LGBT Impact Program
+
+#### Donations
+
+Functionality should exist in the wallet which enables users to donate directly to a selection of charities forming part of the LGBT Impact Program. This should be as simple as selecting a “Donate” option within the wallet. This should take the user to a selection of charities. This selection can be adjusted to address the current needs and desires of the LGBT community. 
+
+It is important to note that potential regulatory issues may arise as the donation scheme spans multiple geographic locations. The LGBT Foundation will commit to complying with all required regulation surrounding donations and restricting this functionality in jurisdictions where regulations prevent it. 
+
+
+#### Voting
+
+The LGBT Impact Program will have a quarterly vote for all token holders to vote on which charitable causes to fund. The list of causes will be a list of LGBT charities initially. The list curation will be divested to a decentralized governance model where the community itself decides on appropriate programs to fund over time. This migration will occur as soon as a critical mass of users presents the ability to bootstrap a decentralized governance model. Any token holder will be able to submit a vote, where their vote weighting is a function of the amount of tokens in their wallet and how long these tokens have been held.
+
+A few terms and variables are defined, which will be used to formulate the voting process:
+
+* The soft cap of a charity is the minimum amount of currency a charity needs to earn the vote to qualify for a payout. This is due to the fact that certain charities require a minimum amount to function properly (such as for events, etc.).
+* The hard cap of a charity is the maximum amount of currency a charity can be paid out in a vote. Charities are of various sizes and large donations to smaller charities are a suboptimal allocation of donations.
+* The voting threshold, ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T), is the minimum amount of votes (or total vote-weight) required for a charity to qualify for payout. This is an adjustable parameter and should be chosen in such a way (for each vote and based on the number of charities available) that at least one charity will exceed ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T). 
+* ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP) or dollar-per-vote is the amount of dollars each vote is worth and is calculated as the total amount available to be donated in the vote divided by the total amount of votes cast to charities that have exceeded the voting threshold required for a payout. 
+
+The voting structure will work as follows:
+
+* A selection of charities will be chosen for any token holder to be able to submit a vote from their wallet. A token holder’s wallet will consist of LGBT tokens which have been deposited into the account at different times with ![n](http://latex.codecogs.com/gif.latex?%5Cinline%20n) different UTXOs (unspent transactions). Each UTXO ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) can be represented as an amount deposited ![D_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20D_%7Bi%7D) and a ‘time since deposited’ ![t_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20t_%7Bi%7D) (i.e. ![(D, t_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28D%2C%20t_%7Bi%7D%29)).
+* The voting weight for this particular UTXO can then be calculated as 
+![V_{i} = D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}
+](http://latex.codecogs.com/gif.latex?%5Cinline%20V_%7Bi%7D%20%3D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D) so that a token holder’s total vote weight is
+<div style="text-align:center">
+![\sum _{i=1} ^{n} V_{i} = \sum _{i=1} ^{n} D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}](http://latex.codecogs.com/gif.latex?%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20V_%7Bi%7D%20%3D%20%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D)
+
+</div>
+Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of vote weight as a function of token “age” and _β_ reflecting how much the “age” of a token is weighted compared to the actual token amount. 
+
+`` [[ CHART OF VOTE WEIGHT WITH DIFFERENT VALUES FOR β ]] ``
+
+* Once the voting period has elapsed and vote weights calculated for each token holder, the votes are tallied for the charities. Let ![R = \{(C_{i},S_{i},H_{i})\}](http://latex.codecogs.com/gif.latex?%5Cinline%20R%20%3D%20%5C%7B%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29%5C%7D) denote the set of (number of votes, soft cap, hard cap) of each charity with an ordered indexing ![i > j \Leftrightarrow C_{i} > C_{j}](http://latex.codecogs.com/gif.latex?%5Cinline%20i%20%3E%20j%20%5CLeftrightarrow%20C_%7Bi%7D%20%3E%20C_%7Bj%7D). We refer to charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) as the charity with ![(number of votes, soft cap, hard cap) = (C_{i},S_{i},H_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28number%20of%20votes%2C%20soft%20cap%2C%20hard%20cap%29%20%3D%20%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29). All charities such that ![C_{i} < T](http://latex.codecogs.com/gif.latex?%5Cinline%20C_%7Bi%7D%20%3C%20T) are discarded from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) as they did not receive enough votes. An iterated process ``HARD_CAP_PURGE`` now occurs:
+
+  1. The ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP) is (re)calculated. 
+  2. A preliminary payout ![P_{i} = C_{i} \cdot DPV](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3D%20C_%7Bi%7D%20%5Ccdot%20DPV) is determined for each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) still in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). 
+  3. If ![P_{i} < H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3C%20H_%7Bi%7D) for every charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R), terminate this process.
+  4. For all charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) such that ![P_{i} > H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3E%20H_%7Bi%7D), that charity is paid out ![H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20H_%7Bi%7D) and is removed from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R).
+  5. Return to 1
+
+We now have a set of charities ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) remaining who did not exceed their hard cap (those that did have already been paid out their hard caps). However, some of these charities may not have exceeded their soft caps. Since ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is ordered-ascending in terms of votes we now iterate through the charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i):
+
 
 
 
