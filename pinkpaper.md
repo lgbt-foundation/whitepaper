@@ -23,7 +23,7 @@ All references to ‘dollars’ or ‘$’ are references to United States dolla
 
 ## Abstract
 
-A token to address the needs of the LGBT community is proposed. This token will aggregate the economic strength of the LGBT community, which is estimated to be between 3%-6% of the global household wealth. The token leverages this economic power and blockchain technology to advance equal rights and full acceptance for all members of the LGBT+ community worldwide. Both macro- and microeconomic models are proposed to facilitate a sustainable token economy that will encourage early network adoption through launch partners. The token technical design enables scalable transaction throughput, while protecting identity for members of the LGBT community. A route-to-market through launch partners is discussed on a high level and analysis undertaken to increase the likelihood that  a viable economy will emerge.
+A token to address the needs of the LGBT community is proposed. This token will aggregate the economic strength of the LGBT community, which is estimated to be between 3%-7% of the global household wealth<sup>abst-1</sup>. The token leverages this economic power and blockchain technology to advance equal rights and full acceptance for all members of the LGBT+ community worldwide. Both macro- and microeconomic models are proposed to facilitate a sustainable token economy that will encourage early network adoption through launch partners. The token technical design enables scalable transaction throughput, while protecting identity for members of the LGBT community. A route-to-market through launch partners is discussed on a high level and analysis undertaken to increase the likelihood that  a viable economy will emerge.
 
 This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The White Paper offers additional context and rationale on the opportunities and challenges concerning the LGBT community in general and the Pink Economy in particular. While not required, it it recommended to read both document. For your convenience we reduced the context to a minimum in this document.
 
@@ -43,7 +43,7 @@ Western economies offer a combination of technological progress and LGBT freedom
 
 There are strong indicators that LGBT people are more likely to spend at inclusive businesses. Survey data, as will be discussed below, indicates that many make an intentional effort to do so. The following statements are from markets (mainly the US) where no direct repercussions for being a member of the LGBT community is expected. The reality differs vastly in other regions.
 
-The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the average household income of gay men differs from that of lesbians significantly. However, both married male-male couples and female-female couples have, on average, higher household income than their heterosexual counterparts in regions where equal rights are obtained. 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organisations. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
+The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the average household income of gay men differs from that of lesbians significantly. However, both married male-male couples and female-female couples have, on average, [higher household income than their heterosexual counterparts](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-108.pdf) in regions where equal rights have been obtained. 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organisations. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
 
 The LGBT community perceives itself to be financially stable, with only 15% reporting a negative economic outlook for themselves. Both tourism and cultural events form a significant part of LGBT spending, with over two-thirds of LGBT people reported spending  over $50 eating out weekly. Thes are significant markets that could further optimize their appeal to the LGBT community.
 
@@ -597,6 +597,10 @@ In the near future, when payment channels are integrated into both platforms, we
 
 
 
+
+## Footnotes
+
+abst-1: See White Paper for additional details
 
 
 
