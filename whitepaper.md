@@ -8,35 +8,37 @@
 
 ## INTRODUCTION
 
-In recent years, the LGBT community<sup>int-1</sup> has gained recognition with an increased number of societies and governments becoming more accepting of and providing equal rights to LGBTs. The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress. Another is that an increasing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that social responsibility is fundamental to the operation of their business, and that it is an important matter to their customers.
+In recent years, the LGBT<sup>int-1</sup> community has gained recognition with an increased portion of society and governments becoming more accepting of and providing equal rights to LGBTs. The work of many organizations and individuals fighting for LGBT rights is one driving force behind this progress. Another is that a growing number of corporations worldwide are now openly supporting diversity and inclusion, understanding that social responsibility is fundamental to the operation of their business and an important matter to their customers.
 
 Progress for the LGBT community has become visible through landmark events, such as:
 
   * legal recognition of [marriage equality in 26 countries](https://en.wikipedia.org/wiki/Same-sex_marriage) including the United States of America, Australia, Colombia, and South Africa, and soon with Taiwan and Austria to follow;
   * the emergence of publicly open LGBT politicians in senior leadership roles, such as Jóhanna Sigurðardóttir, the Prime Minister of Iceland, in January 2009 and Leo Varadkar, the Irish Taoiseach, as of June 2017<sup>int-3</sup>;
-  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD 100M pledge to homosexual purge victims in Canada in 2017<sup>int-4</sup> or the Royal pardon of Alan Turing by the Queen of England in 2013 followed by a [pardon of all men cautioned or convicted](https://en.wikipedia.org/wiki/Alan_Turing_law) under historical legislation that outlawed homosexual acts in England and Wales.;
+  * apologies and restitution issued to victims of anti-LGBT discrimination, such as Justin Trudeau’s USD [100M pledge to homosexual purge victims in Canada](http://www.cbc.ca/news/politics/100-million-apology-gay-purge-victims-1.4421921) in 2017 or the Royal pardon of Alan Turing by the Queen of England in 2013 followed by a [pardon of all men cautioned or convicted](https://en.wikipedia.org/wiki/Alan_Turing_law) under historical legislation that outlawed homosexual acts in England and Wales.;
   * the supportive stance of a large part of the international community toward eliminating remaining anti-LGBT laws and constraining leaders in less progressive countries, most visibly in the [United Nations Human Rights Council’s 2011 Resolution on LGBT Rights and General Assembly declaration of LGBT rights](https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations), signed by a combined 99 member states, and;
   * improvements in treatment, cure, prevention, and increased de-stigmatization of HIV/AIDS, such as the [FDA approval for Truvada as pre-exposure prophylaxis (PrEP)](https://aidsinfo.nih.gov/news/1254/fda-approves-first-drug-for-reducing-the-risk-of-sexually-acquired-hiv-infection) in 2012 and [Prince Harry’s continued call to de-stigmatize HIV](https://www.theguardian.com/uk-news/2017/oct/13/prince-harry-calls-for-society-to-embrace-hiv-aids-tests-diana) in 2017.
 
-This hard work is far from over. There are still many countries in which openly identifying as LGBT results in massive repercussions or even life-threatening consequences. Even in countries where the legal basis appears equal, the reality is often different. Discrimination, bullying and worse are experiences on which nearly every member of the community can give a firsthand report. Either of these situations is where the introduction of the LGBT Token can help. But first, we need to understand the challenges that face the global LGBT community in order to understand the benefits from blockchain technology.
+This hard work is far from over. There are still many countries in which openly identifying as LGBT results in massive repercussions or even life-threatening consequences. Even in countries where the legal basis appears equal, the reality is often different. Discrimination, bullying and worse are experiences on which nearly every member of the community can give a firsthand report. Any of these situations is where the introduction of the LGBT Token can help. But first, we need to understand the challenges that face the global LGBT community in order to understand the benefits it can gain from blockchain technology.
 
 
 ### Understanding the Challenges
 
-There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address today, as new technologies becomes available.
+There are many complex factors that contribute to discrimination against the LGBT community, from societal legacies like religious fundamentalism to more specialized issues like transgender bathroom laws. However, a few challenges have root causes that we can effectively address right now, as new technologies becomes available.
 
-The most fundamental and initial challenge we aim to solve is an insufficient definition and understanding of the size of the global LGBT community. The size of the LGBT community is measured from voluntary reporting of sexual orientation and behavior. Clearly, respondents' willingness to do this can vary considerably by country, region and age group. Further challenges happen when a government overlooks the necessity of identifying its own LGBT population, such as the recent decision by the U.S. Census Bureau to [not include questions regarding sexual orientation and gender identity in the 2020 Census](https://www.npr.org/2017/07/18/536484467/census-bureau-found-no-need-for-lgbt-data-despite-4-agencies-requesting-it) of the American Community Survey. This leads to difficulty measuring the exact size of the global LGBT population.
+The most basic and fundamental challenge we aim to solve is an understanding of the size and composition of the global LGBT community. Today the size of the LGBT community is measured from voluntary reporting of sexual orientation and behavior. Clearly, respondents' willingness to do this can vary considerably by country, region and age group. Further challenges happen when a government overlooks the necessity of identifying its own LGBT population, such as the recent decision by the U.S. Census Bureau to [not include questions regarding sexual orientation and gender identity in the 2020 Census](https://www.npr.org/2017/07/18/536484467/census-bureau-found-no-need-for-lgbt-data-despite-4-agencies-requesting-it). This leads to difficulty measuring the exact size of the global LGBT population.
 
 It has also been observed that in anti-LGBT environments, members of the LGBT community may frequently be held back from full economic participation, such as joining in the labor force or gaining job promotions, which restrains their spending power as well as their ability to influence society toward greater equality.
 
-Furthermore, economic analysis has traditionally focused on the consumer interests of affluent, white gay men. The full spectrum of sexual orientations and gender identities with the LGBT community has not yet been represented or recognized by corporations on anywhere near the same scale as that initial group. There is a pressing need for all in the LGBT community to be properly represented, and for their full economic participation to be realized. Unfortunately, the economic benefit and progress enjoyed by certain segments of the community have not extended as much to the larger LGBT community and on a worldwide scale. 
+Furthermore, economic analysis has traditionally focused on the consumer interests of affluent, white gay men. The full spectrum of sexual orientations and gender identities within the LGBT community has not yet been represented or recognized by corporations on anywhere near the same scale as that initial group. There is a pressing need for all in the LGBT community to be properly represented, and for their full economic participation to be realized. Unfortunately, the economic benefit and progress enjoyed by certain segments of the community have not extended as much to the larger LGBT community, nor on a worldwide scale.
 
 > _"It is now time for the LGBT community to take full control of their destiny. By unleashing the power of technological innovation, we can exert the community's economic might to double down on the rightful pursuit of equal rights and full acceptance."_ <br/> - Christof Wittig, Founder and CEO of Hornet
 
 
 ### Estimating The Size Of The LGBT Community
 
-Public polls and studies carried out by statistics agencies in advanced economies such as the U.S. and the UK have found that between 3 and 7 percent of the adult population identify as LGBT. A [study carried out by Gallup in the U.S. in 2017](http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx) found an average of 4.1% of U.S. adults (10 million in total) identified as LGBT, with over 7% of millennial-aged respondents identifying as LGBT. When applied on a global scale to the world’s adult population (16 years+) of 5.3 billion, the 3-7 percentage range gives an LGBT population estimate of between 160 million and 373 million adults globally. Putting that into perspective, if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India.
+Public polls and studies carried out by statistics agencies in advanced economies such as the U.S. and the UK have found that between 3 and 7 percent of the adult population identify as LGBT. A [study carried out by Gallup in the U.S. in 2017](http://news.gallup.com/poll/201731/lgbt-identification-rises.aspx) found an average of 4.1% of U.S. adults (10 million in total) identified as LGBT, with over 7% of millennial-aged respondents identifying as LGBT. When applied on a global scale to the world’s adult population (16 years+) of 5.3 billion, the 3-7 percentage range gives an LGBT population estimate of between 160 million and 373 million adults globally. Putting that into perspective, if the LGBT community were a country, it would be the third-largest in the world by population, ranking behind only China and India<sup>int-5</sup>.
+
+That number will only continue to grow. A [2016 study by J Walter Thompson Innovation Group](https://broadly.vice.com/en_us/article/kb4dvz/teens-these-days-are-queer-af-new-study-says) found that only 48% of Generation Z teenagers in the U.S. identify as exclusively heterosexual. The future is no longer a straight line, and as that generation grows up, its spending power and impact on the global economy will only increase.
 
 > **If the LGBT community were a country, it would be the third-largest in the world by population, comparable to the U.S.**
 
@@ -53,31 +55,33 @@ The size of the LGBT community translates directly to major global economic impa
 
 `INFOGRAPHIC SHOWING THE ECONOMIC POWER OF THE community IN COMPARISON TO OTHER COUNTRIES`
 
-In societies where equality has progressed, such as the U.S., the disposable income and earning power of the LGBT community continues to grow. A [2014 study by the University of Washington’s Marieka Klawitter](http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract) found that lesbians earn a premium of 9% more than heterosexual women. A recent study by Vanderbilt University economists Christopher Carpenter and Samuel Eppink discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts. There is data that proves tolerance and equality can generate economic growth, and that there is more economic potential that’s still untapped because of oppression and discrimination.
+In societies where equality has progressed, such as the U.S., the disposable income and earning power of the LGBT community continues to grow. A [2014 study by the University of Washington’s Marieka Klawitter](http://onlinelibrary.wiley.com/doi/10.1111/irel.12075/abstract) found that lesbians earn a premium of 9% more than heterosexual women. A [recent study by Vanderbilt University economists Christopher Carpenter and Samuel Eppink](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12233) discovered that gay men who were employed full-time made on average 10% more than their straight male counterparts. There is data that proves tolerance and equality can generate economic growth, and that there is more economic potential that’s still untapped because of oppression and discrimination.
 
 Many businesses are missing out on opportunities by not understanding and taking into account this spending power and properly addressing the needs and concerns of the community. More and more industries are only just starting to understand that the community can make up a significant portion of their revenue. As Joint United Nations Programme on HIV and AIDS researcher Erik Lamontagne summed up succinctly, “In simple terms, the more homophobic you are, the more and more it will cost your economy.“<sup>int-14</sup>
 
-To many, the “Pink Dollar” often looks like any other dollar to them, which is a mistake. Due to a lack of data, marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed.
+To many, the “Pink Dollar” often looks like any other dollar to them, which is a mistake. Due to a lack of data, marketers routinely underestimate the strong loyalty of members of the community and how much it drives purchasing decisions. While numerous studies have demonstrated that LGBT consumers show loyalty to specific brands that recognize and appeal to them directly, economic activity has only been identifiable in specific sectors of the economy, such as fashion, entertainment, technology, travel, healthcare or financial services. In truth, a much greater pink economy exists and its scale and potential are yet to be fully revealed. Harnessing that power in full can help address issues of inequality and discrimination that still plague LGBTs around the world.
 
 > **It is therefore our mission to utilize blockchain technology in order to illustrate the power of the Pink Economy on a global scale and, by doing so, help the LGBT community tap into that power in order to advance its progressive goals.**
 
 
 #### Inequality And The Status Of The Global LGBT Community
 
-Nevertheless, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and social inequalities, excluding them from resources and help. Transgender members of the community face the highest amounts of discrimination, with black transgender and gender non-conforming people facing the most severe degree of discrimination and bigotry of all in the U.S. and arguably elsewhere.
+Unfortunately, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and social inequality, which exclude them from resources and help. Transgender members of the community face the highest amounts of discrimination, with black transgender and gender non-conforming people facing the most severe degree of discrimination and bigotry of all in the U.S. and arguably elsewhere.
 
 > **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
 
-The growing acceptance of the LGBT community has not reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 72 countries (37% of United Nation member states) it is an outright crime to be gay or partake in same-sex sexual activities. In ten countries, the death penalty is an official legal punishment for being gay or partaking in same-sex activities. In major geographic regions of the world, there is still rampant legal discrimination against and violence toward those in the LGBT community, most notably the Middle East, Africa, and parts of Asia and Eurasia. 
+The growing acceptance of the LGBT community has not reached the most marginalized within the community and those living in the most oppressive areas of the world. While 26 countries now recognize marriage equality, in 72 countries (37% of United Nation member states) it is [an outright crime to be gay or partake in same-sex sexual activities](https://www.theguardian.com/world/2017/jul/27/gay-relationships-still-criminalised-countries-report). In ten countries, the [death penalty is an official legal punishment for being gay](https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/?utm_term=.30d517b3ff0e) or partaking in same-sex activities. In major geographic regions of the world, there is still rampant legal discrimination against and violence toward those in the LGBT community, most notably the Middle East, Africa, and parts of Asia and Eurasia.
 
-Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another 44 members have remained stubbornly neutral and silent on the issue of LGBT rights. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, the recent developments in both Russia and Nigeria).
+Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another four dozen members have remained stubbornly neutral and silent on the issue of LGBT rights<sup>int-15</sup>. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, recent developments in both Russia and Nigeria).
 
 ` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
 
 
 ## THE LGBT TOKEN
 
-The LGBT Foundation believes that introducing the LGBT Token cryptocurrency and the protection of blockchain technology can help solve the following issues:
+In January 2018, the LGBT Foundation was launched with the goal of achieving equal rights and acceptance for all members of the global LGBT community with the help of blockchain technology. One of the key ingredients to the success of the LGBT Token will be the accumulated experience of the launch partners, its team members, and the wide range of advisers and service providers recruited by the LGBT Foundation, which will issue the Token. The LGBT Foundation will administer the supply and ensure a healthy economic model for the users and partners while also providing the necessary infrastructure to operate a decentralized and autonomous network.
+
+It has planned the upcoming launch of LGBT Token for three key purposes:
 
  * Enable members to verify and protect their LGBT identities
  * Demonstrate and utilize the economic might of the LGBT community
@@ -88,18 +92,18 @@ The LGBT Foundation believes that introducing the LGBT Token cryptocurrency and 
 
 ### 1. LGBT Identity Management
 
-One of the core ideas behind blockchain, that is, the technology cryptocurrency is built upon, is to eliminate centralized storage of sensitive data and give the control of this data back to the user with additional security. The idea is to have a digital identity that is unique, unhackable and stored in a decentralized environment beyond of the access of governments. It allows a respectful way to honor and protect users’ real identities by establishing a virtual identity that gives full control back to the user. This is of vital importance to the LGBT community as sexual and gender identities define an individual’s membership and sense of self, yet also run the risk of facing discrimination.
+One of the core ideas behind blockchain, that is, the technology the LGBT Token is built upon, is to eliminate centralized storage of sensitive data and give the control of this data back to the user with additional security. The goal is to have a digital identity that is unique, unhackable and stored in a decentralized environment beyond of the access of governments. It provides a safe and respectful way to honor and protect users’ real identities by establishing a virtual identity that gives full control back to the user. This is of vital importance to the LGBT community as sexual and gender identities define an individual’s membership and sense of self, yet also run the risk of facing discrimination.
 
 > **The idea is to have a digital identity that is unique, unhackable and stored in a decentralized environment, and will be used in a respectful way to honor and protect users' physical identities.**
 
-This central identification system is central to our endeavor, as it not only establishes the technology basis for the other aspects of the LGBT Token, it also is necessary to solve a real world problem for many million members of the LGBT community. Hacks like the [Ashley Madison Data Breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach) or more recent the [Facebook Data Misusage](https://en.wikipedia.org/wiki/Facebook_and_Cambridge_Analytica_data_breach) might have embarrassing or inconvenient consequences for the affected individuals, but for many members of the LGBT community, protecting their identity is a matter of life or death. 
+The LGBT Token identity also gives its members the security in knowing that personal and sensitive data will not be made public, given to third parties, or misused. Hacks like the [Ashley Madison Data Breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach), the [Facebook/Cambridge Analytics data misuse](https://en.wikipedia.org/wiki/Facebook_and_Cambridge_Analytica_data_breach) or the [recent report of Grindr sharing sensitive HIV status data with other companies](https://www.buzzfeed.com/azeenghorayshi/grindr-hiv-status-privacy), without the consent of the user, can result in long-term and even dangerous consequences for those affected. For many members of the LGBT community, protecting their identity is a matter of life or death. The Foundation believes that the ownership of their data belongs in the hands of its members.
 
 
 ### 2. LGBT Economy
 
 ` GRAPHIC OF A BRICK AND MORTAR STORE OR CLUB WITH A “LGBT TOKENS ACCEPTED” STICKER `
 
-To date, only a few companies in a few countries have fully understood that catering to the LGBT consumer can be of huge economic benefit. Many efforts have been clumsy and are difficult to deploy for smaller suppliers of goods and services, especially if they operate in less liberal countries. Only recently have companies started to develop products for the specific demand of the LGBT community, such as in financial services, hospitality and healthcare. It would be expected that the majority of corporate executives could provide a breakdown of their customer demographic by reference to age, provenance, or income, but anecdotal evidence confirms that it is unlikely they would be able to specify the percentage of their business that stems from the LGBT community.
+To date, a number of efforts to cater to the LGBT demographic have been clumsy and difficult to deploy for smaller suppliers of goods and services, especially if they operate in less liberal countries. Only recently have industries started to develop products for the specific demand of the LGBT community, such as in financial services, hospitality and healthcare. It would be expected that the majority of corporate executives could provide a breakdown of their customer demographic by reference to age, provenance, or income, but anecdotal evidence confirms that it is unlikely they would be able to specify the percentage of their business that stems from the LGBT community.
 
 By participating in the pink economy with the LGBT Token, however, these companies can, in an easy and meaningful manner, directly reach the LGBT community to treat LGBT consumers with the level of attention they welcome and deserve. Accepting LGBT Token as a method of payment in everyday transactions will enable businesses large and small to demonstrate their affiliation with the LGBT community. Furthermore, they can optimize their LGBT-oriented business by being able to better target this significant customer segment and understand its buying patterns and preferences.
 
@@ -112,9 +116,9 @@ Lastly, the LGBT Foundation plans to issue a credit card to showcase the spendin
 
 > **LGBT Impact is the inherent and powerful funding mechanism for causes of importance for the LGBT community in their quest to achieve equal rights and acceptance.**
 
-LGBT Impact is a powerful funding mechanism for important causes of the LGBT community in their quest to achieve equal rights and acceptance. The LGBT Foundation plans to hold an annualized Token reserve specifically for LGBT Impact. Given the proposed regularity and amount of LGBT Tokens reserved for LGBT Impact, we believe it has the potential to be the largest dedicated LGBT social responsibility program in the world.
+LGBT Impact, the branch of the LGBT Foundation devoted to social causes, will provide a powerful funding mechanism for important causes of the LGBT community. To that end, the LGBT Foundation plans to hold an annualized Token reserve specifically for LGBT Impact. Given the proposed regularity and amount of LGBT Tokens reserved for LGBT Impact, we believe it has the potential to be the largest dedicated LGBT social responsibility program in the world.
 
-In the future, we envision that LGBT Impact will allow donations to be matched to specific projects or members with LGBT identity, creating a foundation of grassroots governance and direction of LGBT Impact's efforts. We propose to explore funding from major non-profit organizations to match LGBT Impact’s grants, and find other new and innovative ways to help LGBT causes both large and small, anywhere around the globe. In both cases, the firepower of LGBT Impact can be amplified while utilizing the community to allocate, supervise, and govern the funds.
+In the future, we envision that LGBT Impact will allow donations to be matched to specific projects or members with LGBT identity, creating a foundation of grassroots governance and direction of LGBT Impact's efforts. We propose to explore funding from major non-profit organizations to match LGBT Impact’s grants, and find other new and innovative ways to help LGBT causes both large and small, anywhere around the globe. In both cases, the firepower of LGBT Impact can be amplified while utilizing the community and the advisory board of the Foundation to allocate, supervise, and govern the funds.
 
 
 #### Example LGBT Impact: Chechnya
@@ -156,18 +160,16 @@ The LGBT Token has a strong economic utility to each party engaging in an underl
 
 ### Why make the LGBT Token a cryptocurrency?
 
-Cryptocurrencies have several high-level benefits that are tailored toward the core missions described in this paper, including:
+Cryptocurrencies have several high-level benefits that are tailored toward the core missions we hold. These benefits include:
 
 #### Decentralization
 
-As mentioned above, the LGBT Token is built using the protection of blockchain. The decentralized nature of the cryptocurrency is therefore immune to centralized or government control. Furthermore, it’s free of discrimination - everyone with an internet connection and phone can access crypto-currency.
+As mentioned above, the LGBT Token is built using the protection of blockchain. The decentralized nature of the cryptocurrency is therefore immune to centralized or government control. Furthermore, it’s free of discrimination - everyone with an internet connection and phone can access cryptocurrency.
 
 
 #### A global form of payment
 
-The LGBT community already identifies as a global community. There are few communities with so strong an affiliation with common causes across borders. Traveling is an important aspect for many members, whether to leave their country of oppression or to engage with their community abroad.  
-
-LGBT Tokens are intended to be used as a global form of payment for online services as well as at brick-and-mortar stores, travel destinations and other industries. This not only allows us to gain an understanding about the size of the Pink Economy, it also allows for unique earn-and-reward models for users, from loyal customer reward programs to special discounts to LGBT members and allies, stored securely and privately on the blockchain.
+The LGBT community already identifies as a global community. There are few communities with so strong an affiliation to common causes across borders. Traveling is an important aspect for many members, whether to leave their country of oppression or to engage with their community abroad. LGBT Tokens are intended to be used as a global form of payment for online services as well as at brick-and-mortar stores, travel destinations and other industries.
 
 ` ADD WALLET SCREENSHOT - LGBT_Wallet_Screens_1 `
 
@@ -181,12 +183,12 @@ The pseudonymity of cryptocurrency and blockchain allow users to protect their p
 
 #### Voting & Decentralized Governance
 
-The governance of the LGBT Foundation as well as the distribution of funds for the LGBT Impact program will be organized by using voting mechanisms on the blockchain. The LGBT community is a grass-root movement, so the control of the direction of this new technology should not be done without listening to those directly affected by it. Blockchain technologies allow new forms to build consensus is a transparent and secure way. More information about the voting mechanism can be found in the Pink Paper.
+The governance of the LGBT Foundation, as well as the distribution of funds for the LGBT Impact program, will be organized by community voting. The LGBT community is a grassroots movement, so the control of the direction of this new technology should be shaped by listening to those directly affected by it.
 
 
 #### Security
 
-The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. Not one actor can get unauthorized access or is able to manipulate or remove information without the consent of the owner. This prevents governments and organizations from demanding, hacking or otherwise obtaining this information, an especially critical safeguard in countries where the LGBT community faces repercussions and victimization.
+The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. No one person can get unauthorized access or is able to manipulate or remove information without the consent of the personal owner of that information. This prevents governments and organizations from demanding, hacking or otherwise obtaining this information, an especially critical safeguard in countries where the LGBT community faces repercussions and victimization.
 
 This paper focuses on the issues that the LGBT Foundation strives to solve. A pink paper with further details exploring the exact technical solution has been released separately and with the input of the crypto community. We’d be happy to provide it upon request if you’d like to learn more about the technical aspects of the LGBT Token.
 
@@ -230,26 +232,9 @@ The LGBT Foundation is proud to welcome new business partners every single week 
 The Foundation invites everyone to participate in the project and specifically invites and financially supports launch partners who can help jumpstart the LGBT Token and the resulting economy. Such partners may be mobile apps, online services or traditional offline, brick-and-mortar businesses like stores or event locations, large brands or individual providers. Everyone is invited as long as they support to the mission of equal rights and acceptance for the LGBT community and the proposed self-governance.
 
 
+### Our Team & Advisors
 
-## SETUP
-
-One of the key ingredients to the success of the LGBT Token will be the accumulated experience of the launch partners, its team members, and the wide range of advisers and service providers recruited by the LGBT Foundation.
-
-
-### The LGBT Foundation
-
-The LGBT Token will be issued by the LGBT Foundation, an organization to initiate, develop and foster the ecosystem of the token. The LGBT Foundation will administer the supply and ensure a healthy economic model for the users and partners. It also intends to provide the necessary infrastructure to operate a decentralized and autonomous network. At the point of publishing of this paper, the LGBT Foundation shares certain resources with its sponsor, like overhead and development personnel. The LGBT Foundation will, however, operate completely independent of Hornet and is building its own teams, governance and management that will only operate in the interest of the missions stated in this paper.
-
-### Network Acceleration Program
-
-To kickstart the ecosystem of the launch partners and future LGBT Foundation members, a significant portion of the Tokens will be granted to the users of the participating partners. This will allow each app or community to immediately utilize the Tokens and to move existing reward programs seamlessly to the LGBT Token. The Tokens will be carefully assigned to partners in the coming years as approved by the LGBT Token Advisory Board.
-
-### LGBT Impact
-
-The Foundation is planning to newly generate up to 1% annually of the entire Token stock to be deployed for the LGBT Impact program. The creation of such Tokens is contingent on the market cap and may be possibly expanded by third party sponsors pledging to burn Tokens in exchange for funds being delivered to recipients.
-
-
-### Team
+Our team is comprised of successful entrepreneurs and businesspeople, distinguished members of the LGBT community, and passionate allies. To learn more about their backgrounds and experience, please visit lgbt-token.org.
 
 ` [ TEAM SECTION MISSING ] `
 
@@ -299,19 +284,13 @@ Telegram icon and link
 
 _This isn't synced fully yet - we might list more footnotes than we actually need._
 
-  * exec-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
-  * exec-2: http://statisticstimes.com/economy/countries-by-projected-gdp.php
   * int-1: LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
   * int-3: https://www.usnews.com/news/best-countries/slideshows/openly-lgbt-world-leaders
-  * int-4: http://www.cbc.ca/news/politics/100-million-apology-gay-purge-victims-1.4421921
-  * int-10: https://esa.un.org/unpd/wpp/
+  * int-5: comparing the higher number of 373 million adults to https://esa.un.org/unpd/wpp/
   * int-11: https://genctraveller.com/
-  * int-13: http://onlinelibrary.wiley.com/doi/10.1002/soej.12233/full
-  * int-14: https://www.ncbi.nlm.nih.gov/pubmed/29514190
+  * int-14: https://mic.com/articles/148935/researchers-calculated-the-economic-cost-of-homophobia-and-the-numbers-are-staggering
+  * int-15: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * inequ-1: https://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF
-  * inequ-2: https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory
-  * inequ-3: https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/
-  * inequ-4: https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations
   * token-3: https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
   * token-4: Or at least not in a decentralized manner where the control of the data lays in the hands of the individual member. Recent hacks and data leaks (from Equifax all the way to Ashley Madison) showed how flawed centralized storage and control of sensitive data can be.
   * token-5: According to Hornet Networks company estimates and figures from AppAnnie
