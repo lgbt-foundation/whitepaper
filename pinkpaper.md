@@ -33,7 +33,7 @@ This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The
 
 ### The size of the LGBT economy
 
-The estimated LGBT share of the global household wealth is $16 trillion ([LGBT Capital, 2016](http://www.lgbt-capital.com/docs/Estimated_LGBT-Wealth_(table)_-_May_2016.pdf)) which constitutes a significant portion (6%) of the estimated global household wealth of $250 trillion ([Credit Suisse Research Institute: Global Wealth Report 2015](https://publications.credit-suisse.com/tasks/render/file/?fileID=F2425415-DCA7-80B8-EAD989AF9341D47E)). The estimated global purchasing power of the LGBT economy in 2016 was between $2 trillion and $4.6 trillion (Peter Jordan (LGBT Consumer Trends), 2018). This represents a significant portion (4.7%) of the estimated global purchasing power of $115.6 trillion ([World Bank, 2015](https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2016&start=1990&view=chart&year_high_desc=false)).
+The estimated LGBT share of the global household wealth is $16 trillion ([LGBT Capital, 2016](http://www.lgbt-capital.com/docs/Estimated_LGBT-Wealth_(table)_-_May_2016.pdf)) which constitutes a significant portion (6%) of the estimated global household wealth of $250 trillion ([Credit Suisse Research Institute: Global Wealth Report 2015](https://publications.credit-suisse.com/tasks/render/file/?fileID=F2425415-DCA7-80B8-EAD989AF9341D47E)). The estimated global purchasing power of the LGBT economy in 2016 was between $2 trillion and $4.6 trillion (Peter Jordan (LGBT Consumer Trends), 2018). This represents a significant portion (3.9%) of the estimated global purchasing power of $115.6 trillion ([World Bank, 2015](https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2016&start=1990&view=chart&year_high_desc=false)).
 
 The geographical breakdown of this spending power is roughly proportional to the standard breakdown of total purchasing power, with Asian spending dominating all other markets (more than both the US and European Union combined). This is particularly relevant considering the size of Asian cryptocurrency markets and penetration of cryptocurrency technologies. In mid-2017, Asia was estimated to constitute 38% of all cryptocurrency users ([Cambridge, 2017, p.109](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2017-global-cryptocurrency-benchmarking-study.pdf)). However, it is difficult to ascertain how many of these users are speculative in nature.
 
@@ -51,7 +51,7 @@ The LGBT community overwhelmingly favours using the services of businesses that 
 
 11% of LGBT people reported being self-employed. This is a significant portion of the LGBT market that immediately has a natural interest in engaging commercially with the LGBT community. The National Gay & Lesbian Chamber of Commerce in the U.S. certifies LGBT-owned businesses, but has only [909 certified businesses](http://nglcc.org/sites/default/files/[REPORT]%20NGLCC%20Americas%20LGBT%20Economy%20.pdf). When considering that only 7% of respondents in the CMI survey indicated that they are a registered LGBT Business Enterprise, this gives an encouraging approximation for the total amount of LGBT-owned businesses (around 13,000 in the USA).
 
-When it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men. 
+When it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men.
 
 From the above, we can see that that the LGBT community is diverse in its spending and rewards LGBT-friendly businesses. Though many businesses are LGBT friendly, they may not have had an easy way to indicate this to potential customers. Providing them with a convenient way to do this, without significant investment or marketing, would likely be valuable to both the LGBT community and to supportive businesses.
 
@@ -629,7 +629,7 @@ econ-1: The full report is not publicly available, but can be requested via http
 spen-1: LGBT Community Survey® data was provided by Community Marketing & Insights (CMI), an LGBT-focused research firm based in San Francisco. The data used here are from the [11th Annual LGBT Community Survey](http://thegsba.org/scholarship-home/scholarship-blog/blog-item/gsba-blog/2017/07/11/community-marketing-insights'-11th-annual-lgbt-community-survey-report)®
 spen-2: CMI Survey Page 45.
 spen-3: This is relative to the 7th, 9th and 10th CMI surveys which released donation statistics.
-spen-4: `missing`
+spen-4: CMI Survey Page 24.
 chal-1: For example, gay dating apps have been used by both government and vigilante groups to lure and persecute gay men in [Russia](https://www.hrw.org/report/2014/12/15/license-harm/violence-and-harassment-against-lgbt-people-and-activists-russia) and [Egypt](https://globalnews.ca/news/3784780/egypt-gay-crackdown-dating-app/).
 oppo-1: See White Paper for the history and definition of the Pink Dollar
 infl-1: Similar to how the large reserves of the Kin network are released daily as an inflationary tool, distributed to services.
