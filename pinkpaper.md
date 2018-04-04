@@ -41,13 +41,13 @@ Western economies offer a combination of technological progress and LGBT freedom
 
 ### LGBT spending habits
 
-There are strong indicators<sup>spen-1</sup> that LGBT people are more likely to spend at inclusive businesses. Survey data, as will be discussed below, indicates that many make an intentional effort to do so. The following statements are from markets (mainly the US) where no direct repercussions for being a member of the LGBT community are expected. The reality differs vastly in other regions.
+There are strong indicators<sup>spen-1</sup> that LGBT people are more likely to spend at inclusive businesses. Survey data, as will be discussed below, indicates that many make an intentional effort to do so. The following statements are from markets (mainly the U.S.) where no direct repercussions for being a member of the LGBT community are expected. The reality differs vastly in other regions.
 
 The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the [average household income of gay men differs from that of lesbians significantly](http://www.experian.com/blogs/marketing-forward/2012/07/20/sim-a-look-at-household-income-and-discretionary-spend-of-lesbian-gay-and-heterosexual-americans/). However, both married male-male couples and female-female couples have, on average, [higher household income than their heterosexual counterparts](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-108.pdf) in regions where equal rights have been obtained. 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organizations<sup>spen-2</sup>. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
 
 The LGBT community perceives itself to be financially stable, with only 15% reporting a negative economic outlook for themselves. Both tourism and cultural events form a significant part of LGBT spending<sup>spen-4</sup>, with over two-thirds of LGBT people reported spending  over $50 eating out weekly. Thes are significant markets that could further optimize their appeal to the LGBT community.
 
-The LGBT community overwhelmingly favours using the services of businesses that support the community. 88% of respondents in the CMI survey reported that corporations that support LGBT equality are essential and 77% reported that companies that support LGBT equality would get more of their business in the next year. The reverse also seems to be true, such as when [LGBT people actively boycotted Chick-fil-A](https://en.wikipedia.org/wiki/Chick-fil-A_same-sex_marriage_controversy) after it was perceived to be anti-LGBT.
+The LGBT community overwhelmingly favors using the services of businesses that support the community. 88% of respondents in the CMI survey reported that corporations that support LGBT equality are essential and 77% reported that companies that support LGBT equality would get more of their business in the next year. The reverse also seems to be true, such as when [LGBT people actively boycotted Chick-fil-A](https://en.wikipedia.org/wiki/Chick-fil-A_same-sex_marriage_controversy) after it was perceived to be anti-LGBT.
 
 11% of LGBT people reported being self-employed. This is a significant portion of the LGBT market that immediately has a natural interest in engaging commercially with the LGBT community. The National Gay & Lesbian Chamber of Commerce in the U.S. certifies LGBT-owned businesses, but has only [909 certified businesses](http://nglcc.org/sites/default/files/[REPORT]%20NGLCC%20Americas%20LGBT%20Economy%20.pdf). When considering that only 7% of respondents in the CMI survey indicated that they are a registered LGBT Business Enterprise, this gives an encouraging approximation for the total amount of LGBT-owned businesses (around 13,000 in the USA).
 
@@ -114,7 +114,7 @@ The second and third token objectives can be rewritten and expanded upon, so tha
 2. incentivize members of the LGBT community to unite around using the LGBT Token as a medium of exchange for all purchases;
 3. use the LGBT Token to fund LGBT-centric causes.
 
-These two objectives tie into each other, as the bigger the adoption of the token, the more money can be spent on charitable causes. Thus, the focus on the token economy design will be maximising objective two. 
+These two objectives tie into each other, as the bigger the adoption of the token, the more money can be spent on charitable causes. Thus, the focus on the token economy design will be maximizing objective two.
 
 ## Token Economics
 
@@ -598,8 +598,130 @@ In the near future, when payment channels are integrated into both platforms, we
 
 
 
+## Appendix A: Generic Micro-economic model
+
+We want to create a microeconomic template for launch partners of the LGBT Token. This template should encourage particular types of behavior and contribute to a sustainable model of LGBT Token use by partners.
+
+The launch partners of the LGBT Token will offer a wide variety of services and we provide a model for a generic network-based service. The proposed design is as modular as possible to accommodate launch partners adopting partial models where certain features are not relevant to them.
+
+Actors:
+
+ * **Service Provider:** Provides services to Users in a network model. Two types of primary services may be offered:
+   * Direct User Services: These are services directly provided to the User in exchange for currency.
+   * Network Services: These are services provided to facilitate network interactions.
+ * **Third-party Service:** Interacts with the network (through Network Services) to provide additional services or to engage with Users. Two types of Third-party Services:
+   * Content Creator: Creates content within network for Users to consume and wants both **discovery** and **incentive** for the content produced.
+   * External Organization: Wants to engage Users to provide additional services through the network and requires **discovery** on the network.
+   * Advertisers: Want to Users to **discover** their services by viewing media describing them.
+ * **User:** Engages on the network, consumes (Direct User) services and content of Service Providers and Third-party Services. Users require an incentive to participate in the network and its economy.
 
 
+### Model Assumptions
+ * We assume the *Service Provider* operates a **network model**, where there exist certain actions that can occur between any two actors (of any type) in the network.
+ * We assume the native currency of the platform is the LGBT Token. Additionally, we assume the *Service Provider* has a sufficiently large supply of LGBT Tokens such that the risk of depleting this supply is minimal.
+ * We do not assume the presence of ads on the network. Should an ad platform exist, it is a separate revenue stream to be implemented at the discretion of the *Service Provider*.
+ * We assume the *Service Provider* produces **lists** of things to be consumed by Users, with list ordering determined through some algorithm. These lists may contain anything and be limited in scope to geographical location<sup>appe-1</sup>.
+
+
+### Microeconomic Model
+
+Among the actors on the network, a microeconomy will develop that is facilitated by the native token - LGBT Token. There are two primary functions the Service Provider needs to fulfil for Third-party Services: **discovery** and **incentive**. We propose the Network Services of the Service Provider include a reward engine<sup>appe-2</sup> which facilitates distribution of tokens to other actors in the network. We approach the model in terms of satisfying the actor relationship requirements.
+
+
+### Third-party Service vis-à-vis User
+
+Users discover third-party services (or their appropriate content) through lists. Users can interact with these third-party services:
+
+ * External Organisations and Content Creators can be reviewed, which can contribute to the list ordering algorithm.
+ * Content Creators’ content can be liked, shared, or any other appropriate network action. Additionally, Content Creators can be tipped small amounts of LGBT Token by Users for exemplary content.
+
+
+### User vis-à-vis Service Provider
+
+Within the economy, there are two primary exchanges of LGBT Token between the Service Provider and the User: transactions and rewards. The Service Provider would like to create an **incentive** for the User to both participate in the network and spend LGBT Tokens. We propose the following two mechanisms to achieve this:
+
+
+#### Discount Token Model
+
+Users purchase Direct User Services from the Service Providers in exchange for LGBT Token. To encourage the use of LGBT Tokens within the network and provide incentive to spend them, we propose a discount token model for Direct User Services.
+
+Let ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X)% be the maximum discount attainable for a service (or collection of services) on the network. Then there are a variety of possible discount models through treating a token as both a discount token and a medium-of-exchange simultaneously:
+
+ 1. If a user holds ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y)% of the total circulating supply, the discount attained is ![\frac{Y}{100}X\%](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7BY%7D%7B100%7DX%5C%25). The discount is directly proportional to how many tokens the user has (linearly).
+ 2. An alternative, to encourage smaller holders who cannot amass large amounts of tokens, is to have a function ![f: \mathbb{R}^+ \longrightarrow 0,100](http://latex.codecogs.com/gif.latex?%5Cinline%20f%3A%20%5Cmathbb%7BR%7D%5E&plus;%20%5Clongrightarrow%20%5B0%2C100%5D%20%5C%5C) which has larger growth for smaller values of ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y) and plateaus for larger values of ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y). The discount would then be ![\frac{f(Y)}{100}X\%
+](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7Bf%28Y%29%7D%7B100%7DX%5C%25).
+ 3. Have a discount related to the number of tokens held as a flat value, not relative to the total supply. This is effectively a rephrasing of the above models, but a discount function could be applied directly to the number of tokens without regard to the total supply.
+
+To ensure those with significant capital do not just buy tokens as needed for discounts and subsequently sell them, two solutions are proposed:
+
+ 1. Have only tokens which have been held in an account for a fixed amount of time able to be used as discount tokens.
+ 2. Have the function [f](http://latex.codecogs.com/gif.latex?%5Cinline%20f) defined above reliant on time, so that the weight of a discount is ‘coin age’-based<sup>appe-3</sup>.
+
+Treating the token as a discount token reduces the velocity in the system through incentivized holding of tokens, as well as incentivising spending for services that are offered in both LGBT Token and Fiat (such as premium membership).
+
+
+#### Reward Mechanism
+
+A **reward mechanism** for User engagement on the network which distributes small amounts of LGBT Token to Users for completing certain actions such as:
+
+ * Reviewing Third-party Services.
+ * Performing certain first-time actions without Users.
+ * Completing various (voluntary) aspects of their profile. Rewardable actions include:
+   * Claiming a wallet for LGBT Tokens. This could be an opt-in experience, as a wallet ties an account to the network, which some users may be uncomfortable with.
+   * Proof-of-life. In other words, proof this is actually a user. For example, this can be done by being required to upload 4 photos of the user.
+   * Filling out a survey of interests to claim rewards. A survey may enable greater discovery of  the user’s interests, so that it can better tailor network discovery for that user.
+   * Other Demographic information.
+ * Verifying an identity is important in networks to preserve the integrity of the network. Incentivizing the verification process ensures users are likely to verify their accounts while still being able to interact with the network if they choose not to. A reward can be paid out to users who successfully complete verification through the appropriate channels. This verification process may be an in-house process or delegated to a third-party KYC service (which may in turn be a decentralized service such as Civic). 
+
+This incentivizes network participation and creates a network effect where User actions encourage more Third-party services and other Users to appraise these actions. The amounts for these rewards will be determined by the market rate for LGBT Tokens at the time and could be subject to change at the service provider’s discretion.
+
+
+### Third-party Service vis-à-vis Service Provider
+
+Third-party services (of both type) would like to be **discovered** by Users on the network. Additionally, Content Creators would like to monetize their content, which incentivizes them to produce more content for Users. To this end, we propose two models to achieve the desired behavior.
+
+
+### Discovery-staking Mechanism
+
+Under the assumption that the network accommodates lists, we propose appropriate (ordered) directories of third-party services<sup>appe-4</sup> (which are categorized both conceptually and geographically) for Users to consume. This inevitably introduces the potential for competition in listing on directories in each geographical region (or supercity) where the network operates. These lists will utilize a discovery algorithm which will take into account a number of tokens staked by the third-party service. Staked tokens are locked in for a fixed period of time in exchange for a higher score in the discovery algorithm (which will take into account other metrics as well such as followers etc). This applies to both External Organisations and Third-party services.
+
+For a particular geographical region or directory type, an organization stakes LGBT Token to contribute to weighting in the algorithm. The actual weighting is determined both by the number of tokens held and the time for which they are held. For any amount of tokens ![S](http://latex.codecogs.com/gif.latex?%5Cinline%20S) staked, the staking-weight of these tokens after being held for a time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t) is
+
+![\mbox{Staking weight}(S, t) = S \cdot \frac{t}{\alpha + \beta t}
+](http://latex.codecogs.com/gif.latex?%5Cmbox%7BStaking%20weight%7D%28S%2C%20t%29%20%3D%20S%20%5Ccdot%20%5Cfrac%7Bt%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t%7D)
+
+where ![\alpha](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha),![\beta](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cbeta) are configurable parameters which control how much the ‘age’ aspect of tokens is weighted in the staking weight. The total staking weight of a business is then a sum of all staking weights for tokens held (which may have different ages). This staking weight is then incorporated into the discovery algorithm.
+
+Staking allows the additional possibility of penalties for third-party services that do not adhere to participation agreements on the network. Actors who violate these agreements may have their stake confiscated or slashed.
+
+The benefits of this are:
+
+ * Tokens get locked up in the network. This reduces velocity in the network which assists the token with maintaining value, so that it can be used as a unit of account & medium of exchange
+ * External Organisations which otherwise would be unwilling to pay for ads are more likely to buy tokens and add to the network usage, knowing they ultimately get returns over the lifetime of the User. This also facilitates more User engagement through reviews.
+ * Content Creators are also incentivized to purchase tokens and not convert rewards immediately, as holding tokens have a compounded effect of more discovery and therefore future earnings.
+
+This model can be adjusted for context with appropriate staking functions and rewards. For example, [Numerai](https://numer.ai/) allows claims (stakes) based on the confidence of a data scientist’s results and distributes rewards based on that.
+
+#### Monetization for Content Creators
+
+Monetization in the form of rewards through the reward engine for Content Creators incentivizes higher quality content. For every User action (or certain amount of User actions) associated with content posted by a Content Creator, the reward engine can distribute LGBT Tokens to the Content Creator. The rewards can vary for different types of actions and for the rate per ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) of each action type occurs. This is linked to the discovery mechanism as content which is higher on discovery lists will be more likely to be consumed by Users.
+
+Monetization can also be based partially on a staking mechanism. Content Creators can lock tokens dedicated to content creation which can provide additional rewards (up to some maximum). For example, assuming a maximum additional reward of ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M), a Content Creator could earn a bonus reward of up to ![\frac{Y}{N}M](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7BY%7D%7BN%7DM) tokens, where ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y) is the number of tokens staked by the Content Creator for rewards and ![N](http://latex.codecogs.com/gif.latex?%5Cinline%20N) is some predetermined parameter.
+
+
+#### Advertiser vis-à-vis Service Provider/User
+
+To incentivize ad-viewing in a network, rewards will be paid to users who view ad videos (in their entirety). This can work in one of two ways:
+
+ * For each video viewed, a user will earn ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens for up to Vvideos per day for a total of [XV](http://latex.codecogs.com/gif.latex?%5Cinline%20XV) tokens per day per user. Both of these are adjustable parameters based on the actual number of impressions within a given time interval as well as the network’s revenue per ad viewed. The time interval should be chosen such that viewing trends are unlikely to shift notably during such a period.
+ * If an advertiser pays the service provider ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens (or any currency) for each video view, the service provider can pay each User viewing a video a fraction of that earning. Therefore incentives will vary by video based on the pricing between the particular Advertiser and the Service Provider.
+
+
+#### User vis-à-vis User
+
+Users interact with other Users as they usually would have on the network. The native currency, LGBT Token, can be transferred between Users through gifts and tips.
+
+We believe the model described above can be applied to any network use case satisfying the assumptions stated, or adjusted to match network use cases which don’t satisfy the stated assumptions.
 
 
 ## LAST PAGE (not an actual headline, just a page break reminder)
@@ -623,32 +745,34 @@ Telegram icon and link
 
 ## Footnotes
 
-abst-1:  LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
-abst-2: See White Paper for additional details.
-econ-1: The full report is not publicly available, but can be requested via http://www.lgbt-capital.com
-spen-1: LGBT Community Survey® data was provided by Community Marketing & Insights (CMI), an LGBT-focused research firm based in San Francisco. The data used here are from the [11th Annual LGBT Community Survey](http://thegsba.org/scholarship-home/scholarship-blog/blog-item/gsba-blog/2017/07/11/community-marketing-insights'-11th-annual-lgbt-community-survey-report)®
-spen-2: CMI Survey Page 45.
-spen-3: This is relative to the 7th, 9th and 10th CMI surveys which released donation statistics.
-spen-4: CMI Survey Page 24.
-chal-1: For example, gay dating apps have been used by both government and vigilante groups to lure and persecute gay men in [Russia](https://www.hrw.org/report/2014/12/15/license-harm/violence-and-harassment-against-lgbt-people-and-activists-russia) and [Egypt](https://globalnews.ca/news/3784780/egypt-gay-crackdown-dating-app/).
-oppo-1: See White Paper for the history and definition of the Pink Dollar
-infl-1: Similar to how the large reserves of the Kin network are released daily as an inflationary tool, distributed to services.
-toke-1: https://www.smithandcrown.com/trends-token-sale-proposals/
-toke-2: 1 ETH is actually equal to 10^18 Wei as per http://ethdocs.org/en/latest/ether.html
-toke-3: https://hackernoon.com/one-trillion-crypto-tokens-e3adabb92fd9
+* abst-1:  LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
+* abst-2: See White Paper for additional details.
+* econ-1: The full report is not publicly available, but can be requested via http://www.lgbt-capital.com
+* spen-1: LGBT Community Survey® data was provided by Community Marketing & Insights (CMI), an LGBT-focused research firm based in San Francisco. The data used here are from the [11th Annual LGBT Community Survey](http://thegsba.org/scholarship-home/scholarship-blog/blog-item/gsba-blog/2017/07/11/community-marketing-insights'-11th-annual-lgbt-community-survey-report)®
+* spen-2: CMI Survey Page 45.
+* spen-3: This is relative to the 7th, 9th and 10th CMI surveys which released donation statistics.
+* spen-4: CMI Survey Page 24.
+* chal-1: For example, gay dating apps have been used by both government and vigilante groups to lure and persecute gay men in [Russia](https://www.hrw.org/report/2014/12/15/license-harm/violence-and-harassment-against-lgbt-people-and-activists-russia) and [Egypt](https://globalnews.ca/news/3784780/egypt-gay-crackdown-dating-app/).
+* oppo-1: See White Paper for the history and definition of the Pink Dollar
+* infl-1: Similar to how the large reserves of the Kin network are released daily as an inflationary tool, distributed to services.
+* toke-1: https://www.smithandcrown.com/trends-token-sale-proposals/
+* toke-2: 1 ETH is actually equal to 10^18 Wei as per http://ethdocs.org/en/latest/ether.html
+* toke-3: https://hackernoon.com/one-trillion-crypto-tokens-e3adabb92fd9
 toke-4: https://www.quora.com/How-much-does-YouTube-pay-per-1000-views-How-where-can-I-get-sponsor-to-have-enough-capital-from-nothing-and-be-a-successful-company, YouTubers make on average $0.8 per 1000 views, implying very small rewards per view.
-toke-5: One 100 millionth of a Bitcoin is called a satoshi.
-toke-6: This does not take into account sale bonuses which would affect the effective price for the token during that period.
-vola-1: Such as the [Basic Attention Token](https://basicattentiontoken.org/)
-vola-2: [The network effects of volatility and liquidity, Bitcoin vs other payment coins](http://woobull.com/the-network-effects-of-volatility-and-liquidity-bitcoin-vs-other-payment-coins/)
-vola-3: Based on the previous footnote, a study found that Bitcoin should achieve fiat-level volatility by mid-2019.
-vola-4: [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5)
-vola-5: This is a similar system used by the [Kin Rewards Engine](https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf).
-vola-6: Though Hornet could disclaim that a certain minimum threshold of users participating in reward-related activities is required to limit abuse by small groups of people.
-micr-1: A generalized construction of this template can be found in Appendix A.
-othe-1: The foundation aims to cooperate with existing companies that already work on Credit Cards with crypto payback functions.
-
-
+* toke-5: One 100 millionth of a Bitcoin is called a satoshi.
+* toke-6: This does not take into account sale bonuses which would affect the effective price for the token during that period.
+* vola-1: Such as the [Basic Attention Token](https://basicattentiontoken.org/)
+* vola-2: [The network effects of volatility and liquidity, Bitcoin vs other payment coins](http://woobull.com/the-network-effects-of-volatility-and-liquidity-bitcoin-vs-other-payment-coins/)
+* vola-3: Based on the previous footnote, a study found that Bitcoin should achieve fiat-level volatility by mid-2019.
+* vola-4: [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5)
+* vola-5: This is a similar system used by the [Kin Rewards Engine](https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf).
+* vola-6: Though Hornet could disclaim that a certain minimum threshold of users participating in reward-related activities is required to limit abuse by small groups of people.
+* micr-1: A generalized construction of this template can be found in Appendix A.
+* othe-1: The foundation aims to cooperate with existing companies that already work on Credit Cards with crypto payback functions.
+* appe-1: Should this assumption not be satisfied, the model has been designed in such a way to accommodate this.
+* appe-2: This is commonly found in reward programs in decentralized networks. Both [PROPS](https://www.propsproject.com/) and [Kin](https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf) abstract token-related distribution services to a reward engine.
+* appe-3: https://www.bitcoinplus.org/blog/proof-stake-explained 
+* appe-4: Note, again, that this is a completely separate service to ads.
 
 
 
