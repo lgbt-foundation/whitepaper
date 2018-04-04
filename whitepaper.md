@@ -2,7 +2,7 @@
 
 > Using **BLOCKCHAIN TECHNOLOGY** to **ADVANCE EQUAL RIGHTS AND ACCEPTANCE** for the **LGBT COMMUNITY**
 
-### Legal Disclaimer
+### Disclaimer
 
 This White Paper and other documents published in association with this White Paper relate to the LGBT Token project. These documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
 
