@@ -2,7 +2,7 @@
 
 > Using **BLOCKCHAIN TECHNOLOGY** to **ADVANCE EQUAL RIGHTS AND ACCEPTANCE** for the **LGBT COMMUNITY**
 
-### Legal Disclaimer
+### Disclaimer
 
 This paper relates to the LGBT Token project and should be read in conjunction with the whitepaper available at [https://lgbt-token.org](https://lgbt-token.org). This and other documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
 
@@ -21,6 +21,8 @@ Recipients are notified as follows:
 This Pink Paper has not been reviewed by any regulatory authority in any jurisdiction. References in this Pink Paper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than explicitly mentioned partners or providers such as Hornet Networks Limited ("**Hornet**"), the use of any other company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.
 
 All references to 'dollars' or '$' are references to United States dollars unless otherwise stated.
+
+This Pink Paper has been created in collaboration with **Newtown Partners**. Newtown Partners is a blockchain investment and advisory services company that specializes in token economics, token sale design and demand generation for both their portfolio of startups and in an advisory capacity. They operate out of offices in San Francisco, U.S. and Cape Town, South Africa.
 
 
 ## Abstract
@@ -42,9 +44,9 @@ Western economies offer a combination of technological progress and LGBT freedom
 
 ### LGBT spending habits
 
-There are strong indicators<sup>spen-1</sup> that LGBT people are more likely to spend at inclusive businesses. Survey data, as will be discussed below, indicates that many make an intentional effort to do so. The following statements are from markets (mainly the U.S.) where no direct repercussions for being a member of the LGBT community are expected. The reality differs vastly in other regions.
+There are strong indicators<sup>spen-1</sup> that LGBT people are more likely to spend at inclusive businesses. For example, 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. LIkewise, when it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men. As a contextual note, the following statements are from markets (mainly the U.S.) where no direct repercussions for being a member of the LGBT community are expected. The reality differs vastly in other regions.
 
-The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the [average household income of gay men differs from that of lesbians significantly](http://www.experian.com/blogs/marketing-forward/2012/07/20/sim-a-look-at-household-income-and-discretionary-spend-of-lesbian-gay-and-heterosexual-americans/). However, both married male-male couples and female-female couples have, on average, [higher household income than their heterosexual counterparts](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-108.pdf) in regions where equal rights have been obtained. 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organizations<sup>spen-2</sup>. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
+The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the [average household income of gay men differs from that of lesbians significantly](http://www.experian.com/blogs/marketing-forward/2012/07/20/sim-a-look-at-household-income-and-discretionary-spend-of-lesbian-gay-and-heterosexual-americans/). However, both married male-male couples and female-female couples have, on average, [higher household income than their heterosexual counterparts](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-108.pdf) in regions where equal rights have been obtained. Across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organizations<sup>spen-2</sup>. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
 
 The LGBT community perceives itself to be financially stable, with only 15% reporting a negative economic outlook for themselves. Both tourism and cultural events form a significant part of LGBT spending<sup>spen-4</sup>, with over two-thirds of LGBT people reported spending  over $50 eating out weekly. Thes are significant markets that could further optimize their appeal to the LGBT community.
 
@@ -52,37 +54,15 @@ The LGBT community overwhelmingly favors using the services of businesses that s
 
 11% of LGBT people reported being self-employed. This is a significant portion of the LGBT market that immediately has a natural interest in engaging commercially with the LGBT community. The National Gay & Lesbian Chamber of Commerce in the U.S. certifies LGBT-owned businesses, but has only [909 certified businesses](http://nglcc.org/sites/default/files/[REPORT]%20NGLCC%20Americas%20LGBT%20Economy%20.pdf). When considering that only 7% of respondents in the CMI survey indicated that they are a registered LGBT Business Enterprise, this gives an encouraging approximation for the total amount of LGBT-owned businesses (around 13,000 in the USA).
 
-When it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men.
-
 From the above, we can see that that the LGBT community is diverse in its spending and rewards LGBT-friendly businesses. Though many businesses are LGBT friendly, they may not have had an easy way to indicate this to potential customers. Providing them with a convenient way to do this, without significant investment or marketing, would likely be valuable to both the LGBT community and to supportive businesses.
 
 
 ## LGBT Challenges
 
-The LGBT community currently faces economic, social and legal challenges. While Western societies have made progress on recognizing the rights of people with differing sexual orientations – through enacting legislation and corporate social responsibility – this has not always extended to the larger worldwide LGBT community. 
+The LGBT community currently faces economic, social and legal challenges. While Western societies have made progress on recognizing the rights of people with differing sexual orientations – through enacting legislation and corporate social responsibility – this has not always extended to the larger worldwide LGBT community. The White Paper explains in greater detail the challenges and inequalities from external factors as well as from within the LGBT community. Please refer to the White Paper to learn about and understand the reasons for this proposal as well as the tremendous economic and advocacy opportunities it presents.
 
 
-### Criminal Persecution
-
-LGBT people require privacy due to the wide scope of discrimination experienced in many countries<sup>chal-1</sup>. There are many complex factors that contribute to this discrimination, from religious fundamentalism to more nuanced social issues like transgender bathroom laws. Due to sodomy laws, male homosexual acts remain punishable by death in a number of countries.
-
-
-### Societal Persecution
-
-Although good progress has been made, there are still significant risks of persecution for members of the LGBT community. Even in developed countries like the U.S., members of the community are still socially excluded and heavily discriminated against. For example, in a [breakout report from the National Center for Transgender Equality’s U.S. Transgender Survey (USTS)](https://www.transequality.org/sites/default/files/docs/usts/USTS-Black-Respondents-Report.pdf), which aggregated data from 27,715 respondents nationwide, 796 African-American transgender or gender non-identifying respondents clarified the stark reality facing them:
-
- * 20% of respondents were unemployed, twice the rate of African-American people in the U.S. population, and four times that of the U.S. population overall.
- * 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall.
- * 38% were living in poverty, compared to 24% of black people in the U.S. population.
- * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents.
- * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population.
-
-LGBT charities require funding for programs to overcome this societal stigma and advance equal rights. Even in countries like the U.S., these charities don’t receive enough funding to handle the number of people that need their services, and face many hurdles with moving funds around the world to where the projects are based. LGBT charities often require emergency funds to increase the level of activity in response to acts of persecution. Donating money across borders using fiat currency is often an expensive and slow process, in addition to legal hurdles faced by some LGBT organizations accessing their funds in less accommodating countries. There is clearly the desire to donate and there is clearly a need globally to support LGBT and equal right programs.
-
-
-## Opportunities for Cryptocurrency
-
-### LGBT-friendly Business Prospects
+## LGBT-friendly Business Prospects
 
 The Human Rights Commission (HRC) gave 609 large businesses a perfect score in its Corporate Equality Index 2018. In the U.S., many businesses prior to the landmark Supreme Court ruling legalising same-sex marriage extended spousal benefits to same-sex employees. Additionally, some businesses cover medical expenses for trans employees. While this is indicative of increasing levels of support for the LGBT community, consumers may not be aware of this. 
 
@@ -94,6 +74,10 @@ Tokenizing the Opportunities
  * Using a cryptocurrency running on an appropriately decentralized blockchain network will provide members of the LGBT community with a level of pseudonymity not available to them in traditional payment methods (such as credit cards). This will give LGBT community members in less friendly countries access to products and services that they would not previously have had access to.
  * Having a cryptocurrency dedicated to the LGBT community will mobilize the masses of this community into a tangible, global economic network. Through the presence of the cryptocurrency, the community can raise awareness and measure its impact on businesses, charities and boycotts. The high affinity of LGBT people to sympathetic causes, even if these projects are less ‘user-friendly’ will allow this cryptocurrency to bridge the gap between the current technical cryptocurrency community and mainstream adoption.
  * Using a cryptocurrency, LGBT community members can easily fund charities anywhere in the world for LGBT-related causes. The cryptocurrency will bypass traditional transaction processing bureaucracy and costs, with the savings effectively being passed onto those who need the funds most. Also, a cryptocurrency can prevent funds from easily being seized by governments. The cryptocurrency also provides the opportunity for funds generated in the network from standard activities (such as payment transactions) to be directed to charities.
+
+### Opportunity for cryptocurrency
+
+The LGBT community shows a great affinity for projects and causes that support the push for equal rights. Its collective spending power is as yet poorly understood, but even at lower estimates comprises a significant portion of the total global spending power. With its untapped economic power, and it already identifying as a worldwide movement, the LGBT community provides the ideal environment to establish a global cryptocurrency that supports its goals.
 
 
 ## Introducing the LGBT Token

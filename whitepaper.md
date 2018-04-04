@@ -83,7 +83,7 @@ To many, the “Pink Dollar” often looks like any other dollar to them, which 
 
 #### Inequality And The Status Of The Global LGBT Community
 
-Unfortunately, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and social inequality, which exclude them from resources and help. Transgender members of the community face the highest amounts of discrimination, with black transgender and gender non-conforming people facing the most severe degree of discrimination and bigotry of all in the U.S. and arguably elsewhere.
+Unfortunately, marginalized subgroups within the LGBT community are still struggling with a unilateral lack of acceptance, directly translating to poor economic status and social inequality, which exclude them from resources and help.
 
 > **The growing acceptance of the LGBT community has not yet reached the most marginalized within the community**
 
@@ -92,6 +92,17 @@ The growing acceptance of the LGBT community has not reached the most marginaliz
 Of United Nations member states, 99 have signed either the UN General Assembly declaration of LGBT rights or the 2011 resolution on LGBT rights by the Human Rights Council. However, 54 members supported a counter-declaration opposing LGBT rights in 2008 and another four dozen members have remained stubbornly neutral and silent on the issue of LGBT rights<sup>int-15</sup>. What’s more, this reluctance to take a clear stand makes it all too easy for these countries to regress in LGBT rights if and when those rights become convenient lightning rod issues for whatever politician or party is in charge (for example, recent developments in both Russia and Nigeria).
 
 ` INSERT TWO GRAPHICS - ONE WORLDMAP LIKE ON WIKIPEDIA AND ONE WITH THE SIZE OF PEOPLE IN SAFE, UNDEFINED AND DANGEROUS ZONES `
+
+Yet, while Western societies have made progress on recognizing the rights of people with differing sexual orientations and gender identities, even in developed countries like the U.S., members of the community are still socially excluded and heavily discriminated against. For example, in a breakout report from the [National Center for Transgender Equality’s U.S. Transgender Survey](https://transequality.org/issues/resources/national-transgender-discrimination-survey-look-black-respondents) (USTS), which aggregated data from 27,715 respondents nationwide, 796 African-American transgender or gender non-identifying respondents clarified the stark reality facing them:
+
+* 20% of respondents were unemployed, twice the rate of African-American people in the U.S. population, and four times that of the U.S. population overall.
+* 42% had been homeless at some point in their lives, compared to 30% of the USTS sample overall.
+* 38% were living in poverty, compared to 24% of black people in the U.S. population.
+* 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents.
+* 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population.
+
+LGBT charities require funding for programs to overcome this societal stigma and advance equal rights, not solely for the most visible members of the community, but also for those who, to this point, have been left behind. Unfortunately, these charities don’t receive enough funding to handle the number of people that need their services, and face many hurdles with moving the funds they do have around the world to where the projects are based. This difficulty is exacerbated by the fact LGBT charities often require emergency funds to increase their level of activity in response to acts of persecution. Donating money across borders using fiat currency is often an expensive and slow process, in addition to the legal hurdles faced by LGBT organizations accessing their funds in less accommodating countries. There is clearly the desire to donate and there is clearly a need globally to support LGBT and equal right programs. That’s where the LGBT Token and its blockchain foundation can help. 
+
 
 
 ## THE LGBT TOKEN
@@ -113,7 +124,7 @@ One of the core ideas behind blockchain, that is, the technology the LGBT Token 
 
 > **The idea is to have a digital identity that is unique, unhackable and stored in a decentralized environment, and will be used in a respectful way to honor and protect users' physical identities.**
 
-The LGBT Token identity also gives its members the security in knowing that personal and sensitive data will not be made public, given to third parties, or misused. Hacks like the [Ashley Madison Data Breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach), the [Facebook/Cambridge Analytics data misuse](https://en.wikipedia.org/wiki/Facebook_and_Cambridge_Analytica_data_breach) or the [recent report of Grindr sharing sensitive HIV status data with other companies](https://www.buzzfeed.com/azeenghorayshi/grindr-hiv-status-privacy), without the consent of the user, can result in long-term and even dangerous consequences for those affected. For many members of the LGBT community, protecting their identity is a matter of life or death. The Foundation believes that the ownership of their data belongs in the hands of its members.
+The LGBT Token identity also gives its members the security in knowing that personal and sensitive data will not be made public, given to third parties, or misused. Hacks like the [Ashley Madison Data Breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach), the [Facebook data misuse via Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook_and_Cambridge_Analytica_data_breach) or the [recent report of Grindr sharing sensitive HIV status data with other companies](https://www.buzzfeed.com/azeenghorayshi/grindr-hiv-status-privacy), without the consent of the user, can result in long-term and even dangerous consequences for those affected. For many members of the LGBT community, protecting their identity is a matter of life or death. The Foundation believes that the ownership of their data belongs in the hands of its members.
 
 
 ### 2. LGBT Economy
@@ -236,9 +247,17 @@ As a result, Hornet is the only private company to be invited as Founding Member
 With this background, Hornet found that the recent innovations in blockchain could offer huge benefits for the whole LGBT community. It funded the initiation of the LGBT Token project with substantial budgets and rallied partners and advisers to secure its successful launch.
 
 
-### Revry - Global Queer Streaming Service
+### Revry - Queer Media Network
 
-`[SMALL REVRY LOGO & description needed]`
+`[SMALL REVRY LOGO ]`
+
+Revry is the premier queer digital media network for the inclusive 21st century LGBTQ+ community.  As the first-ever global queer streaming service, Revry offers a uniquely curated selection of domestic and international entertainment that includes iconic, award-winning narrative and documentary films, cutting-edge series and originals along with the world’s largest libraries of groundbreaking podcasts, music albums and videos. Revry is available worldwide on seven OTT, mobile, and online platforms, and hosts an exclusive linear channel on Pluto TV with a reach of over 10 million people in over 100 countries.
+
+Headquartered in Los Angeles, Revry is led by an inclusive team of queer, multi-ethnic and allied partners who bring decades of experience in the fields of tech, digital media, and queer advocacy.  The Revry community also makes up a diverse group of queer, allied, and multi-ethnic filmmakers, artists, advocates, entrepreneurs, musicians, creators, and visionaries who are committed to amplifying the voices of our community and showcasing the entire spectrum of the queer experience through multiple media formats and storytelling.
+
+With empowerment, recognition, and exaltation of the queer perspective told through unique and authentic stories, music, conversations and artistry, Revry has become a magnet for transformative collaborations.  Leading initiatives with global charity organizations like the Trevor Project to partnering with top brands like Lexus, Revry is the nexus for inclusivity in this age of content.   Making a difference as a holistic leader in art and commerce, Revry is proud to continue innovating culture through its global currency partnership with the LGBT Token.
+
+> *“By 2020, millennials will make up over 50% of purchasing power globally and by 2030, Gen Z and millennials combined will make up over 75% of purchasing power globally.  It’s a very strong scaling demographic that we’re entering into. It’s really important that we not only have a currency of our own that is able to scale with our demographic, but have a coin that protects the rights and identities of our LGBTQ+ community. For us, 1 in 5 visitors to Revry come from oppressed countries so safe ways to participate in queer art and commerce makes this mutual democratization and destigmatization opportunity ideal for our global community.”* - Damian Pelliccione, Revry Co-Founder and CEO
 
 
 
