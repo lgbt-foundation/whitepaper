@@ -335,7 +335,7 @@ It is important to note that potential regulatory issues may arise as the donati
 
 #### Voting
 
-The LGBT Impact Program will have a quarterly vote for all token holders to vote on which charitable causes to fund. The list of causes will be provided by the Foundation initially, eventually the curation will be divested to a decentralized governance model where the community itself decides on appropriate programs to fund over time. This migration will occur as soon as a critical mass of users presents the ability to bootstrap a decentralized governance model. Any token holder will be able to submit a vote, where their vote weighting is a function of the amount of tokens in their wallet and how long these tokens have been held.
+The LGBT Impact program will open a quarterly vote for all token holders to decide on which charitable causes to fund. The list of projects will be provided by the Foundation initially, with the goal of eventually divesting curation over time into a decentralized governance model where the community itself will decide on appropriate programs to fund. This migration will occur as soon as a critical mass of users presents the ability to bootstrap a decentralized governance model. Any token holder will be able to submit a vote, where their vote weighting is a function of the amount of tokens in their wallet and how long these tokens have been held.
 
 A few terms and variables are defined, which will be used to formulate the voting process:
 
