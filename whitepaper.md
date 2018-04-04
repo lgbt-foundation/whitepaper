@@ -4,7 +4,24 @@
 
 ### Legal Disclaimer
 
-`` [[ INSER NEW DISCLAIMER ]] ``
+This White Paper and other documents published in association with this White Paper relate to the LGBT Token project. These documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
+
+Recipients are notified as follows:
+
+* **This White Paper describes a future project:** This whitepaper contains forward-looking statements that are based on the beliefs of LGBT Foundation Limited ("**LGBT Foundation**"), as well as certain assumptions made by and information available to the LGBT Foundation. The LGBT project as envisaged in this White Paper is under development and is being constantly updated, including but not limited to key governance and technical features. The LGBT Token (as described in this White Paper) involves and relates to the development and use of experimental platforms (software) and technologies that may not come to fruition or achieve the objectives specified in this whitepaper. If and when the LGBT platform is completed, it may differ significantly from the platform set out in this White Paper. 
+* **Eligible purchasers:** the information in this White Paper is provided privately to certain prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
+* **No offer of regulated products or services:** the LGBT Token is not intended to constitute a security or any other regulated product or service in any jurisdiction. This White Paper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction.
+* **No advice:** this whitepaper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
+* **No representations:** no representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this White Paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this whitepaper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
+* **Risk warning:** the purchase of LGBT Tokens carries with it significant risks.  Potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens. 
+* **Translations:** this White Paper and related materials are issued in English. Any translation is for reference purposes only and is not certified by any person. If there is any inconsistency between a translation and the English version of this whitepaper, the English version prevails.
+* **Restricted transmission:** this White Paper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this White Paper is prohibited or restricted. 
+* **No offer of fund-raising appeals or charitable donations:** the LGBT Foundation is currently not yet set up as a charitable, philanthropic and benevolent society. It however plans on exploring and obtaining any necessary regulatory licences or approvals in the future as needed. The LGBT Foundation does not engage in fund-raising appeals or seek participation to sell LGBT Tokens to fund charitable, philanthropic or benevolent causes. Any involvement in social impact programs is through the LGBT Foundation’s own discretionary social responsibility program called LGBT Impact (see 'LGBT Impact' section below).
+
+This White Paper has not been reviewed by any regulatory authority in any jurisdiction. References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than explicitly mentioned partners or providers such as Hornet Networks Limited ("**Hornet**"), the use of any other company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.
+
+All references to ‘dollars’ or ‘$’ are references to United States dollars unless otherwise stated.
+
 
 ## INTRODUCTION
 
@@ -190,7 +207,7 @@ The governance of the LGBT Foundation, as well as the distribution of funds for 
 
 The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. No one person can get unauthorized access or is able to manipulate or remove information without the consent of the personal owner of that information. This prevents governments and organizations from demanding, hacking or otherwise obtaining this information, an especially critical safeguard in countries where the LGBT community faces repercussions and victimization.
 
-This paper focuses on the issues that the LGBT Foundation strives to solve. A pink paper with further details exploring the exact technical solution has been released separately and with the input of the crypto community. We’d be happy to provide it upon request if you’d like to learn more about the technical aspects of the LGBT Token.
+This paper focuses on the issues that the LGBT Foundation strives to solve. A Pink Paper with further details exploring the exact technical solution has been released separately and with the input of the crypto community. We’d be happy to provide it upon request if you’d like to learn more about the technical aspects of the LGBT Token.
 
 
 ## LAUNCH PARTNERS
@@ -317,7 +334,6 @@ _This isn't synced fully yet - we might list more footnotes than we actually nee
 
 ## Notes on the layout
 
-  * The overall layout of the white paper is rather a brochure than a technical paper. We will release a more technical _yellow paper_ and a more traditional white paper layout later. Alternatively, we could call this one the Pink Paper :)
   * Please use a smaller font for the legal disclaimer, so it's not as prominent as the rest.
   * Please have the official website as part of the footer
   * Embrace white space
