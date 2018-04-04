@@ -4,7 +4,7 @@
 
 ### Legal Disclaimer
 
-This paper relates to the LGBT Token project and should be read in conjunction with the whitepaper available at https://lgbt-token.org. This and other documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
+This paper relates to the LGBT Token project and should be read in conjunction with the whitepaper available at [https://lgbt-token.org](https://lgbt-token.org). This and other documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
 
 Recipients are notified as follows:
 
@@ -29,7 +29,6 @@ A token to address the needs of the LGBT<sup>abst-1</sup> community is proposed.
 
 This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The White Paper offers additional context and rationale on the opportunities and challenges concerning the LGBT community in general and the Pink Economy in particular. While not required, it it recommended to read both documents. For your convenience we reduced the context to a minimum in this document.
 
-`` [[ INSERT TABLE OF CONTENTS ]] ``
 
 ## LGBT Economy Strength
 
@@ -37,7 +36,7 @@ This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The
 
 The estimated LGBT share of the global household wealth is $16 trillion ([LGBT Capital, 2016](http://www.lgbt-capital.com/docs/Estimated_LGBT-Wealth_(table)_-_May_2016.pdf)) which constitutes a significant portion (6%) of the estimated global household wealth of $250 trillion ([Credit Suisse Research Institute: Global Wealth Report 2015](https://publications.credit-suisse.com/tasks/render/file/?fileID=F2425415-DCA7-80B8-EAD989AF9341D47E)). The estimated global purchasing power of the LGBT economy in 2016 was between $2 trillion and $4.6 trillion (Peter Jordan (LGBT Consumer Trends), 2018). This represents a significant portion (3.9%) of the estimated global purchasing power of $115.6 trillion ([World Bank, 2015](https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2016&start=1990&view=chart&year_high_desc=false)).
 
-The geographical breakdown of this spending power is roughly proportional to the standard breakdown of total purchasing power, with Asian spending dominating all other markets (more than both the US and European Union combined). This is particularly relevant considering the size of Asian cryptocurrency markets and penetration of cryptocurrency technologies. In mid-2017, Asia was estimated to constitute 38% of all cryptocurrency users ([Cambridge, 2017, p.109](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2017-global-cryptocurrency-benchmarking-study.pdf)). However, it is difficult to ascertain how many of these users are speculative in nature.
+The geographical breakdown of this spending power is roughly proportional to the standard breakdown of total purchasing power, with Asian spending dominating all other markets (more than both the US and European Union combined). This is particularly relevant considering the size of Asian cryptocurrency markets and penetration of cryptocurrency technologies<sup>abst-3</sup>. In mid-2017, Asia was estimated to constitute 38% of all cryptocurrency users ([Cambridge, 2017, p.109](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2017-global-cryptocurrency-benchmarking-study.pdf)). However, it is difficult to ascertain how many of these users are speculative in nature.
 
 Western economies offer a combination of technological progress and LGBT freedoms, offering the biggest potential for adopting products that intersect these markets. The North American and European Union LGBT markets, both worth about $1 trillion (LGBT GDP, WEALTH & TRAVEL 2016 by LGBT Capital, 2016<sup>econ-1</sup>), are of particular note.
 
@@ -84,6 +83,7 @@ LGBT charities require funding for programs to overcome this societal stigma and
 ## Opportunities for Cryptocurrency
 
 ### LGBT-friendly Business Prospects
+
 The Human Rights Commission (HRC) gave 609 large businesses a perfect score in its Corporate Equality Index 2018. In the U.S., many businesses prior to the landmark Supreme Court ruling legalising same-sex marriage extended spousal benefits to same-sex employees. Additionally, some businesses cover medical expenses for trans employees. While this is indicative of increasing levels of support for the LGBT community, consumers may not be aware of this. 
 
 Although many businesses are LGBT friendly, they may not realize that explicit support for the LGBT community would be economically beneficial to them, or have no idea how to express such support. If a standard means by which this could be indicated was introduced, it would go a long way to broadening the reach and impact of the Pink Dollar<sup>oppo-1</sup>.
@@ -120,7 +120,7 @@ These two objectives tie into each other, as the bigger the adoption of the toke
 
 ## Token Economics
 
-One of the primary aims of most decentralized networks is to reduce the volatility of the native token’s price in terms of more stable currencies (such as bitcoin or fiat). There is still much debate regarding how best to value cryptoassets, but the prevailing approach is to use a form of the traditional macroeconomic [Quantity Theory of Money](https://en.wikipedia.org/wiki/Quantity_theory_of_money) applied to cryptoeconomics. This model is expressed in the [Equation of Exchange](https://en.wikipedia.org/wiki/Equation_of_exchange):
+One of the primary aims of most decentralized networks is to reduce the volatility of the native token’s price in terms of more stable currencies (such as bitcoin or fiat). There is still much debate regarding how best to value cryptoassets, but the prevailing approach is to use a form of the traditional macroeconomic [Quantity Theory of Money](https://en.wikipedia.org/wiki/Quantity_theory_of_money) applied to cryptoeconomics<sup>econ-1</sup>. This model is expressed in the [Equation of Exchange](https://en.wikipedia.org/wiki/Equation_of_exchange):
 
 ![M \cdot V = P \cdot Q](http://latex.codecogs.com/gif.latex?M%20%5Ccdot%20V%20%3D%20P%20%5Ccdot%20Q)
 	
@@ -130,11 +130,11 @@ One of the primary aims of most decentralized networks is to reduce the volatili
   * ![Q](http://latex.codecogs.com/gif.latex?%5Cinline%20Q) is the total output in the given time period. The output here could be ‘total volume of transactions’ in a cryptoeconomy. Note that this is the total volume of transactions **in terms of the native token**.
 
 
-The goal is to determine the value of ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E), the exchange rate of a single token for a more stable and established currency (say USD). We can apply the following transformation:
+The goal is to determine the value of ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E), the exchange rate of a single token for a more stable and established currency (say USD). We can apply the following transformation<sup>econ-2</sup>:
 
 ![E \cdot M \cdot V=\alpha \cdot Q](http://latex.codecogs.com/gif.latex?E%20%5Ccdot%20M%20%5Ccdot%20V%3D%5Calpha%20%5Ccdot%20Q)
 
-where is ![α](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha) the price of one ‘unit’ of output in terms of the currency used in the exchange rate ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E) (say USD).
+where is ![α](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha) the price of one ‘unit’ of output in terms of the currency used in the exchange rate ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E) (say USD)<sup>econ-3</sup>.
 
 Making ![E](http://latex.codecogs.com/gif.latex?%5Cinline%20E) the subject of the equation,
 
@@ -179,15 +179,15 @@ We provide an overview of the proposed macroeconomic variable values in the LGBT
 
 ### Inflation
 
-Network inflation can be used as a reward (i.e. incentivization) mechanism to encourage particular actors to behave correctly. Inflation, coupled with transaction fees, are the two primary mechanisms for creating financial incentives in a cryptocurrency network.
+Network inflation can be used as a reward (i.e. incentivization) mechanism to encourage particular actors to behave correctly. Inflation, coupled with transaction fees, are the two primary mechanisms for creating financial incentives in a cryptocurrency network<sup>infl-2</sup>.
 
-There are a variety of possible inflation mechanisms – with respect to both existing circulating supply at the time of inflation and the total supply:
+There are a variety of possible inflation mechanisms – with respect to both existing circulating supply at the time of inflation and the total supply<sup>infl-3</sup>:
 
-1. Issue a fixed amount without inflation. Rewards and incentives would have to be generated without inflation. This model is deflationary in nature due to limited supply and the inevitability of lost tokens. 
+1. Issue a fixed amount without inflation. Rewards and incentives would have to be generated without inflation. This model is deflationary in nature due to limited supply and the inevitability of lost tokens<sup>infl-4</sup>. 
 2. Generate tokens indefinitely at either a fixed or variable rate. Ethereum presently has a varying inflationary model. The alternative is to issue at an effective fixed rate of total supply annually. This would have a compound effect on circulating supply over multiple years and considerations would need to be made on the effect on price based on the rate of supply.
 3. Generate tokens only for a certain period of time. This is what Bitcoin does: a decelerating inflationary model that converges to zero. The total supply converges to some fixed value. 
 
-As aforementioned, inflation must be carefully considered based on what it is expected to enable on the network. While inflation has been shown in models to have a positive effect in token economies, these models reach this conclusion from the premise of incentivized inflation. Based on the above information, the inflation of the LGBT Token will be managed as follows:
+As aforementioned, inflation must be carefully considered based on what it is expected to enable on the network. While inflation has been shown in models to have a positive effect in token economies<sup>infl-5</sup>, these models reach this conclusion from the premise of incentivized inflation. Based on the above information, the inflation of the LGBT Token will be managed as follows:
 
 1. Newly generated tokens are directed to the LGBT Impact fund, to address the program, operating costs and other activities that serve to benefit the ecosystem. The voting mechanism of the LGBT Impact program is described in the token micro-design section.
 2. Transaction fees in the system can be used for multiple purposes. Some of these purposes include:
@@ -216,11 +216,11 @@ Each of these stakeholders need to be allocated an amount of the initial total s
 
 The token allocations which will be used for the LGBT Token are:
 
-* A token allocation of 18.6% to the team and advisors. This ensures the development team attracts high-quality talent with a commitment to the success of the project. These tokens will be vested over a period of four years with a fractional release at fixed time intervals (such as every 12 months) to ensure market manipulation cannot happen. 
-* 5% toward the LGBT Impact Program. This will be used as an initial supply for the Impact Program until sufficient network activity generates funds for charities.
+* 33% toward the network accelerator program (NAP) to incentivize Launch Partners to use the token on their platforms. Usage of these tokens is described more fully in the Partner Program document, to ensure that the partner tokens create more network value than what they dilute. This is the portion of the total token supply that seeks to ensure that the token will have significant utility in the early phases of the network.
 * 30% toward the token sale. The proceeds of the token sale will be used to cover expenses to build the LGBT Token network and bring it to market.
-* 33% toward the network accelerator program (NAP) to incentivize Launch Partners to use the token on their platforms. Usage of these tokens is described more fully in the Partner Program document, to ensure that the partner tokens create more network value than what they dilute. This is the portion of the total token supply that seeks to ensure that the token will have significant utility in the early phases of the network. 
 * 1.4% toward token sale-related costs such as the sale itself, as well as preparatory and advisory costs incurred by the LGBT foundation and other participating organisations.
+* A token allocation of 18.6% to the team and advisors. This ensures the development team attracts high-quality talent with a commitment to the success of the project. These tokens will be vested over a period of at least three years with a fractional release at fixed time intervals (such as every 12 months) to ensure market manipulation cannot happen.
+* 5% toward the LGBT Impact Program. This will be used as an initial supply for the Impact Program until sufficient network activity generates funds for charities.
 * 12% as a reserve held by the LGBT Foundation. This is to be used at the Foundation’s discretion and may go toward initial operating costs or distributed to other stakeholders as necessary. This reserve will be locked up for at least 12 months.
 
 `` [[ TOKEN DISTRIBUTION PIE CHART ]] ``
@@ -316,9 +316,9 @@ In order to achieve this, we break down how to unite the LGBT community around t
 
 We believe – on a high-level – the route-to-market process is as follows:
 
-1. Seed Partners with the token. These partners must use the token as a reward or incentive for their users. This will allow:
+1. Seed Partners with the token. These partners must use the token as a reward or incentive for their users<sup>rout-1</sup>. This will allow:
   * Users to understand the value of the token as they would have earned it through performing work e.g. for Hornet this would be platform-enhancing behavior.
-  * Partners to work out a sustainable reward strategy. These partners should not gift the tokens in an unsustainable way as, eventually, they will be required to purchase rewards tokens off of an external cryptocurrency exchange at market prices. Thus, the rewards to users must be lower than their lifetime value (LTV) as customers,.
+  * Partners to work out a sustainable reward strategy. These partners should not gift the tokens in an unsustainable way as, eventually, they will be required to purchase rewards tokens off of an external cryptocurrency exchange at market prices. Thus, the rewards to users must be lower than their lifetime value (LTV) as customers<sup>rout-2, rout-3</sup>.
   * The number of token holders to increase, which in turn will increase the  utility of the token.
 2. Promote earning by Users: This process will be initiated by Partners. As described above, Partners will encourage Users to earn LGBT Tokens for completing specific high-value behavior.
 3. Promote spending by Users: Initially partners, but eventually brick-and-mortar stores will be encouraged to accept the LGBT cryptocurrency tokens as payment. As discussed in token opportunities, these stores will accept the token as it signals their progressive nature and LGBT community support. Furthermore, stores can be incentivized by offering ‘cash-back’ compared to traditional payment methods e.g. A user receives a 1% rebate.
@@ -371,12 +371,12 @@ Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of
 
 `` [[ CHART OF VOTE WEIGHT WITH DIFFERENT VALUES FOR β ]] ``
 
-* Once the voting period has elapsed and vote weights calculated for each token holder, the votes are tallied for the charities. Let ![R = \{(C_{i},S_{i},H_{i})\}](http://latex.codecogs.com/gif.latex?%5Cinline%20R%20%3D%20%5C%7B%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29%5C%7D) denote the set of (number of votes, soft cap, hard cap) of each charity with an ordered indexing ![i > j \Leftrightarrow C_{i} > C_{j}](http://latex.codecogs.com/gif.latex?%5Cinline%20i%20%3E%20j%20%5CLeftrightarrow%20C_%7Bi%7D%20%3E%20C_%7Bj%7D). We refer to charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) as the charity with ![(number of votes, soft cap, hard cap) = (C_{i},S_{i},H_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28number%20of%20votes%2C%20soft%20cap%2C%20hard%20cap%29%20%3D%20%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29). All charities such that ![C_{i} < T](http://latex.codecogs.com/gif.latex?%5Cinline%20C_%7Bi%7D%20%3C%20T) are discarded from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) as they did not receive enough votes. An iterated process ``HARD_CAP_PURGE`` now occurs:
+* Once the voting period has elapsed and vote weights calculated for each token holder, the votes are tallied for the charities. Let ![R = \{(C_{i},S_{i},H_{i})\}](http://latex.codecogs.com/gif.latex?%5Cinline%20R%20%3D%20%5C%7B%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29%5C%7D) denote the set of (number of votes, soft cap, hard cap) of each charity with an ordered indexing ![i > j \Leftrightarrow C_{i} > C_{j}](http://latex.codecogs.com/gif.latex?%5Cinline%20i%20%3E%20j%20%5CLeftrightarrow%20C_%7Bi%7D%20%3E%20C_%7Bj%7D)<sup>impa-1</sup>. We refer to charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) as the charity with ![(number of votes, soft cap, hard cap) = (C_{i},S_{i},H_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28number%20of%20votes%2C%20soft%20cap%2C%20hard%20cap%29%20%3D%20%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29). All charities such that ![C_{i} < T](http://latex.codecogs.com/gif.latex?%5Cinline%20C_%7Bi%7D%20%3C%20T) are discarded from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) as they did not receive enough votes. An iterated process ``HARD_CAP_PURGE`` now occurs:
 
   1. The ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP) is (re)calculated. 
   2. A preliminary payout ![P_{i} = C_{i} \cdot DPV](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3D%20C_%7Bi%7D%20%5Ccdot%20DPV) is determined for each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) still in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). 
   3. If ![P_{i} < H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3C%20H_%7Bi%7D) for every charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R), terminate this process.
-  4. For all charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) such that ![P_{i} > H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3E%20H_%7Bi%7D), that charity is paid out ![H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20H_%7Bi%7D) and is removed from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R).
+  4. For all charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) such that ![P_{i} > H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3E%20H_%7Bi%7D), that charity is paid out ![H_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20H_%7Bi%7D) and is removed from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R)<sup>impa-2</sup>.
   5. Return to step 1<br/><br/>
   We now have a set of charities ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) remaining who did not exceed their hard cap (those that did have already been paid out their hard caps). However, some of these charities may not have exceeded their soft caps. Since ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is ordered-ascending in terms of votes we now iterate through the charities ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i):<br/><br/>
   6. (Re)calculate the ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP).
@@ -429,13 +429,13 @@ Hornet has an existing community rewards program which will be incorporating the
 | Claiming a Hornet wallet (for LGBT Tokens) | 1 LGBT Token per user. ~ 5 million LGBT Tokens have been allocated to encourage widespread adoption of the wallet. |
 | Community Rewards (today): Moderators; Translators; Beta testers; City ambassadors; Stories; Hornet guys | Currently users rewarded perk points. Users can redeem these points in the Hornet shop. The early version of the shop contains 7 items. |
 | Community Rewards (amplified); All of the above +; Influencer; Traveller; Party starter; Host | Users will now instead receive LGBT Tokens.; The community rewards will be aggressively increased by 10x  through the use of the LGBT Token. Increase diversity of rewards program; The increase is considered sustainable as currently approximately; |
-| Profile Completion | The Hornet team is exploring building out rewards for users who complete their profile. It is proven that profiles which are completed have higher activity. Thus, Hornet may choose to incentive profile completion using the LGBT Token. However, Hornet will decide how and when this is done. |
-| Profile Verification | As above, genuine profiles are more valuable to Hornet than fake accounts, so in future Hornet may incentivize profile verification. |
+| Profile Completion | The Hornet team is exploring building out rewards for users who complete their profile. It is proven that profiles which are completed have higher activity. Thus, Hornet may choose to incentive profile completion using the LGBT Token.<sup>user-1</sup> |
+| Profile Verification | As above, genuine profiles are more valuable to Hornet than fake accounts, so in future Hornet may incentivize profile verification.<sup>user-2</sup> |
 
 
 #### Hornet Attainment
 
-Hornet Attainment is a service which will be available to users in some Asian regions. Users will have a ‘reputation score’ which reflects their social status in the network. Users can show appreciation to influential users by gifting them virtual goods that are purchased with LGBT Tokens. When these goods are sent to the recipient, 50% of the LGBT Token value is reflected in their wallet as ‘attainment’ tokens. These tokens count towards their reputation score using the formula below. The other 50% is reflected as Hornet revenue. Hornet attainment is not designed to be lucrative for users, but rather for users to accrue reputation points. Recipients who hold their attainment tokens, instead of cashing them out, will earn reputation points based on the value of these tokens as well as how long these tokens have been held.  For ‘attainment’ tokens with an LGBT Token value ![G](http://latex.codecogs.com/gif.latex?%5Cinline%20G) having been held for time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t), the reputation points ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) accrued are:
+Hornet Attainment is a service which will be available to its users and is especially popular in some Asian regions. Users will have a ‘reputation score’ which reflects their social status in the network. Users can show appreciation to influential users by gifting them virtual goods that are purchased with LGBT Tokens. When these goods are sent to the recipient, an assumed 50% of the LGBT Token value is reflected in their wallet as ‘attainment’ tokens. These tokens count towards their reputation score using the formula below. The remainder is reflected as Hornet revenue. Hornet attainment is not designed to be lucrative for users, but rather for users to accrue reputation points. Recipients who hold their attainment tokens, instead of cashing them out, will earn reputation points based on the value of these tokens as well as how long these tokens have been held.  For ‘attainment’ tokens with an LGBT Token value ![G](http://latex.codecogs.com/gif.latex?%5Cinline%20G) having been held for time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t), the reputation points ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) accrued are:
 
 ![R(G,t) = \rho \cdot G \cdot \frac{\alpha - t}{\beta - t}](http://latex.codecogs.com/gif.latex?R%28G%2Ct%29%20%3D%20%5Crho%20%5Ccdot%20G%20%5Ccdot%20%5Cfrac%7B%5Calpha%20-%20t%7D%7B%5Cbeta%20-%20t%7D)
 
@@ -749,6 +749,7 @@ Telegram icon and link
 
 * abst-1:  LGBT or LGBTQ, LGBTQI or LGBT+ includes Lesbians, Gays, Bisexual, Transgender, Queer, Intersex, and other communities defined by their sexual self-identification. We celebrate the spectrum of diversity as well as gender fluidness and will work to support and include + elements through the efforts and makeup of the foundation.
 * abst-2: See White Paper for additional details.
+* abst-3: Furthermore, Hornet’s strong presence in several key-markets in Asia (like Taiwan, Thailand, Russia) and their affiliation with Blued.
 * econ-1: The full report is not publicly available, but can be requested via http://www.lgbt-capital.com
 * spen-1: LGBT Community Survey® data was provided by Community Marketing & Insights (CMI), an LGBT-focused research firm based in San Francisco. The data used here are from the [11th Annual LGBT Community Survey](http://thegsba.org/scholarship-home/scholarship-blog/blog-item/gsba-blog/2017/07/11/community-marketing-insights'-11th-annual-lgbt-community-survey-report)®
 * spen-2: CMI Survey Page 45.
@@ -756,7 +757,14 @@ Telegram icon and link
 * spen-4: CMI Survey Page 24.
 * chal-1: For example, gay dating apps have been used by both government and vigilante groups to lure and persecute gay men in [Russia](https://www.hrw.org/report/2014/12/15/license-harm/violence-and-harassment-against-lgbt-people-and-activists-russia) and [Egypt](https://globalnews.ca/news/3784780/egypt-gay-crackdown-dating-app/).
 * oppo-1: See White Paper for the history and definition of the Pink Dollar
+* econ-1: [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7)
+* econ-2: [The Quantity Theory of Money for Tokens](https://blog.coinfund.io/the-quantity-theory-of-money-for-tokens-dbfbc5472423)
+* econ-3:  There are alternative formulations of this equation such as [one proposed by Vitalik Buterin](https://vitalik.ca/general/2017/10/17/moe.html) and [explained in more detail by James Kilroe](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77)
 * infl-1: Similar to how the large reserves of the Kin network are released daily as an inflationary tool, distributed to services.
+* infl-2: [On Inflation, Transaction Fees and Cryptocurrency Monetary Policy](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/)
+* infl-3: [Inflation and Participation in Stake-based Token Protocols](https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf)
+* infl-4: According to [http://fortune.com/2017/11/25/lost-bitcoins](http://fortune.com/2017/11/25/lost-bitcoins), over 4 million BTC may be lost already.
+* infl-5: [The Economics of Cryptocurrencies - Bitcoin and Beyond](https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/ifree-papers-and-photos/koeppel-april2017.pdf), page 28
 * toke-1: https://www.smithandcrown.com/trends-token-sale-proposals/
 * toke-2: 1 ETH is actually equal to 10^18 Wei as per http://ethdocs.org/en/latest/ether.html
 * toke-3: https://hackernoon.com/one-trillion-crypto-tokens-e3adabb92fd9
@@ -770,12 +778,18 @@ toke-4: https://www.quora.com/How-much-does-YouTube-pay-per-1000-views-How-where
 * vola-5: This is a similar system used by the [Kin Rewards Engine](https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf).
 * vola-6: Though Hornet could disclaim that a certain minimum threshold of users participating in reward-related activities is required to limit abuse by small groups of people.
 * micr-1: A generalized construction of this template can be found in Appendix A.
+* rout-1: The detailed mechanism of this is in the partnership program.
+* rout-2: Ideally, the token improves the LTV of customers
+* rout-3:  The [partnership program](https://lgbt-token.org/become-a-partner/) will guide partners on how to initially launch the reward strategy, after this, monitoring and adjustment will personalize each rewards program.
+* impa-1: In other words, the charities are ordered ascending in R by how many votes (or vote-weights) they received.
+* impa-2: The total available to be donated is reduced accordingly, and so is the total pool of votes, which is why the DPV needs to be recalculated.
+* user-1: This is described in more detail in Appendix A.
+* user-2: This is described in more detail in Appendix A.
 * othe-1: The foundation aims to cooperate with existing companies that already work on Credit Cards with crypto payback functions.
 * appe-1: Should this assumption not be satisfied, the model has been designed in such a way to accommodate this.
 * appe-2: This is commonly found in reward programs in decentralized networks. Both [PROPS](https://www.propsproject.com/) and [Kin](https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf) abstract token-related distribution services to a reward engine.
 * appe-3: https://www.bitcoinplus.org/blog/proof-stake-explained 
 * appe-4: Note, again, that this is a completely separate service to ads.
-
 
 
 
