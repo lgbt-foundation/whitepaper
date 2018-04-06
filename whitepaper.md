@@ -8,14 +8,14 @@ This White Paper and other documents published in association with this White Pa
 
 Recipients are notified as follows:
 
-* **This White Paper describes a future project:** This whitepaper contains forward-looking statements that are based on the beliefs of LGBT Foundation Limited ("**LGBT Foundation**"), as well as certain assumptions made by and information available to the LGBT Foundation. The LGBT project as envisaged in this White Paper is under development and is being constantly updated, including but not limited to key governance and technical features. The LGBT Token (as described in this White Paper) involves and relates to the development and use of experimental platforms (software) and technologies that may not come to fruition or achieve the objectives specified in this whitepaper. If and when the LGBT platform is completed, it may differ significantly from the platform set out in this White Paper. 
+* **This White Paper describes a future project:** This whitepaper contains forward-looking statements that are based on the beliefs of LGBT Foundation Limited ("**LGBT Foundation**"), as well as certain assumptions made by and information available to the LGBT Foundation. The LGBT project as envisaged in this White Paper is under development and is being constantly updated, including but not limited to key governance and technical features. The LGBT Token (as described in this White Paper) involves and relates to the development and use of experimental platforms (software) and technologies that may not come to fruition or achieve the objectives specified in this whitepaper. If and when the LGBT platform is completed, it may differ significantly from the platform set out in this White Paper.
 * **Eligible purchasers:** the information in this White Paper is provided privately to certain prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
 * **No offer of regulated products or services:** the LGBT Token is not intended to constitute a security or any other regulated product or service in any jurisdiction. This White Paper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction.
 * **No advice:** this whitepaper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
 * **No representations:** no representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this White Paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this whitepaper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
-* **Risk warning:** the purchase of LGBT Tokens carries with it significant risks.  Potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens. 
+* **Risk warning:** the purchase of LGBT Tokens carries with it significant risks.  Potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens.
 * **Translations:** this White Paper and related materials are issued in English. Any translation is for reference purposes only and is not certified by any person. If there is any inconsistency between a translation and the English version of this whitepaper, the English version prevails.
-* **Restricted transmission:** this White Paper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this White Paper is prohibited or restricted. 
+* **Restricted transmission:** this White Paper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this White Paper is prohibited or restricted.
 * **No offer of fund-raising appeals or charitable donations:** the LGBT Foundation is currently not yet set up as a charitable, philanthropic and benevolent society. It however plans on exploring and obtaining any necessary regulatory licences or approvals in the future as needed. The LGBT Foundation does not engage in fund-raising appeals or seek participation to sell LGBT Tokens to fund charitable, philanthropic or benevolent causes. Any involvement in social impact programs is through the LGBT Foundation’s own discretionary social responsibility program called LGBT Impact (see 'LGBT Impact' section below).
 
 This White Paper has not been reviewed by any regulatory authority in any jurisdiction. References in this whitepaper to specific companies, networks and/or potential use cases are for illustrative purposes only. Other than explicitly mentioned partners or providers such as Hornet Networks Limited ("**Hornet**"), the use of any other company and/or platform names and trademarks does not imply any affiliation with, or endorsement by, any of those parties.
@@ -101,7 +101,7 @@ Yet, while Western societies have made progress on recognizing the rights of peo
 * 53% have been sexually assaulted at one point in their lives, compared to 47% of all USTS respondents.
 * 6.7% were HIV+, nearly five times the rate of the USTS sample and 20 times the U.S. population.
 
-LGBT charities require funding for programs to overcome this societal stigma and advance equal rights, not solely for the most visible members of the community, but also for those who, to this point, have been left behind. Unfortunately, these charities don’t receive enough funding to handle the number of people that need their services, and face many hurdles with moving the funds they do have around the world to where the projects are based. This difficulty is exacerbated by the fact LGBT charities often require emergency funds to increase their level of activity in response to acts of persecution. Donating money across borders using fiat currency is often an expensive and slow process, in addition to the legal hurdles faced by LGBT organizations accessing their funds in less accommodating countries. There is clearly the desire to donate and there is clearly a need globally to support LGBT and equal right programs. That’s where the LGBT Token and its blockchain foundation can help. 
+LGBT charities require funding for programs to overcome this societal stigma and advance equal rights, not solely for the most visible members of the community, but also for those who, to this point, have been left behind. Unfortunately, these charities don’t receive enough funding to handle the number of people that need their services, and face many hurdles with moving the funds they do have around the world to where the projects are based. This difficulty is exacerbated by the fact LGBT charities often require emergency funds to increase their level of activity in response to acts of persecution. Donating money across borders using fiat currency is often an expensive and slow process, in addition to the legal hurdles faced by LGBT organizations accessing their funds in less accommodating countries. There is clearly the desire to donate and there is clearly a need globally to support LGBT and equal right programs. That’s where the LGBT Token and its blockchain foundation can help.
 
 
 
@@ -139,7 +139,7 @@ On the flip side, businesses can reward and incentivize LGBT community members, 
 
 Lastly, the LGBT Foundation is considering, subject to all necessary regulatory approvals and licences, to issue a credit card to showcase the spending behaviour of LGBT Token users, while linking it to the core concept of the "LGBT Impact" described below.
 
-	
+
 ### 3. LGBT Impact
 
 > **LGBT Impact is the inherent and powerful funding mechanism for causes of importance for the LGBT community in their quest to achieve equal rights and acceptance.**
@@ -190,6 +190,7 @@ The LGBT Token has a strong economic utility to each party engaging in an underl
 
 Blockchain-based digital assets have several high-level benefits that are tailored toward the core missions we hold. These benefits include:
 
+
 #### Decentralization
 
 As mentioned above, the LGBT Token is built using the protection of blockchain. The decentralized nature of the Blockchain technology is more immune to centralized or government control. Furthermore, it’s free of discrimination - everyone with an internet connection and phone can access the technology.
@@ -219,6 +220,7 @@ The governance of the LGBT Foundation, as well as the distribution of LGBT Token
 The information stored in the blockchain is encrypted and maintained by a large network of participants that ensures its consistency. No one person can get unauthorized access or is able to manipulate or remove information without the consent of the personal owner of that information. This prevents governments and organizations from demanding, hacking or otherwise obtaining this information, an especially critical safeguard in countries where the LGBT community faces repercussions and victimization.
 
 This paper focuses on the issues that the LGBT Foundation strives to solve. A Pink Paper with further details exploring the exact technical solution has been released separately and with the input from the crypto community. You can find the Pink Paper at [https://lgbt-token.org](https://lgbt-token.org).
+
 
 ## LAUNCH PARTNERS
 
@@ -257,7 +259,6 @@ Headquartered in Los Angeles, Revry is led by an inclusive team of queer, multi-
 With empowerment, recognition, and exaltation of the queer perspective told through unique and authentic stories, music, conversations and artistry, Revry has become a magnet for transformative collaborations.  Leading initiatives with global charity organizations like the Trevor Project to partnering with top brands like Lexus, Revry is the nexus for inclusivity in this age of content.   Making a difference as a holistic leader in art and commerce, Revry is proud to continue innovating culture through its global currency partnership with the LGBT Token.
 
 > *“By 2020, millennials will make up over 50% of purchasing power globally and by 2030, Gen Z and millennials combined will make up over 75% of purchasing power globally.  It’s a very strong scaling demographic that we’re entering into. It’s really important that we not only have a currency of our own that is able to scale with our demographic, but have a coin that protects the rights and identities of our LGBTQ+ community. For us, 1 in 5 visitors to Revry come from oppressed countries so safe ways to participate in queer art and commerce makes this mutual democratization and destigmatization opportunity ideal for our global community.”* - Damian Pelliccione, Revry Co-Founder and CEO
-
 
 
 The LGBT Foundation is proud to welcome new business partners. You can see the full list of our current partners and associates at [https://lgbt-token.org/become-a-partner](https://lgbt-token.org/become-a-partner).
