@@ -4,17 +4,17 @@
 
 ### Disclaimer
 
-This paper relates to the LGBT Token project and should be read in conjunction with the White Paper ("**White Paper**") available at [https://lgbt-token.org](https://lgbt-token.org). This and other documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
+This Pink Paper relates to the LGBT Token project and should be read in conjunction with the White Paper ("**White Paper**") available at [https://lgbt-token.org](https://lgbt-token.org). This and other documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
 
 Recipients are notified as follows:
 
-* **This Pink Paper describes a future project:** This Pink Paper ("**Pink Paper**") contains forward-looking statements and projections that are based on the beliefs of LGBT Foundation Limited ("**LGBT Foundation**" or "**Foundation**"), as well as certain assumptions made by and information available to the LGBT Foundation by third parties.  The LGBT project as envisaged in this Pink Paper is under development and is being constantly updated, including but not limited to key governance and technical features. The LGBT Token (as described in this Pink Paper) ("**Token**" or "**LGBT Token**") involves and relates to the development and use of experimental platforms (software) and technologies that may not come to fruition or achieve the objectives specified in this pinkpaper.  If and when the LGBT platform is completed, it may differ significantly from the platform set out in this Pink Paper.
-* **Emerging technology and market:** This Pink Paper contains a significant number of hypothetic scenarios, theoretical propositions and considerations.  Given the nascent technology and markets that are involved in digital assets generally, it is impossible to project the precise operation of a transferable digital asset and related markets and use cases (if any).  This Pink Paper is therefore for discussion purposes only and should not be relied upon for any purpose.
-* **Eligible purchasers:** the information in this Pink Paper is provided privately to certain prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
-* **No offer of regulated products or services:** the LGBT Token is not intended to constitute a security or any other regulated product or service in any jurisdiction. This pinkpaper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction.
-* **No advice:** this pinkpaper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
-* **No representations:** no representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this Pink Paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this pinkpaper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
-* **Risk warning:** the purchase of LGBT Tokens and/or instruments involving LGBT Tokens carry with it significant risks.  Potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens.
+* **This Pink Paper describes a future project:** This Pink Paper ("**Pink Paper**") contains forward-looking statements and projections that are based on the beliefs of LGBT Foundation Limited ("**LGBT Foundation**" or "**Foundation**"), as well as certain assumptions made by and information available to the LGBT Foundation by third parties. The LGBT Token project as envisaged in this Pink Paper is under development and is being constantly updated, including but not limited to key governance and technical features. The LGBT Token ("**Token**" or "**LGBT Token**") (as described in this Pink Paper) involves and relates to the development and use of experimental platforms (software) and technologies that may not come to fruition or achieve the objectives specified in this pinkpaper.  If and when the LGBT platform is completed, it may differ significantly from the platform set out in this Pink Paper.
+* **Emerging technology and market:** This Pink Paper contains a significant number of hypothetic scenarios, theoretical propositions and considerations. Given the nascent technology and markets that are involved in digital assets generally, it is impossible to project the precise operation of a transferable digital asset and related markets and use cases (if any). This Pink Paper is therefore for discussion purposes only and should not be relied upon for any purpose.
+* **Eligible purchasers:** The information in this Pink Paper is provided privately to certain prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
+* **No offer of regulated products or services:** The LGBT Token is not intended to constitute a security or any other regulated product or service in any jurisdiction. This pinkpaper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction.
+* **No advice:** This Pink Paper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
+* **No representations:** No representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this Pink Paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this Pink Paper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
+* **Risk warning:** the purchase of LGBT Tokens and/or instruments involving LGBT Tokens carry with it significant risks. Potential purchasers should assess the nature of, and their own appetite for, relevant risks independently and consult their advisers before making a decision to purchase any LGBT Tokens.
 * **Translations:** this Pink Paper and related materials are issued in English. Any translation is for reference purposes only and is not certified by any person. If there is any inconsistency between a translation and the English version of this pinkpaper, the English version prevails.
 * **Restricted transmission:** this Pink Paper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this Pink Paper is prohibited or restricted.
 * **No offer of fund-raising appeals or charitable donations:** the LGBT Foundation is currently not yet set up as a charitable, philanthropic and benevolent society. It however plans on exploring and obtaining any necessary regulatory licences or approvals in the future as needed. The LGBT Foundation does not engage in fund-raising appeals or seek participation to sell LGBT Tokens to fund charitable, philanthropic or benevolent causes. Any involvement in social impact programs is through the LGBT Foundation’s own discretionary social responsibility program called LGBT Impact (see 'LGBT Impact' section below).
@@ -28,7 +28,7 @@ This Pink Paper has been created in collaboration with **Newtown Partners**. New
 
 ## Abstract
 
-A token to address the needs of the LGBT<sup>abst-1</sup> community is proposed. This token will aggregate the economic strength of the LGBT community, which is estimated to be between 3%-7% of the global household wealth<sup>abst-2</sup>. The token aims to leverages this economic power and blockchain technology to advance equal rights and full acceptance for all members of the LGBT+ community worldwide. Both macro- and microeconomic models are proposed to facilitate a sustainable token economy that will encourage early network adoption through launch partners. The token technical design aims to enable scalable transaction throughput, while protecting identity for members of the LGBT community. A route-to-market through launch partners is discussed on a high level and analysis undertaken to increase the likelihood that  a viable economy will emerge.
+A token to address the needs of the LGBT<sup>abst-1</sup> community is proposed. This token will aggregate the economic strength of the LGBT community, which is estimated to be between 3%-7% of the global household wealth<sup>abst-2</sup>. The Token aims to leverages this economic power and blockchain technology to advance equal rights and full acceptance for all members of the LGBT+ community worldwide. Both macro- and microeconomic models are proposed to facilitate a sustainable token economy that will encourage early network adoption through launch partners. The token technical design aims to enable scalable transaction throughput, while protecting identity for members of the LGBT community. A route-to-market through launch partners is discussed on a high level and analysis undertaken to increase the likelihood that  a viable economy will emerge.
 
 This Pink Paper is accompanied by the [White Paper](https://lgbt-token.org). The White Paper offers additional context and rationale on the opportunities and challenges concerning the LGBT community in general and the Pink Economy in particular. This paper should be read in conjunction with the White Paper. For your convenience we reduced the context to a minimum in this document.
 
@@ -45,7 +45,7 @@ Western economies offer a combination of technological progress and LGBT freedom
 
 ### LGBT spending habits
 
-There are strong indicators<sup>spen-1</sup> that LGBT community members are more likely to spend at inclusive businesses. For example, 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. LIkewise, when it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men. As a contextual note, the following statements are from markets (mainly the U.S.) where no direct repercussions for being a member of the LGBT community are expected. The reality differs vastly in other regions.
+There are strong indicators<sup>spen-1</sup> that LGBT community members are more likely to spend at inclusive businesses. For example, 59% of gay and bisexual men reported visiting an LGBT nightclub in the past 12 months and 42% of lesbian and bisexual women did. Likewise, when it comes to online dating, 44% of gay and bisexual men reported using a dating app that specifically caters to gay men. As a contextual note, the following statements are from markets (mainly the U.S.) where no direct repercussions for being a member of the LGBT community are expected. The reality differs vastly in other regions.
 
 The LGBT community has diverse spending habits due to its wide variety of subgroups. For example, the [average household income of gay men differs from that of lesbians significantly](http://www.experian.com/blogs/marketing-forward/2012/07/20/sim-a-look-at-household-income-and-discretionary-spend-of-lesbian-gay-and-heterosexual-americans/). However, both married male-male couples and female-female couples have, on average, [higher household income than their heterosexual counterparts](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-108.pdf) in regions where equal rights have been obtained. In relation to philanthropy, across the board, there is a consistent ratio of LGBT people (i.e. 45% in the USA) donating to LGBT organizations<sup>spen-2</sup>. While donating forms a large part of the LGBT community, these statistics have remained stable over the past five years.
 
@@ -65,7 +65,7 @@ The LGBT community currently faces economic, social and legal challenges. While 
 
 ## LGBT-friendly business prospects
 
-The Human Rights Commission (HRC) gave 609 large businesses a perfect score in its Corporate Equality Index 2018. In the U.S., many businesses prior to the landmark Supreme Court ruling legalising same-sex marriage extended spousal benefits to same-sex employees. Additionally, some businesses cover medical expenses for trans employees. While this is indicative of increasing levels of support for the LGBT community, consumers may not be aware of this. 
+The Human Rights Commission (HRC) gave 609 large businesses a perfect score in its [Corporate Equality Index](https://www.hrc.org/campaigns/corporate-equality-index) 2018. In the U.S., many businesses prior to the landmark Supreme Court ruling legalising same-sex marriage extended spousal benefits to same-sex employees. Additionally, some businesses cover medical expenses for trans employees. While this is indicative of increasing levels of support for the LGBT community, consumers may not be aware of this. 
 
 Although many businesses are LGBT friendly, they may not realize that explicit support for the LGBT community would be economically beneficial to them, or have no idea how to express such support. If a standard means by which this could be indicated was introduced, it would go a long way to broadening the reach and impact of the Pink Dollar<sup>oppo-1</sup>.
 
@@ -75,6 +75,7 @@ Tokenizing the opportunities
  * Using a digital asset running on an appropriately decentralized blockchain network seeks to provide members of the LGBT community with a level of pseudonymity not available to them in traditional payment methods (such as credit cards). This will give LGBT community members in less friendly countries access to products and services that they would not previously have had access to.
  * Having a digital asset dedicated to the LGBT community aims to mobilize the masses of this community into a tangible, global economic network. Through the presence of the digital asset, the community can raise awareness and measure its impact on businesses, charities and boycotts. The high affinity of LGBT people to sympathetic causes, even if these projects are less ‘user-friendly’ will allow this digital asset to bridge the gap between the current technical cryptocurrency community and mainstream adoption.
  * Using a digital asset, it is proposed that LGBT community members can easily fund charities anywhere in the world for LGBT-related causes. The digital asset has the potential to bypass traditional transaction processing bureaucracy and costs, with the savings effectively being passed onto those who need the funds most. The digital asset may also prevent funds from easily being seized by governments. The cryptocurrency also provides the opportunity for funds generated in the network from standard activities (such as payment transactions) to be directed to LGBT-focussed initiatives and organisations.
+
 
 ### Opportunity for the LGBT Token
 
@@ -254,6 +255,7 @@ An alternative (or additional) approach is for a launch partner to declare that 
 
 The LGBT Foundation proposes to consult and work with each individual launch partner to develop strategies and mechanisms that ensure that volatility impacting their user experience is minimized, while not curbing economic activity.
 
+
 ### Price-stability and Velocity Considerations
 
 There are various mechanisms that can be implemented to reduce price volatility of the LGBT Token. One of the primary ways to confer value to a token is to ensure token velocity is acceptably low, as discussed above. Here is an overview of all price-stability levers which were explored and their expected feasibility for the LGBT Token use cases.
@@ -272,7 +274,7 @@ There are various mechanisms that can be implemented to reduce price volatility 
 | Promotional Events    | Offering tokens to targeted demographics in concentrated LGBT centers will promote the use of the token to appropriate demographics, increasing velocity. | This is appropriate for the LGBT Token as it addresses the target market and introduces potential users to the network. These users derive maximum utility from the LGBT Token. |
 
 
-## Token Micro-design
+## Token micro-design
 
 ### Microeconomic Model
 
@@ -281,50 +283,49 @@ A microeconomic template has been developed for launch partners (which operate a
 
 ### Example: Hornet Network
 
-[Hornet](https://hornet.com) currently has a reward program which rewards users points for certain activities, which can be redeemed in the Hornet store. This will be transferred to the LGBT Token and expanded to increase functionality and utility of the program. We will apply a microeconomic model to the Hornet Reward Program context to see how it can be used by any launch partners with a network-based app.
+[Hornet](https://hornet.com) currently has a reward program which rewards users points for certain activities, which can be redeemed in the Hornet store. This points system is proposed to be migrated to the LGBT Token and expanded to increase functionality and utility of the program. We propose to apply a microeconomic model to the Hornet Reward Program context to see how it might be used by any launch partners with a network-based app.
 
 
 ### Hornet Overview
 
 Hornet is a social networking app for gay men which intends to give them a more meaningful and holistic way to express themselves and connect with others. It has a mobile app and web-based app, which allows users to upload information, message others and upload “stories” which are similar to posts on other social networking sites. This is intended to be expanded to include much more engagement functionality by users in line with Hornet’s vision of becoming a social media platform where gay men can be their true selves. Additionally, there are features to find local clubs and other LGBT-related events and businesses. 
 
-When Hornet switches to the LGBT Token, it will have an associated wallet to store a users’ LGBT Tokens. Additionally, there will be a decentralized SSO layer which will be used to manage user identity. This will increase privacy when transacting.
+When Hornet switches to the LGBT Token, it will have an associated wallet to store a users’ LGBT Tokens. Additionally, there will be a decentralized SSO layer which will be used to manage user identity. This will increase privacy protection when transacting.
 
-We can see below how the Hornet app translates directly to the generalized template found in the appendix. The motivations for each actor are as described above.
-
-
-### Token Route to Market
-
-The Route-to-Market is designed so that the token can demonstrate and exert the economic strength of the LGBT community.
-
-In order to achieve this, we break down how to unite the LGBT community around the token. We believe that there are three types of participants in the token economy. These are:
-
-1. Token Partners: the businesses who are willing to accept and use the LGBT Token, such as LGBT specific digital services (like Hornet and Revry) and brick-and-mortar businesses (like Out of Office and Oasis)
-2. Token Backers: HNI (High Net Worth Individuals) and funds who are have invested in the token sale or brought the token on the open market.
-3. Token Users: Members of the LGBT community, who will use the token as a transactional medium.
+We can see below how the Hornet app translates directly to the generalized template found in the appendix.
 
 
-We believe – on a high-level – the route-to-market process is as follows:
+### Token route to market
 
-1. Seed Partners with the token. These partners must use the token as a reward or incentive for their users<sup>rout-1</sup>. This will allow:
-  * Users to understand the value of the token as they would have earned it through performing work e.g. for Hornet this would be platform-enhancing behavior.
-  * Partners to work out a sustainable reward strategy. These partners should not gift the tokens in an unsustainable way as, eventually, they will be required to purchase rewards tokens off of an external cryptocurrency exchange at market prices. Thus, the rewards to users must be lower than their lifetime value (LTV) as customers<sup>rout-2, rout-3</sup>.
-  * The number of token holders to increase, which in turn will increase the  utility of the token.
-2. Promote earning by Users: This process will be initiated by Partners. As described above, Partners will encourage Users to earn LGBT Tokens for completing specific high-value behavior.
-3. Promote spending by Users: Initially partners, but eventually brick-and-mortar stores will be encouraged to accept the LGBT cryptocurrency tokens as payment. As discussed in token opportunities, these stores will accept the token as it signals their progressive nature and LGBT community support. Furthermore, stores can be incentivized by offering ‘cash-back’ compared to traditional payment methods e.g. A user receives a 1% rebate.
-4. Eventually, once the token is accepted by a significant portion of the LGBT community, it will become a sustainable MoE and Unit of Account (UoA).
+This section describes the route-to-market approach adopted by the LGBT Foundation. The route-to-market is designed so that the Token can demonstrate and exert the economic strength of the LGBT community.
+
+In order to achieve this, we break down how to unite the LGBT community around the Token. We believe that there are three types of participants in the Token economy. These are:
+
+1. **Token partners:** the businesses who are willing to accept and use the LGBT Token, such as LGBT specific digital services (like Hornet and Revry) and brick-and-mortar businesses (like Out of Office and Oasis);
+2. **Token backers:** persons who are have participated in the Token sale or brought the Token on the open market; and
+3. **Token users:** Members and allies of the LGBT community, who will use the Token as a transactional medium.
+
+At a high-level – the proposed route-to-market process is as follows:
+
+1. Seed partners with the Token. These partners must use the Token as a reward or incentive for their users<sup>rout-1</sup>. This will allow:
+  * users to understand the value of the Token as they would have earned it through performing work, for example, for Hornet, this would be platform-enhancing behavior. However the reward or activity may vary for each launch partner;
+  * partners to work out a sustainable reward strategy. These partners should not gift the Tokens in an unsustainable way as, eventually, they will be required to purchase rewards further Tokens from the secondary market at market prices. Thus, the rewards to users must be lower than their lifetime value (LTV) as customers<sup>rout-2, rout-3</sup>; and
+  * The number of Token holders to increase, which in turn will increase the  utility of the Token.
+2. Promote earning by users: This process will be initiated by partners. As described above, partners will encourage users to earn LGBT Tokens for completing specific high-value behavior.
+3. Promote spending by users: Initially partners, but it is proposed that eventually brick-and-mortar stores will be encouraged to accept LGBT Tokens as payment. As discussed in token opportunities section, these stores will accept the Token as it signals their progressive nature and LGBT community support. Furthermore, the LGBT Foundation may explore incentivized stores by offering ‘cash-back’ compared to traditional payment methods - for example, granting users a 1% rebate.
+4. Eventually, if the Token is accepted by a significant portion of the LGBT community, it could become a sustainable medium of exchange.
 
 
-### Launch Partner  Microeconomic Model
+### Launch partner microeconomic model
 
-We explored the LGBT Token implementation in Hornet, the gay social media app, who is also a key launch partner of the LGBT Token. The token implementation was modelled after consolidation with the relevant stakeholders. This gives a good indication on how the token will be implemented in practice. The Hornet model will be described through all possible actor interactions, detailing the mechanisms governing these interactions.
+We explored the LGBT Token implementation in Hornet, the gay social media app, which is also a key launch partner of the LGBT Token. The Token implementation was modelled after consolidation with the relevant stakeholders. This gives a good indication on how the token is intended to be implemented in practice. The Hornet model will be described through all possible actor interactions, detailing the mechanisms governing these interactions.
 
 
-### Third-party Services
+### Third-party services
 
-#### Point of Sale (Medium of Exchange)
+#### Point of sale (medium of exchange)
 
-Businesses and events listed in the Hornet app can use Hornet as a point of sale for certain products, by using the LGBT Token. Users will be able to pay for events offered by businesses in their area with LGBT Tokens using their Hornet wallets. The identity SSO layer should ensure their privacy is maintained while purchasing goods tied to their identity, such as event tickets. This will also allow for the introduction of promotional events where a business could offer a small discount for users paying with LGBT Token through the Hornet app. One example would be the buying of drinks at specific events. For example, LGBT parties in San Paulo could allow for attendees to simply buy drinks throughout the night with their LGBT Tokens in their Hornet Wallet. This is beneficial for Hornet, as it encourages users to join the Hornet network for convenience and other financial rewards. Incorporating point of sale functionality into the Hornet app will contribute to the LGBT Token’s status as a medium-of-exchange token, where its utility is at least partially derived for the ability to conduct transactions for goods and services with it. Incorporating this functionality has a network effect, as driving early utility of the token for payments encourages other businesses to accept the token as a form of payment.
+It is proposed that businesses and events listed in the Hornet app can use Hornet as a point of sale for certain products, by using the LGBT Token. Users will be able to pay for events offered by businesses in their area with LGBT Tokens using their Hornet wallets. The identity SSO layer seeks to ensure their privacy is maintained while purchasing goods tied to their identity, such as event tickets. This will also allow for the introduction of promotional events where a business could offer a small discount for users paying with LGBT Token through the Hornet app. One example would be the buying of drinks at specific events. For example, LGBT parties in San Paulo could allow for attendees to simply buy drinks throughout the night with their LGBT Tokens in their Hornet Wallet. This is beneficial for Hornet, as it encourages users to join the Hornet network for convenience and other financial rewards. Incorporating point of sale functionality into the Hornet app will contribute to the LGBT Token’s status as a medium-of-exchange token, where its utility is at least partially derived for the ability to conduct transactions for goods and services with it. Incorporating this functionality has a network effect, as driving early utility of the token for payments encourages other businesses to accept the token as a form of payment.
 
 Several brick-and-mortar stores and venues around the world have already pledged to support the LGBT Token as a form of payment. The latest list of supporters can be viewed at https://lgbt-token.org/become-a-partner.
 
@@ -332,28 +333,28 @@ Several brick-and-mortar stores and venues around the world have already pledged
 
 ### LGBT Impact Program
 
-#### Donations
+#### Donations to charities
 
-Functionality should exist in the wallet which enables users to donate directly to a selection of charities forming part of the LGBT Impact Program. This should be as simple as selecting a “Donate” option within the wallet. This should take the user to a selection of charities. This selection can be adjusted to address the current needs and desires of the LGBT community. 
+The LGBT Foundation is exploring functionality in the wallet which enables users to donate directly to a selection of charities forming part of the LGBT Impact Program. This should be as simple as selecting a “Donate” option within the wallet. This should take the user to a selection of charities. This selection can be adjusted to address the current needs and desires of the LGBT community.
 
 It is important to note that potential regulatory issues may arise as the donation scheme spans multiple geographic locations. The LGBT Foundation will commit to complying with all required regulation surrounding donations and restricting this functionality in jurisdictions where regulations prevent it. 
 
 
 #### Voting
 
-The LGBT Impact program will open a quarterly vote for all token holders to decide on which charitable causes to fund. The list of projects will be provided by the Foundation initially, with the goal of eventually divesting curation over time into a decentralized governance model where the community itself will decide on appropriate programs to fund. This migration will occur as soon as a critical mass of users presents the ability to bootstrap a decentralized governance model. Any token holder will be able to submit a vote, where their vote weighting is a function of the amount of tokens in their wallet and how long these tokens have been held.
+The LGBT Impact program proposed to have a quarterly vote for all Token holders provide input on which charitable causes the LGBT Foundation should support. The list of projects will be provided by the Foundation initially, with the goal of eventually divesting curation over time into a decentralized governance model where the community itself will decide on appropriate programs to fund. This migration will occur as soon as a critical mass of users presents the ability to bootstrap a decentralized governance model. Any token holder will be able to submit a vote, where their vote weighting is a function of the amount of tokens in their wallet and how long these tokens have been held.
 
-A few terms and variables are defined, which will be used to formulate the voting process:
+A few terms and variables are being considered, which will be used to formulate consultation process:
 
-* The soft cap of a charity is the minimum amount of currency a charity needs to earn the vote to qualify for a payout. This is due to the fact that certain charities require a minimum amount to function properly (such as for events, etc.).
-* The hard cap of a charity is the maximum amount of currency a charity can be paid out in a vote. Charities are of various sizes and large donations to smaller charities are a suboptimal allocation of donations.
-* The voting threshold, ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T), is the minimum amount of votes (or total vote-weight) required for a charity to qualify for payout. This is an adjustable parameter and should be chosen in such a way (for each vote and based on the number of charities available) that at least one charity will exceed ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T). 
-* ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP) or dollar-per-vote is the amount of dollars each vote is worth and is calculated as the total amount available to be donated in the vote divided by the total amount of votes cast to charities that have exceeded the voting threshold required for a payout. 
+* the soft cap of a charity is the minimum amount of currency a charity needs to earn the vote to qualify for a contribution. This is due to the fact that certain charities require a minimum amount to function properly (such as for events, etc.);
+* the hard cap of a charity is the maximum amount of Tokens a charity can be funded at a given time. Charities are of various sizes and large donations to smaller charities are a suboptimal allocation of donations;
+* the voting threshold, ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T), is the minimum amount of votes (or total vote-weight) required for a charity to qualify for a contribution. This is an adjustable parameter and should be chosen in such a way (for each vote and based on the number of charities available) that at least one charity will exceed ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T); and
+* ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP) or dollar-per-vote is the amount of Tokens each vote is worth and is calculated as the total amount available to be donated in the vote divided by the total amount of votes cast to charities that have exceeded the voting threshold required for a contribution.
 
-The voting structure will work as follows:
+The community consultation structure is proposed to work as follows, subject to further considerations:
 
-* A selection of charities will be chosen for any token holder to be able to submit a vote from their wallet. A token holder’s wallet will consist of LGBT Tokens which have been deposited into the account at different times with ![n](http://latex.codecogs.com/gif.latex?%5Cinline%20n) different UTXOs (unspent transactions). Each UTXO ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) can be represented as an amount deposited ![D_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20D_%7Bi%7D) and a ‘time since deposited’ ![t_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20t_%7Bi%7D) (i.e. ![(D, t_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28D%2C%20t_%7Bi%7D%29)).
-* The voting weight for this particular UTXO can then be calculated as 
+* a selection of charities will be chosen for any token holder to be able to submit a vote from their wallet. A Token holder’s wallet will consist of LGBT Tokens which have been deposited into the account at different times with ![n](http://latex.codecogs.com/gif.latex?%5Cinline%20n) different UTXOs (unspent transactions). Each UTXO ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) can be represented as an amount deposited ![D_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20D_%7Bi%7D) and a ‘time since deposited’ ![t_{i}](http://latex.codecogs.com/gif.latex?%5Cinline%20t_%7Bi%7D) (i.e. ![(D, t_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28D%2C%20t_%7Bi%7D%29)).
+* the voting weight for this particular UTXO can then be calculated as
 ![V_{i} = D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}
 ](http://latex.codecogs.com/gif.latex?%5Cinline%20V_%7Bi%7D%20%3D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D) so that a token holder’s total vote weight is<br/>
 ![\sum _{i=1} ^{n} V_{i} = \sum _{i=1} ^{n} D_{i} \cdot \frac{t_{i}}{\alpha + \beta t_{i}}](http://latex.codecogs.com/gif.latex?%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20V_%7Bi%7D%20%3D%20%5Csum%20_%7Bi%3D1%7D%20%5E%7Bn%7D%20D_%7Bi%7D%20%5Ccdot%20%5Cfrac%7Bt_%7Bi%7D%7D%7B%5Calpha%20&plus;%20%5Cbeta%20t_%7Bi%7D%7D)<br/>
@@ -361,7 +362,7 @@ Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of
 
 `` [[ CHART OF VOTE WEIGHT WITH DIFFERENT VALUES FOR β ]] ``
 
-* Once the voting period has elapsed and vote weights calculated for each token holder, the votes are tallied for the charities. Let ![R = \{(C_{i},S_{i},H_{i})\}](http://latex.codecogs.com/gif.latex?%5Cinline%20R%20%3D%20%5C%7B%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29%5C%7D) denote the set of (number of votes, soft cap, hard cap) of each charity with an ordered indexing ![i > j \Leftrightarrow C_{i} > C_{j}](http://latex.codecogs.com/gif.latex?%5Cinline%20i%20%3E%20j%20%5CLeftrightarrow%20C_%7Bi%7D%20%3E%20C_%7Bj%7D)<sup>impa-1</sup>. We refer to charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) as the charity with ![(number of votes, soft cap, hard cap) = (C_{i},S_{i},H_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28number%20of%20votes%2C%20soft%20cap%2C%20hard%20cap%29%20%3D%20%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29). All charities such that ![C_{i} < T](http://latex.codecogs.com/gif.latex?%5Cinline%20C_%7Bi%7D%20%3C%20T) are discarded from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) as they did not receive enough votes. An iterated process ``HARD_CAP_PURGE`` now occurs:
+* once the voting period has elapsed and vote weights calculated for each token holder, the votes are tallied for the charities. Let ![R = \{(C_{i},S_{i},H_{i})\}](http://latex.codecogs.com/gif.latex?%5Cinline%20R%20%3D%20%5C%7B%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29%5C%7D) denote the set of (number of votes, soft cap, hard cap) of each charity with an ordered indexing ![i > j \Leftrightarrow C_{i} > C_{j}](http://latex.codecogs.com/gif.latex?%5Cinline%20i%20%3E%20j%20%5CLeftrightarrow%20C_%7Bi%7D%20%3E%20C_%7Bj%7D)<sup>impa-1</sup>. We refer to charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) as the charity with ![(number of votes, soft cap, hard cap) = (C_{i},S_{i},H_{i})](http://latex.codecogs.com/gif.latex?%5Cinline%20%28number%20of%20votes%2C%20soft%20cap%2C%20hard%20cap%29%20%3D%20%28C_%7Bi%7D%2CS_%7Bi%7D%2CH_%7Bi%7D%29). All charities such that ![C_{i} < T](http://latex.codecogs.com/gif.latex?%5Cinline%20C_%7Bi%7D%20%3C%20T) are discarded from ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) as they did not receive enough votes. An iterated process ``HARD_CAP_PURGE`` now occurs:
 
   1. The ![DVP](http://latex.codecogs.com/gif.latex?%5Cinline%20DVP) is (re)calculated. 
   2. A preliminary payout ![P_{i} = C_{i} \cdot DPV](http://latex.codecogs.com/gif.latex?%5Cinline%20P_%7Bi%7D%20%3D%20C_%7Bi%7D%20%5Ccdot%20DPV) is determined for each charity ![i](http://latex.codecogs.com/gif.latex?%5Cinline%20i) still in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R). 
@@ -375,16 +376,18 @@ Where _α, β_ are adjustable parameters with _α_ reflecting the growth rate of
   9. Reapply the process ``HARD_CAP_PURGE`` to the remaining charities in ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) since they may now have exceeded their hard cap with the additional funds from the removed charity being distributed.
   10. Return to step 6 if ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) is non-empty.
 
-We believe this process fairly allocates proportional funds to all qualifying (i.e. votes exceeding ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T)) charities while taking into account hard and soft caps. Every time a qualifying charity is removed for exceeding a hard cap or falling below a soft cap, the additional funds available mean the new potential rewards for the remaining charities need to be recalculated. Out of the charities which did not meet their soft caps, determining which to remove first is done based on number of votes (i.e. the one with the lowest votes is removed first), with their potential earnings being redistributed and potentially allowing other charities with more votes to meet their soft cap.
+We believe this process fairly allocates proportional funds to all qualifying (that is, votes exceeding ![T](http://latex.codecogs.com/gif.latex?%5Cinline%20T)) charities while taking into account hard and soft caps. Every time a qualifying charity is removed for exceeding a hard cap or falling below a soft cap, the additional funds available mean the new potential rewards for the remaining charities need to be recalculated. Out of the charities which did not meet their soft caps, determining which to remove first is done based on number of votes (i.e. the one with the lowest votes is removed first), with their potential earnings being redistributed and potentially allowing other charities with more votes to meet their soft cap.
 
 The voting itself will not be done in a decentralized manner, at least not initially. The LGBT Foundation – as a trusted entity which manages the privacy of identity of users interacting in the network – will manage the voting separately using an acceptable [E2E-type voting](https://en.wikipedia.org/wiki/End-to-end_auditable_voting_systems) format, such as [Helios](https://heliosvoting.org/), which preserves the anonymity of users as much as possible while guaranteeing integrity of the votes.
+
+Note the proposed voting arrangement that the LGBT Foundation is exploring is only in relation to the LGBT Impact Program.
 
 
 ### Users
 
 #### Pay as you go (PAYG) for Hornet Premium
 
-A PAYG model will be introduced, which will allow for existing subscription packages in addition to more granular choices of Hornet membership. The base price of Hornet Premium for a month is characterized as ![\$x/hour](http://latex.codecogs.com/gif.latex?%5Cinline%20%5C%24x/hour). Hornet will introduce a continuous price function to allow someone to purchase the below durations of Hornet membership. This price function is guided by the following price points (guided by the philosophy that ‘buying in bulk’ should be cheaper per hour):
+A PAYG model is proposed to be introduced, which will allow for existing subscription packages in addition to more granular choices of Hornet membership. The base price of Hornet Premium for a month is characterized as ![\$x/hour](http://latex.codecogs.com/gif.latex?%5Cinline%20%5C%24x/hour). Hornet will introduce a continuous price function to allow someone to purchase the below durations of Hornet membership. This price function is guided by the following initial price points (guided by the philosophy that ‘buying in bulk’ should be cheaper per hour), with the Token equivalent notified on the Hornet website from time to time:
 
  * Annual package - Hornet costs $0.007 per hour ~ ($5/month)
  * Quarterly package - Hornet costs $0.01 per hour ~ ($7/month)
@@ -405,27 +408,30 @@ Where ![\lambda, \mu](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clambda%
 
 This incentivizes purchasing for longer periods, but allows users to purchase any amount of Hornet Premium at a time.
 
+
 #### Community Rewards
 
-Hornet has an existing community rewards program which will be incorporating the LGBT Token network and expanded to provide rewards for a variety of behaviors. Actions which have been identified as reward-generators are:
+Hornet has an existing community rewards program which it proposes to incorporate into the LGBT Token network. It proposed to expanded it to provide rewards for a variety of behaviors. Actions which have been identified as reward-generators are:
 
- * Moderating the Hornet platform. This includes reporting bad or inappropriate behavior and becoming a part of the designated moderation team.
- * Referring new users to Hornet. People can be invited to Hornet by existing users who receive a reward if the user signs up and verifies their account. 
- * A ‘first’ action for certain types of actions will generate rewards, such as submitting your first story. This incentivizes user participation in the network.
- * There may be rewards for reaching follower milestones. This is applied to both users and content creators.
+ * moderating the Hornet platform. This includes reporting bad or inappropriate behavior and becoming a part of the designated moderation team;
+ * referring new users to Hornet. People can be invited to Hornet by existing users who receive a reward if the user signs up and verifies their account;
+ * a ‘first’ action for certain types of actions will generate rewards, such as submitting your first story. This incentivizes user participation in the network;
+ * there may be rewards for reaching follower milestones. This is applied to both users and content creators.
+
+A number of potential rewards, some of which are currently offered, are described with their corresponding reward:
 
 | Action | Perk |
 | ------ | ---- |
-| Claiming a Hornet wallet (for LGBT Tokens) | 1 LGBT Token per user. ~ 5 million LGBT Tokens have been allocated to encourage widespread adoption of the wallet. |
+| Claiming a Hornet wallet (for use of LGBT Tokens) | 1 LGBT Token per user. ~ 5 million LGBT Tokens have been allocated to encourage widespread adoption of the wallet. |
 | Community Rewards (today): Moderators; Translators; Beta testers; City ambassadors; Stories; Hornet guys | Currently users rewarded perk points. Users can redeem these points in the Hornet shop. The early version of the shop contains 7 items. |
-| Community Rewards (amplified); All of the above +; Influencer; Traveller; Party starter; Host | Users will now instead receive LGBT Tokens.; The community rewards will be aggressively increased by 10x  through the use of the LGBT Token. Increase diversity of rewards program; The increase is considered sustainable as currently approximately; |
-| Profile Completion | The Hornet team is exploring building out rewards for users who complete their profile. It is proven that profiles which are completed have higher activity. Thus, Hornet may choose to incentive profile completion using the LGBT Token.<sup>user-1</sup> |
-| Profile Verification | As above, genuine profiles are more valuable to Hornet than fake accounts, so in future Hornet may incentivize profile verification.<sup>user-2</sup> |
+| Community Rewards (amplified); All of the above +; Influencer; Traveller; Party starter; Host | Users will now instead receive LGBT Tokens.; The community rewards will be aggressively increased by 10x through the use of the LGBT Token. Increase diversity of rewards program; The increase is considered sustainable as currently approximately; |
+| Profile completion | The Hornet team is exploring building out rewards for users who complete their profile. It is proven that profiles which are completed have higher activity. Thus, Hornet may choose to incentive profile completion using the LGBT Token.<sup>user-1</sup> |
+| Profile verification | As above, genuine profiles are more valuable to Hornet than fake accounts, so in future Hornet may incentivize profile verification.<sup>user-2</sup> |
 
 
 #### Hornet Attainment
 
-Hornet Attainment is a service which will be available to its users and is especially popular in some Asian regions. Users will have a ‘reputation score’ which reflects their social status in the network. Users can show appreciation to influential users by gifting them virtual goods that are purchased with LGBT Tokens. When these goods are sent to the recipient, an assumed 50% of the LGBT Token value is reflected in their wallet as ‘attainment’ tokens. These tokens count towards their reputation score using the formula below. The remainder is reflected as Hornet revenue. Hornet attainment is not designed to be lucrative for users, but rather for users to accrue reputation points. Recipients who hold their attainment tokens, instead of cashing them out, will earn reputation points based on the value of these tokens as well as how long these tokens have been held.  For ‘attainment’ tokens with an LGBT Token value ![G](http://latex.codecogs.com/gif.latex?%5Cinline%20G) having been held for time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t), the reputation points ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) accrued are:
+"Hornet Attainment" is a proposed service that may be made available to its users and is especially popular in some Asian regions. Users will have a ‘reputation score’ which reflects their social status in the network. Users can show appreciation to influential users by gifting them virtual goods that are purchased with LGBT Tokens. When these goods are sent to the recipient, an assumed 50% of the LGBT Token value is reflected in their wallet as ‘attainment’ tokens. These tokens count towards their reputation score using the formula below. The remainder is reflected as Hornet revenue. Hornet attainment is not designed to be lucrative for users, but rather for users to accrue reputation points. Recipients who hold their attainment tokens, instead of cashing them out, will earn reputation points based on the value of these tokens as well as how long these tokens have been held.  For ‘attainment’ tokens with an LGBT Token value ![G](http://latex.codecogs.com/gif.latex?%5Cinline%20G) having been held for time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t), the reputation points ![R](http://latex.codecogs.com/gif.latex?%5Cinline%20R) accrued are:
 
 ![R(G,t) = \rho \cdot G \cdot \frac{\alpha - t}{\beta - t}](http://latex.codecogs.com/gif.latex?R%28G%2Ct%29%20%3D%20%5Crho%20%5Ccdot%20G%20%5Ccdot%20%5Cfrac%7B%5Calpha%20-%20t%7D%7B%5Cbeta%20-%20t%7D)
 
@@ -435,9 +441,8 @@ Note the starting value may be different for different values of ![\alpha](http:
 
 Users can also show off these gifts in a virtual trophy case. Reputation may also include tangible benefits such as visibility in a certain area for Hornet social matches.
 
-### Content Creators
 
-#### Monetization
+### Content Creators
 
 To incentivize both the presence of content creators (to choose Hornet as a content platform), network interactions and higher quality content, a monetization scheme for content creators will be introduced. Every fixed time interval, the monetization for a content creator should be calculated and once this exceeds a certain threshold, it should be deposited into their LGBT Token wallet. When calculating the monetization at a later time interval for content which has already been monetized, the mechanism takes into account that only additional interactions which haven’t previously been accounted for in monetization, should be used.
 
@@ -445,7 +450,7 @@ Monetization should be based on a variety of factors and scale appropriately, wh
 
  * How many likes a post receives should influence the monetization scheme. This should be tempered by the fact that for larger content creators, followers will correlate with likes, so the ratio ![](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7Blikes%7D%7Bfollowers%7D) is a more appropriate metric.
  * Similarly to how many likes, the number of shares should influence the monetization, using a similar ratio as defined in the previous point. For each action such as share, like etc., an ‘effort’ factor should be used to determine how many likes or shares are appropriate for the monetization threshold, to discourage abuse.
- * There should be a threshold which a particular monetization calculation needs to exceed to be considered a monetization (so if you have one follow and one like, for example, there is no monetization for that post). 
+ * There should be a threshold which a particular monetization calculation needs to exceed to be considered a monetization (so if you have one follow and one like, for example, there is no monetization for that post).
 
 We define the following variables:
 
@@ -463,7 +468,7 @@ The monetization ![M_{n}](http://latex.codecogs.com/gif.latex?%5Cinline%20M_%7Bn
 
 `` [[ CHART PAYOUT IN TOKENS x NUMBERS OF FOLLOWERS ]] ``
 
-The actual payout ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M) for a particular post should be computed as: 
+The actual payout ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M) for a particular post should be computed as:
 
 ![M = max\left(M_n - \displaystyle\sum_{i=m}^{n-1}M_i,0\right)](http://latex.codecogs.com/gif.latex?M%20%3D%20max%5Cleft%28M_n%20-%20%5Cdisplaystyle%5Csum_%7Bi%3Dm%7D%5E%7Bn-1%7DM_i%2C0%5Cright%29)
 
@@ -479,27 +484,27 @@ Assume there is a set of actions ![A = \left \{ {A_i} \right \}](http://latex.co
 
 ![M_n = \frac{\rho}{\sqrt{f^g}}\displaystyle\sum_{i=1}^C\alpha_iA_i](http://latex.codecogs.com/gif.latex?M_n%20%3D%20%5Cfrac%7B%5Crho%7D%7B%5Csqrt%7Bf%5Eg%7D%7D%5Cdisplaystyle%5Csum_%7Bi%3D1%7D%5EC%5Calpha_iA_i)
 
-Alternative distribution models for launch partner to explore, but which were not deemed suitable for Hornet, are described in Appendix A. 
+Alternative distribution models for launch partner to explore, but which were not deemed suitable for Hornet, are described in Appendix A.
 
 
 ### Other Implementations
 
 #### Credit Card
 
-A credit card is expected to be introduced by the Foundation that enables users to receive LGBT Token as a form of cash-back rewards on FIAT purchases. Users can decide whether these rewards are directed towards causes or toward their wallet. This is expected to be implemented within 18 months. This will allow tokens to be earned by users, which can be spent wherever LGBT Tokens are accepted and to overcome one of the main obstacles for the mainstream audience to acquire cryptocurrencies in general. A credit card that establishes an automatic LGBT Token distribution towards users while being usable on everyday transactions might create a significant demand to buy back Tokens for the Card issuer<sup>othe-1</sup>.
+The LGBT Foundation is exploring, subject to obtaining all legal and regulatory approvals and licences, a credit card that enables users to claim LGBT Token as a form of cash-back rewards on FIAT purchases. Users can decide whether these rewards are directed towards causes or toward their wallet. This is expected to be implemented in approximately 18 months. This could allow tokens to be earned by users, which can be spent wherever LGBT Tokens are accepted and to overcome one of the main obstacles for the mainstream audience to acquire cryptocurrencies in general. A credit card that establishes an automatic LGBT Token distribution towards users while being usable on everyday transactions might create a significant demand to buy back Tokens for the Card issuer<sup>othe-1</sup>.
 
 The LGBT Token rebates on purchases using the credit card will be based on a levelled system consisting of tiers. An early draft of the system is shown below:
 
 | Amount of LGBT Token spent over 12 months | 0 - 999 | 1,000- 4,999 | 5,000- 9,999 | 10,000+ |
 | ----------------------------------------- | ------- | ------------ | -------- | ----- |
-| Your reward level | 1 | 2 | 3 | 4 |
-| | Rabate rates | | |
+| Reward level | 1 | 2 | 3 | 4 |
+| | Rebate rates | | |
 | Hornet purchases | 0.5% | 0.7% | 0.9% | 1% |
 | LGBT affiliated events | 0.2% | 0.4% | 0.7% | 1% |
 | Shopping | 0.1% | 0.2% | 0.5% | 0.8% |
 
 
-## Token Technical Design
+## Token technical design
 
 ### Design Objectives
 
@@ -508,7 +513,7 @@ Design objectives help guide us toward a set of desired characteristics for the 
 
 ### LGBT Token transaction pseudonymity
 
-As discussed in the token objectives, we want the LGBT Token transactions to be anonymous.
+As discussed in the Token objectives, we want the LGBT Token transactions to be secure, without the risk of personal data being disclosed unintentionally.
 
 Furthermore, expecting LGBT members to be willing to expose their entire transaction histories on a public blockchain is a level of hyper-transparency that is not currently commonplace. For example, one's bank knows one's transaction history, but the history is not known by all stores where the account's linked credit card has been used.
 
@@ -520,14 +525,16 @@ We would need to build our token on a blockchain platform that offers a likely p
 
 ### LGBT Token functionality
 
-This refers to the scope of the token’s use. Simple token functionality implies that we can only use the token for transfers and it would function purely as a medium-of-exchange. More complex token functionality requires that a token can be used in a smart contract environment. Here, tokens fulfil numerous use-cases beyond simple transfers. Ideally, LGBT Tokens should be able to incorporate smart contract functionality.
+This refers to the scope of the token’s use. Basic token functionality implies that we can only use the token for transfers and it would function purely as a medium-of-exchange. More complex token functionality requires that a token can be used in a smart contract environment. Here, tokens fulfil numerous use-cases beyond simple transfers. Ideally, LGBT Tokens should be able to incorporate smart contract functionality.
 
 
 ### LGBT Token decentralization
 
-This refers to the extent to which the system cannot be controlled or significantly influenced by any single or small group of users. Since we want this token to be governed by the LGBT community and not just a few powerful stakeholders, decentralization is of the utmost importance. Furthermore, decentralization presents a more robust architecture that doesn’t contain a few central points of weakness which are susceptible to attack. Most blockchains are inherently decentralized, however different consensus protocols – amongst other factors – greatly influence the degree of decentralization and this should thus be carefully considered. 
+This refers to the extent to which the system cannot be controlled or significantly influenced by any single or small group of users. Since we want this token to be governed by the LGBT community and not just a few powerful stakeholders, decentralization is of the utmost importance. The LGBT Foundation is exploring mechanisms to achieve this having regard to the nature of the LGBT Token, and legal and regulatory considerations.
 
-The LGBT Foundation deems the technical design objectives to have the following ranking: 
+Furthermore, decentralization presents a more robust architecture that doesn’t contain a few central points of weakness which are susceptible to attack. Most blockchains are inherently decentralized, however different consensus protocols – amongst other factors – greatly influence the degree of decentralization and this should thus be carefully considered.
+
+The LGBT Foundation deems the technical design objectives to have the following ranking:
 
 `` Pseudonymity > Decentralization > Scalability > Functionality ``
 
@@ -537,7 +544,7 @@ Finally, we note that there is **no** design objective which aims at pioneering 
 
 ### Platforms under consideration
 
-Numerous blockchain platforms were analyzed. The following platforms were explored: Ethereum, Stellar, Waves, EOS, Simple Token, NEO, Tezos, Cardano and Rchain. Emphasis was placed on privacy and scalability of these platforms and the technology surrounding these considerations.
+Numerous blockchain platforms were analyzed as part of the project. The following platforms were explored: Ethereum, Stellar, Waves, EOS, Simple Token, NEO, Tezos, Cardano and Rchain. Emphasis was placed on privacy and scalability of these platforms and the technology surrounding these considerations.
 
 We explored many interesting scaling solutions, such as Raiden, Sharding, Plasma, leased proof-of-stake and recursive snarks. We reviewed production timelines along with the technology underpinning these solutions. The Raiden network showed great promise for LGBT Tokens and it provided some degree of anonymity, which we discuss later. Platforms such as Stellar already show sufficient scalability, albeit at the cost of decentralization and functionality.
 
@@ -545,19 +552,21 @@ Regarding privacy, we initially explored high-tech solutions that serve to compl
 
 Drawing on the above insights, we compared two platforms that we believe align with the vision of the LGBT Token. These platforms are the Stellar and Ethereum platforms. The motivations for these platforms are twofold. First, both platforms are currently production-ready. Secondly, and more importantly, both platforms plan to integrate payment channels into the network by Q4-2018: Ethereum through the [Raiden network](https://raiden.network/) and [Stellar through the Lightning network](https://www.stellar.org/blog/2018-Stellar-Roadmap/). The Raiden and Lightning networks refer roughly to the same technology known as payment channels. Payment channels will likely provide the necessary degree of scalability and privacy required by the LGBT Token.
 
-Next, we briefly compare Ethereum and Stellar as they exist today and then again in Q4-2018, when we believe payment channels will be integrated into both platforms. Table 1 scores both platforms by a scoring (out of 10) and weighting individual platform aspects based on their importance to the LGBT Token network. Next, Table 2 briefly outlines the differences between the platforms in these chosen criteria, motivating the scores found in Table `x`.
+Next, we briefly compare Ethereum and Stellar as they exist today and then again in Q4-2018, when we believe payment channels will be integrated into both platforms. Table 1 scores both platforms by a scoring (out of 10) and weighting individual platform aspects based on their importance to the LGBT Token network. Next, Table 2 briefly outlines the differences between the platforms in these chosen criteria, motivating the scores found in Table 1.
 
-|  | Weight | Ethereum Q1/2018 | Ethereum with Raiden Q4/2018 | Stellar Q1/2018 | Stellar with Lightning network Q4/2018 |
-| -------------------------- | -------- | ----- | ------- | ------- | ------- |
-| Privacy                    |    25%   |   3   |    8    |    2    |    6    |
-| Scalability                |    15%   |   3   |    7    |    7    |    9    |
-| Decentralization           |    20%   |   6   |    7    |    2    |    3    |
-| Transaction fees and speed |    15%   |   2   |    7    |    8    |    9    | 
-| Functionality              |    10%   |   8   |    9    |    3    |    4    |
-| Ecosystem support          |    15%   |   9   |   10    |    7    |    8    |
-| **Weighted Total**         | **100%** | **5** | **7.9** | **4.5** | **6.4** |
+Note: The views and assessments expressed in this section represent the observations and views of LGBT Foundation only, based on various assumptions and underlying source materials that have not been independently verified. They are not intended to provide a full assessment or holistic comparison of these platforms. They should not be relied on, and are limited insofar as they relate to the LGBT Token. The views are expressed at the time of publication. A number of the assumptions may be subject to change as the respective platforms develop. See further disclaimers above.
 
-`Table x: Matrix ranking: Ethereum vs. Stellar in Q1-2018 vs. Q4-2018.` 
+|  | Weight | Ethereum Q1-2018 | Ethereum with Raiden Q4-2018 | Stellar Q1-2018 | Stellar with Lightning network Q4-2018 |
+| -------------------------- | -------- | -------- | -------- | -------- | -------- |
+| Privacy                    |    20%   |    3     |     7    |    2     |    6     |
+| Scalability                |    20%   |    3     |     7    |    7     |    9     |
+| Decentralization           |    15%   |    6     |     7    |    2     |    5     |
+| Transaction fees and speed |    20%   |    2     |     6    |    8     |   10     |
+| Functionality              |    10%   |    8     |     9    |    3     |    5     |
+| Ecosystem support          |    15%   |    9     |    10    |    7     |    9     |
+| **Weighted Total**         | **100%** | **4.65** | **7.45** | **5.05** | **7.6** |
+
+`Table 1: Matrix ranking: Ethereum vs. Stellar in Q1-2018 vs. Q4-2018.`
 <br>
 <br>
 
@@ -565,29 +574,28 @@ Next, we briefly compare Ethereum and Stellar as they exist today and then again
 | --- | --- | --- |
 | **Privacy:** The degree to which users can transact anonymously. | Pseudo-anonymous. Payment channels introduce an acceptable level of anonymity. Active research by Ethereum Foundation into high-tech zero-knowledge privacy solutions. | Pseudo-anonymous. Payment channels introduce an acceptable level of anonymity. |
 | **Scalability:** Limits on the number of transactions the network can process. | Currently, around 15 transactions per second. Payment channels enable unlimited near instantaneous off-chain transfers between connected parties. This result will be suitable to handle mass LGBT Token adoption. | Currently, around 1,000 transactions per second. Payment channels and protocol advances will improve scalability. Stellar still falls significantly short of Visa or Mastercard, etc. at 20,000 transactions per second. |
-| Decentralization: The extent to which the system cannot be controlled by any single user. | Anyone can run a node and validate transactions. No significant barrier to entry of running a node. | Anyone can run a Stellar Core node and validate transactions (although significant barrier to entry when compared to Ethereum). There is less incentive to run a full node as no mining fees collected. Inherently Stellar has fewer validators and, thus, a greater degree of centralization. |
+| **Decentralization:** The extent to which the system cannot be controlled by any single user. | Anyone can run a node and validate transactions. No significant barrier to entry of running a node. | Anyone can run a Stellar Core node and validate transactions (although significant barrier to entry when compared to Ethereum). There is less incentive to run a full node as no mining fees collected. Inherently Stellar has fewer validators and, thus, a greater degree of centralization. |
 | **Transaction fees and speed** | Median transaction confirmation speed: 3.5 minutes. Transaction fees depend on computation complexity, speed of the transaction, amongst other variables. Median fee: US$0.069  per transaction. Payment channels enable negligible off-chain transfer fees and near instantaneous transfers. | Median transaction confirmation speed: 5 seconds. Negligible fees:  US$0.000002 per operation in each transaction. |
-| **Functionality:** i.e. does the platform allow full smart contract functionality? | Almost any conceivable and programmable application as Ethereum is Turing-complete. | Largely restricted to payments and a small library of other abstractions. Very limited functionality. |
+| **Functionality:** that is, does the platform allow full smart contract functionality? | Almost any conceivable and programmable application as Ethereum is Turing-complete. | Largely restricted to payments and a small library of other abstractions. Very limited functionality. |
 | **Ecosystem support** | A large community of actively contributing developers and a strong network of support. | Growing number of developers and a growing network of support. |
 
-`Table x: Comparing Ethereum to Stellar`
+`Table 2: Comparing Ethereum to Stellar`
 
-### Ethereum vs. Stellar 
 
-As it currently stands, Ethereum and Stellar each present unique strengths and weaknesses. Ethereum displays a good degree of decentralization, strong functionality and a promising outlook regarding privacy. However, Ethereum has relatively high transaction fees and long transaction confirmation times. Stellar, on the other hand, facilitates fast and cheap transactions. Unfortunately, this comes with the opportunity cost of decentralization and a lack of complete smart contract functionality.  
+### Ethereum vs. Stellar
 
-Table 1 shows that based on these insights we currently score Ethereum 5/10 overall while Stellar receives a score of 4.5/10. These scores reflect the fact that Ethereum scores better on the critical design features needed for the LGBT Token – decentralization and privacy – which are more heavily weighted when calculating the final score.
+As it currently stands, Ethereum and Stellar each present unique strengths and weaknesses. Ethereum displays a good degree of decentralization, strong functionality and a promising outlook regarding privacy. However, Ethereum has relatively high transaction fees and long transaction confirmation times. Stellar, on the other hand, facilitates fast and cheap transactions. Unfortunately, this comes with the opportunity cost of decentralization and a lack of complete smart contract functionality.
 
-When payment channels are integrated into both Stellar and Ethereum – in the form of the Raiden and Lighting networks – we see Ethereum move even further ahead. Table 1 shows Ethereum’s new overall score of 7.9/10 compared to Stellar's 6.4/10. The greater jump in score for Ethereum highlights that Ethereum has more to gain from payment channel integration. This is because Stellar is already relatively scalable, whilst Ethereum is currently not. The introduction of payment channels in Ethereum will facilitate near-instant, low-fee transactions, remedying Ethereum's current high-fee and slow transaction speed shortfall. 
+Table 1 shows that based on these insights we currently score Ethereum 4.65/10 overall while Stellar receives a score of 5.05/10. These scores reflect the fact that both services offer a sufficient basis for the some critical design features needed for the LGBT Token, but lack privacy and - especially on Ethereum - scalability functionality.
 
-The superior current and future scoring of Ethereum in Table 1 reflects our sentiment that Ethereum is the best technology platform to use when creating and issuing the LGBT Token. It satisfies all major requirements of the LGBT Token. Beyond this, Ethereum has a very active community working on numerous platform improvements (zk-SNARK, Raiden, etc.) that will further benefit the LGBT Token. Although Stellar shows promise, its lack of decentralization positions it as a compromised second-choice solution.
+When payment channels are integrated into both Stellar and Ethereum – in the form of the Raiden and Lighting networks – we see Stellar still in the lead. Table 1 shows Ethereum’s new overall score of 7.45/10 compared to Stellar's 7.6/10. The greater jump in score for Ethereum highlights that Ethereum has more to gain from payment channel integration. This is because Stellar is already relatively scalable, whilst Ethereum is currently not. The introduction of payment channels in Ethereum will facilitate near-instant, low-fee transactions, remedying Ethereum's current high-fee and slow transaction speed shortfall. However, this is contingent to the release of the Raiden Network.
+
+Stellar is ready to scale and share similar privacy features, while the smart contract functionality is lacking in comparison to Ethereum. However, the proposed roadmap for the LGBT Token project require a safe, secure and scalable network first and foremost, before implementing more complex features. The fact that Stellar provides limited functionality increases the security of the LGBT Token network, as it is easier to audit. The LGBT Foundation believes, that the roadmap for Stellar will provide the required functionality in time.
+
 
 ### Platform Conclusion
 
-We found Ethereum to perform better in the areas of decentralization, privacy and functionality. Stellar performed best in scalability exhibiting high-speed and low-fee transactions. Since privacy and decentralization are the key requirements of the LGBT Token, this positions Ethereum as the leading platform.
-
-In the near future, when payment channels are integrated into both platforms, we find that Ethereum stands to benefit more from these near-instant, low-fee and scalable transactions. In light of this analysis, Ethereum emerges as the preferred platform to use for building and issuing the LGBT Token.
-
+We found Stellar to perform better in the areas of scalibility, while showing sufficient levels of decentralization, privacy and functionality. Both, Stellar and Ethereum are not yet ready when it comes the the required privacy elements that we envision for the LGBT Token project. The LGBT Foundation will actively work to help improve privacy with Stella, for the safety of our users. In light of this analysis, Stellar emerges as the preferred platform to use for building and issuing the LGBT Token.
 
 
 ## Appendix A: Generic Micro-economic model
@@ -705,7 +713,7 @@ Monetization can also be based partially on a staking mechanism. Content Creator
 
 To incentivize ad-viewing in a network, rewards will be paid to users who view ad videos (in their entirety). This can work in one of two ways:
 
- * For each video viewed, a user will earn ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens for up to Vvideos per day for a total of [XV](http://latex.codecogs.com/gif.latex?%5Cinline%20XV) tokens per day per user. Both of these are adjustable parameters based on the actual number of impressions within a given time interval as well as the network’s revenue per ad viewed. The time interval should be chosen such that viewing trends are unlikely to shift notably during such a period.
+ * For each video viewed, a user will earn ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens for up to Vvideos per day for a total of ![XV](http://latex.codecogs.com/gif.latex?%5Cinline%20XV) tokens per day per user. Both of these are adjustable parameters based on the actual number of impressions within a given time interval as well as the network’s revenue per ad viewed. The time interval should be chosen such that viewing trends are unlikely to shift notably during such a period.
  * If an advertiser pays the service provider ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens (or any currency) for each video view, the service provider can pay each User viewing a video a fraction of that earning. Therefore incentives will vary by video based on the pricing between the particular Advertiser and the Service Provider.
 
 
@@ -782,7 +790,10 @@ toke-4: https://www.quora.com/How-much-does-YouTube-pay-per-1000-views-How-where
 * appe-4: Note, again, that this is a completely separate service to ads.
 
 
+## Remarks for layout
 
+* The note on the stellar/ethereum table can be in a smaller font (Note: The views and assessments expressed in this section represent...)
+* All equations should be centered when they are listed on a separate line
 
 
 
