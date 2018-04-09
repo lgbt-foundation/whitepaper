@@ -4,12 +4,12 @@
 
 ### Disclaimer
 
-This White Paper and other documents published in association with this White Paper relate to the LGBT Token project. These documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
+This White Paper ("**White Paper**) relates to the LGBT Token project and should be read in conjunction with the Pink Paper ("**Pink Paper**") available at [https://lgbt-token.org](https://lgbt-token.org). This and other documents may be amended or replaced at any time, without notification of any changes or access to any additional information.
 
 Recipients are notified as follows:
 
 * **This White Paper describes a future project:** This whitepaper contains forward-looking statements that are based on the beliefs of LGBT Foundation Limited ("**LGBT Foundation**"), as well as certain assumptions made by and information available to the LGBT Foundation. The LGBT project as envisaged in this White Paper is under development and is being constantly updated, including but not limited to key governance and technical features. The LGBT Token (as described in this White Paper) involves and relates to the development and use of experimental platforms (software) and technologies that may not come to fruition or achieve the objectives specified in this whitepaper. If and when the LGBT platform is completed, it may differ significantly from the platform set out in this White Paper.
-* **Eligible purchasers:** the information in this White Paper is provided privately to certain prospective purchasers and is not intended to be received or read by anyone else. Eligibility is not guaranteed and is likely to be subject to restrictions.
+* **Eligible purchasers:** The information in this White Paper is primarily intended for certain prospective purchasers. Its availability to any other person via our website or otherwise is for general reference purposes only (in certain markets) and is neither an offer nor solicitation of any kind. Eligibility is subject to restrictions.
 * **No offer of regulated products or services:** the LGBT Token is not intended to constitute a security or any other regulated product or service in any jurisdiction. This White Paper does not constitute a prospectus nor offer document of any sort and is not intended to constitute an offer or solicitation of securities or any other investment or other product or service in any jurisdiction.
 * **No advice:** this whitepaper does not constitute advice to purchase any LGBT Tokens nor should it be relied upon in connection with any contract or purchasing decision.
 * **No representations:** no representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from this White Paper or any omission from this document or of any other written or oral information or opinions provided now or in the future to any interested party or their advisers. No representation or warranty is given as to the achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information and opinions contained in this whitepaper or any information which is made available in connection with any further enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
@@ -164,10 +164,10 @@ It is of value to put a sad face on articles reporting such prosecutions on soci
 
 The LGBT Foundation would make sure that such emergency Tokens are:
 
- * available immediately,
- * that further Tokens can be mobilized quickly,
- * that these Tokens can be transferred across borders without hassle or undue cost,
- * and that they reach exactly the right targets without risks of compromising identities or unscrutinized embezzlement of such funds.
+ * available immediately;
+ * that further Tokens can be mobilized quickly;
+ * that these Tokens can be transferred across borders without hassle or undue cost and
+ * that they reach exactly the right targets without risks of compromising identities or unscrutinized embezzlement of such funds.
 
 We imagine if that this entire process, from an initial call for help right up to purchasing plane tickets or travel fare to evacuate, could be achieved using LGBT Token, one’s sexual and gender identity and purchases would be protected and private throughout. It will, quite literally, save lives, but it’s just one of the examples by which we could illustrate the numerous ways in which LGBT Impact can make a tangible difference in the lives of LGBT community members, no matter where they are.
 
