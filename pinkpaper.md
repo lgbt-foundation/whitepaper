@@ -602,19 +602,20 @@ We found Stellar to perform better in the areas of scalibility, while showing su
 
 ## Appendix A: Generic Micro-economic model
 
-We want to create a microeconomic template for launch partners of the LGBT Token. This template should encourage particular types of behavior and contribute to a sustainable model of LGBT Token use by partners.
+We want to create a microeconomic template for launch partners of the LGBT Token. This template should encourage particular types of behavior and contribute to a sustainable model of LGBT Token use by partners. The model is provided for illustrative purposes only and may be subject to change as the project further develops.
 
-The launch partners of the LGBT Token will offer a wide variety of services and we provide a model for a generic network-based service. The proposed design is as modular as possible to accommodate launch partners adopting partial models where certain features are not relevant to them.
+The launch partners of the LGBT Token may offer a wide variety of different services, in each case at their discretion.  We simply outline a proposed model for a generic network-based service, without considering the specific objective or services that the launch partner provides. Despite this, the proposed design is proposed to be as modular as possible to accommodate launch partners adopting partial models where certain features are not relevant to them. The below is not advice.  Each launch partner must need to consider their own circumstances, objectives and needs, as well as their local regulatory requirements, and obtain its own professional advice.
+
 
 Actors:
 
  * **Service Provider:** Provides services to Users in a network model. Two types of primary services may be offered:
-   * Direct User Services: These are services directly provided to the User in exchange for currency.
+   * Direct User Services: These are services directly provided to the User in exchange for payment.
    * Network Services: These are services provided to facilitate network interactions.
- * **Third-party Service:** Interacts with the network (through Network Services) to provide additional services or to engage with Users. Two types of Third-party Services:
-   * Content Creator: Creates content within network for Users to consume and wants both **discovery** and **incentive** for the content produced.
+ * **Third-party Service:** Interacts with the network (through Network Services) to provide additional services or to engage with Users. Types of Third-party Services:
+   * Content Creator: Creates content within network for Users to consume and seeks both **discovery** and **incentive** for the content produced.
    * External Organization: Wants to engage Users to provide additional services through the network and requires **discovery** on the network.
-   * Advertisers: Want to Users to **discover** their services by viewing media describing them.
+   * Advertisers: Want to Users to **discover** their services by viewing media describing the advertiser.
  * **User:** Engages on the network, consumes (Direct User) services and content of Service Providers and Third-party Services. Users require an incentive to participate in the network and its economy.
 
 
@@ -627,7 +628,7 @@ Actors:
 
 ### Microeconomic Model
 
-Among the actors on the network, a microeconomy will develop that is facilitated by the native token - LGBT Token. There are two primary functions the Service Provider needs to fulfil for Third-party Services: **discovery** and **incentive**. We propose the Network Services of the Service Provider include a reward engine<sup>appe-2</sup> which facilitates distribution of tokens to other actors in the network. We approach the model in terms of satisfying the actor relationship requirements.
+Among the actors on the network, we anticipate a microeconomy will develop that is facilitated by the native token - LGBT Token. We believe that there are two primary functions the Service Provider needs to fulfil for Third-party Services: **discovery** and **incentive**. We propose the Network Services of the Service Provider include a reward engine<sup>appe-2</sup> which facilitates distribution of Tokens to other actors in the network. We approach the model in terms of satisfying the actor relationship requirements.
 
 
 ### Third-party Service vis-à-vis User
@@ -640,14 +641,14 @@ Users discover third-party services (or their appropriate content) through lists
 
 ### User vis-à-vis Service Provider
 
-Within the economy, there are two primary exchanges of LGBT Token between the Service Provider and the User: transactions and rewards. The Service Provider would like to create an **incentive** for the User to both participate in the network and spend LGBT Tokens. We propose the following two mechanisms to achieve this:
+Within the economy, there could be two primary exchanges of LGBT Token between the Service Provider and the User: transactions and rewards. The Service Provider would like to create an **incentive** for the User to both participate in the network and spend LGBT Tokens. The following two mechanisms could potentially be used to achieve this, subject to legal and regulatory considerations:
 
 
-#### Discount Token Model
+#### Potential Mechanism 1 - Discount Token Model
 
 Users purchase Direct User Services from the Service Providers in exchange for LGBT Token. To encourage the use of LGBT Tokens within the network and provide incentive to spend them, we propose a discount token model for Direct User Services.
 
-Let ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X)% be the maximum discount attainable for a service (or collection of services) on the network. Then there are a variety of possible discount models through treating a token as both a discount token and a medium-of-exchange simultaneously:
+Let ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X)% be the maximum discount attainable by a specific User for a service (or collection of services) on the network. Then there are a variety of possible discount models through treating a token as both a discount token and a medium-of-exchange simultaneously:
 
  1. If a user holds ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y)% of the total circulating supply, the discount attained is ![\frac{Y}{100}X\%](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7BY%7D%7B100%7DX%5C%25). The discount is directly proportional to how many tokens the user has (linearly).
  2. An alternative, to encourage smaller holders who cannot amass large amounts of tokens, is to have a function ![f: \mathbb{R}^+ \longrightarrow 0,100](http://latex.codecogs.com/gif.latex?%5Cinline%20f%3A%20%5Cmathbb%7BR%7D%5E&plus;%20%5Clongrightarrow%20%5B0%2C100%5D%20%5C%5C) which has larger growth for smaller values of ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y) and plateaus for larger values of ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y). The discount would then be ![\frac{f(Y)}{100}X\%
@@ -656,13 +657,13 @@ Let ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X)% be the maximum disc
 
 To ensure those with significant capital do not just buy tokens as needed for discounts and subsequently sell them, two solutions are proposed:
 
- 1. Have only tokens which have been held in an account for a fixed amount of time able to be used as discount tokens.
+ 1. Have only tokens which have been held in an account for a fixed amount of time able to be used as discount Tokens (although fundamentally, Tokens would not be locked but always be freely tradeable at the Users own discretion, so this would be optional).
  2. Have the function [f](http://latex.codecogs.com/gif.latex?%5Cinline%20f) defined above reliant on time, so that the weight of a discount is ‘coin age’-based<sup>appe-3</sup>.
 
 Treating the token as a discount token reduces the velocity in the system through incentivized holding of tokens, as well as incentivising spending for services that are offered in both LGBT Token and Fiat (such as premium membership).
 
 
-#### Reward Mechanism
+#### Potential Mechanism 2 - Reward Mechanism
 
 A **reward mechanism** for User engagement on the network which distributes small amounts of LGBT Token to Users for completing certain actions such as:
 
@@ -673,19 +674,19 @@ A **reward mechanism** for User engagement on the network which distributes smal
    * Proof-of-life. In other words, proof this is actually a user. For example, this can be done by being required to upload 4 photos of the user.
    * Filling out a survey of interests to claim rewards. A survey may enable greater discovery of  the user’s interests, so that it can better tailor network discovery for that user.
    * Other Demographic information.
- * Verifying an identity is important in networks to preserve the integrity of the network. Incentivizing the verification process ensures users are likely to verify their accounts while still being able to interact with the network if they choose not to. A reward can be paid out to users who successfully complete verification through the appropriate channels. This verification process may be an in-house process or delegated to a third-party KYC service (which may in turn be a decentralized service such as Civic). 
+ * Verifying an identity is important in networks to preserve the integrity of the network. Incentivizing the verification helps ensures users are likely to verify their accounts while still being able to interact with the network if they choose not to. A reward can be paid out to users who successfully complete verification through the appropriate channels. This verification process may be an in-house process or delegated to a third-party KYC service (which may in turn be a decentralized service such as Civic).
 
-This incentivizes network participation and creates a network effect where User actions encourage more Third-party services and other Users to appraise these actions. The amounts for these rewards will be determined by the market rate for LGBT Tokens at the time and could be subject to change at the service provider’s discretion.
+User actions can help encourage more Third-party services and other Users to appraise these actions. The amounts for these rewards would likely be determined by the market rate for LGBT Tokens at the time and could be subject to change at the service provider’s discretion.
 
 
 ### Third-party Service vis-à-vis Service Provider
 
-Third-party services (of both type) would like to be **discovered** by Users on the network. Additionally, Content Creators would like to monetize their content, which incentivizes them to produce more content for Users. To this end, we propose two models to achieve the desired behavior.
+Third-party services (of both type) would generally like to be **discovered** by Users on the network. Additionally, Content Creators would like to monetize their content, which incentivizes them to produce more content for Users. To this end, we propose potential models that may help achieve these aims.
 
 
-### Discovery-staking Mechanism
+#### Potential model - Discovery-staking Mechanism
 
-Under the assumption that the network accommodates lists, we propose appropriate (ordered) directories of third-party services<sup>appe-4</sup> (which are categorized both conceptually and geographically) for Users to consume. This inevitably introduces the potential for competition in listing on directories in each geographical region (or supercity) where the network operates. These lists will utilize a discovery algorithm which will take into account a number of tokens staked by the third-party service. Staked tokens are locked in for a fixed period of time in exchange for a higher score in the discovery algorithm (which will take into account other metrics as well such as followers etc). This applies to both External Organisations and Third-party services.
+Under the assumption that the network accommodates lists, we propose appropriate (ordered) directories of third-party services<sup>appe-4</sup> (which are categorized both conceptually and geographically) could be created for Users to consume. This inevitably introduces the potential for competition in listing on directories in each geographical region (or supercity) where the network operates. These lists will utilize a discovery algorithm which will take into account a number of tokens staked by the third-party service. Staked tokens are locked in for a fixed period of time in exchange for a higher score in the discovery algorithm (which will take into account other metrics as well such as followers etc). This could apply to both External Organisations and Third-party services. The staking and directory listing would need to be subject to separate terms and conditions, are considered in depth from a technical, legal and practical standpoint.
 
 For a particular geographical region or directory type, an organization stakes LGBT Token to contribute to weighting in the algorithm. The actual weighting is determined both by the number of tokens held and the time for which they are held. For any amount of tokens ![S](http://latex.codecogs.com/gif.latex?%5Cinline%20S) staked, the staking-weight of these tokens after being held for a time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t) is
 
@@ -704,26 +705,26 @@ The benefits of this are:
 
 This model can be adjusted for context with appropriate staking functions and rewards. For example, [Numerai](https://numer.ai/) allows claims (stakes) based on the confidence of a data scientist’s results and distributes rewards based on that.
 
-#### Monetization for Content Creators
+#### Potential model - Monetization for Content Creators
 
-Monetization in the form of rewards through the reward engine for Content Creators incentivizes higher quality content. For every User action (or certain amount of User actions) associated with content posted by a Content Creator, the reward engine can distribute LGBT Tokens to the Content Creator. The rewards can vary for different types of actions and for the rate per ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) of each action type occurs. This is linked to the discovery mechanism as content which is higher on discovery lists will be more likely to be consumed by Users.
+Monetization in the form of rewards through the reward engine for Content Creators incentivizes higher quality content. For every User action (or certain amount of User actions) associated with content posted by a Content Creator, the reward engine can distribute LGBT Tokens to the Content Creator. The rewards could vary for different types of actions and for the rate per ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) of each action type occurs. This would likely be linked to the discovery mechanism as content which is higher on discovery lists would inherently be more likely to be consumed by Users.
 
-Monetization can also be based partially on a staking mechanism. Content Creators can lock tokens dedicated to content creation which can provide additional rewards (up to some maximum). For example, assuming a maximum additional reward of ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M), a Content Creator could earn a bonus reward of up to ![\frac{Y}{N}M](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7BY%7D%7BN%7DM) tokens, where ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y) is the number of tokens staked by the Content Creator for rewards and ![N](http://latex.codecogs.com/gif.latex?%5Cinline%20N) is some predetermined parameter.
+Monetization could also be based partially on a staking mechanism, subject to technical, legal and practical considerations. Content Creators can lock tokens dedicated to content creation which can provide additional rewards (up to some maximum). For example, assuming a maximum additional reward of ![M](http://latex.codecogs.com/gif.latex?%5Cinline%20M), a Content Creator could earn a bonus reward of up to ![\frac{Y}{N}M](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%7BY%7D%7BN%7DM) tokens, where ![Y](http://latex.codecogs.com/gif.latex?%5Cinline%20Y) is the number of tokens staked by the Content Creator for rewards and ![N](http://latex.codecogs.com/gif.latex?%5Cinline%20N) is some predetermined parameter.
 
 
 #### Advertiser vis-à-vis Service Provider/User
 
-To incentivize ad-viewing in a network, rewards will be paid to users who view ad videos (in their entirety). This can work in one of two ways:
+To incentivize ad-viewing in a network, rewards could be paid to Users who view ad videos (in their entirety). This could potentially work in one of two ways, subject to technical, legal and practical considerations:
 
- * For each video viewed, a user will earn ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens for up to Vvideos per day for a total of ![XV](http://latex.codecogs.com/gif.latex?%5Cinline%20XV) tokens per day per user. Both of these are adjustable parameters based on the actual number of impressions within a given time interval as well as the network’s revenue per ad viewed. The time interval should be chosen such that viewing trends are unlikely to shift notably during such a period.
- * If an advertiser pays the service provider ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens (or any currency) for each video view, the service provider can pay each User viewing a video a fraction of that earning. Therefore incentives will vary by video based on the pricing between the particular Advertiser and the Service Provider.
+ * For each video viewed, a user could earn ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens for up to Vvideos per day for a total of ![XV](http://latex.codecogs.com/gif.latex?%5Cinline%20XV) tokens per day per user. Both of these could be periodically adjustable parameters based on expected / average past number of impressions within a given time interval as well as the available payment for distribution. The time interval could be chosen such that viewing trends are unlikely to shift notably during such a period.
+ * If an advertiser pays the service provider ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) LGBT Tokens (or any currency) for each video view, the service provider could allocate a certain fraction of that earning earning to its agreed payments to Users. Therefore incentives will vary by video based on the pricing between the particular Advertiser and the Service Provider.
 
 
 #### User vis-à-vis User
 
-Users interact with other Users as they usually would have on the network. The native currency, LGBT Token, can be transferred between Users through gifts and tips.
+Users interact with other Users as they usually would have on the network. The native asset, LGBT Token, could be transferred between Users through gifts and tips.
 
-We believe the model described above can be applied to any network use case satisfying the assumptions stated, or adjusted to match network use cases which don’t satisfy the stated assumptions.
+Each of the models above is conceptual and would always need to be calibrated to the needs and requirements of each use case.
 
 
 ## LAST PAGE (not an actual headline, just a page break reminder)
