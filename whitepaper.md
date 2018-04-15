@@ -283,7 +283,7 @@ To whom it may concern,
 
 On behalf of the newly formed LGBT Foundation, I would like to invite you to join us in our mission to empower the LGBT community by contributing to the planned LGBT Token project, designed to help advance equal rights and acceptance for the LGBT community around the globe.
 
-The LGBT Foundation’s private Token Sale will take place in the second quarter of 2018, with the aim of using the power and potential of blockchain to raise funds among a number of private participants. A blockchain-based LGBT Token will establish a shared economic identity and infrastructure, which we can harness to not only empower and connect LGBT businesses around the world, but also help protect LGBT community members’ identities in a safe and secure environment.
+A blockchain-based LGBT Token will establish a shared economic identity and infrastructure, which we can harness to not only empower and connect LGBT businesses around the world, but also help protect LGBT community members’ identities in a safe and secure environment.
 
 Blockchain technology helps us reach this goal by allowing users to make transactions without anyone being able to trace the participants. Despite the anonymity, it remains inherently secure as the information is held on a network of computing devices, which collectively store and verify changes. This means blockchain can facilitate and authenticate payments and record the entire history of exchange, without either party needing to reveal their identity – a revolutionary step in the LGBT community’s fight for equal rights and acceptance.
 

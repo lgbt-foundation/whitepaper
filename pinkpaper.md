@@ -23,6 +23,8 @@ This Pink Paper has not been reviewed by any regulatory authority in any jurisdi
 
 All references to 'dollars' or '$' are references to United States dollars unless otherwise stated.
 
+**Created in collaboration with Newtown Partners**
+
 This Pink Paper has been created in collaboration with **Newtown Partners**. Newtown Partners is a blockchain investment and advisory services company that specializes in token economics, token sale design and demand generation for both their portfolio of startups and in an advisory capacity. They operate out of offices in San Francisco, U.S. and Cape Town, South Africa.
 
 
