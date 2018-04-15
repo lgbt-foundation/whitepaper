@@ -527,7 +527,7 @@ We would need to build our token on a blockchain platform that offers a likely p
 
 ### LGBT Token functionality
 
-This refers to the scope of the token’s use. Basic token functionality implies that we can only use the token for transfers and it would function purely as a medium-of-exchange. More complex token functionality requires that a token can be used in a smart contract environment. Here, tokens fulfil numerous use-cases beyond simple transfers. Ideally, LGBT Tokens should be able to incorporate smart contract functionality.
+This refers to the scope of the token’s use. Basic token functionality implies that we can only use the token for transfers and it would function purely as a medium-of-exchange. More complex token functionality requires that a token can be used in a smart contract environment. Here, tokens fulfill numerous use-cases beyond simple transfers. Ideally, LGBT Tokens should be able to incorporate smart contract functionality.
 
 
 ### LGBT Token decentralization
@@ -628,14 +628,14 @@ Actors:
 
 ### Microeconomic Model
 
-Among the actors on the network, we anticipate a microeconomy will develop that is facilitated by the native token - LGBT Token. We believe that there are two primary functions the Service Provider needs to fulfil for Third-party Services: **discovery** and **incentive**. We propose the Network Services of the Service Provider include a reward engine<sup>appe-2</sup> which facilitates distribution of Tokens to other actors in the network. We approach the model in terms of satisfying the actor relationship requirements.
+Among the actors on the network, we anticipate a microeconomy will develop that is facilitated by the native token - LGBT Token. We believe that there are two primary functions the Service Provider needs to fulfill for Third-party Services: **discovery** and **incentive**. We propose the Network Services of the Service Provider include a reward engine<sup>appe-2</sup> which facilitates distribution of Tokens to other actors in the network. We approach the model in terms of satisfying the actor relationship requirements.
 
 
 ### Third-party Service vis-à-vis User
 
 Users discover third-party services (or their appropriate content) through lists. Users can interact with these third-party services:
 
- * External Organisations and Content Creators can be reviewed, which can contribute to the list ordering algorithm.
+ * External Organizations and Content Creators can be reviewed, which can contribute to the list ordering algorithm.
  * Content Creators’ content can be liked, shared, or any other appropriate network action. Additionally, Content Creators can be tipped small amounts of LGBT Token by Users for exemplary content.
 
 
@@ -644,7 +644,7 @@ Users discover third-party services (or their appropriate content) through lists
 Within the economy, there could be two primary exchanges of LGBT Token between the Service Provider and the User: transactions and rewards. The Service Provider would like to create an **incentive** for the User to both participate in the network and spend LGBT Tokens. The following two mechanisms could potentially be used to achieve this, subject to legal and regulatory considerations:
 
 
-#### Potential Mechanism 1 - Discount Token Model
+#### Potential Mechanism - Discount Token Model
 
 Users purchase Direct User Services from the Service Providers in exchange for LGBT Token. To encourage the use of LGBT Tokens within the network and provide incentive to spend them, we propose a discount token model for Direct User Services.
 
@@ -657,13 +657,13 @@ Let ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X)% be the maximum disc
 
 To ensure those with significant capital do not just buy tokens as needed for discounts and subsequently sell them, two solutions are proposed:
 
- 1. Have only tokens which have been held in an account for a fixed amount of time able to be used as discount Tokens (although fundamentally, Tokens would not be locked but always be freely tradeable at the Users own discretion, so this would be optional).
+ 1. Have only tokens which have been held in an account for a fixed amount of time able to be used as discount Tokens (although fundamentally, Tokens would not be locked but always be freely tradable at the Users own discretion, so this would be optional).
  2. Have the function [f](http://latex.codecogs.com/gif.latex?%5Cinline%20f) defined above reliant on time, so that the weight of a discount is ‘coin age’-based<sup>appe-3</sup>.
 
 Treating the token as a discount token reduces the velocity in the system through incentivized holding of tokens, as well as incentivising spending for services that are offered in both LGBT Token and Fiat (such as premium membership).
 
 
-#### Potential Mechanism 2 - Reward Mechanism
+#### Potential Mechanism - Reward Mechanism
 
 A **reward mechanism** for User engagement on the network which distributes small amounts of LGBT Token to Users for completing certain actions such as:
 
@@ -684,9 +684,9 @@ User actions can help encourage more Third-party services and other Users to app
 Third-party services (of both type) would generally like to be **discovered** by Users on the network. Additionally, Content Creators would like to monetize their content, which incentivizes them to produce more content for Users. To this end, we propose potential models that may help achieve these aims.
 
 
-#### Potential model - Discovery-staking Mechanism
+#### Potential Models - Discovery-staking Mechanism
 
-Under the assumption that the network accommodates lists, we propose appropriate (ordered) directories of third-party services<sup>appe-4</sup> (which are categorized both conceptually and geographically) could be created for Users to consume. This inevitably introduces the potential for competition in listing on directories in each geographical region (or supercity) where the network operates. These lists will utilize a discovery algorithm which will take into account a number of tokens staked by the third-party service. Staked tokens are locked in for a fixed period of time in exchange for a higher score in the discovery algorithm (which will take into account other metrics as well such as followers etc). This could apply to both External Organisations and Third-party services. The staking and directory listing would need to be subject to separate terms and conditions, are considered in depth from a technical, legal and practical standpoint.
+Under the assumption that the network accommodates lists, we propose appropriate (ordered) directories of third-party services<sup>appe-4</sup> (which are categorized both conceptually and geographically) could be created for Users to consume. This inevitably introduces the potential for competition in listing on directories in each geographical region (or supercity) where the network operates. These lists will utilize a discovery algorithm which will take into account a number of tokens staked by the third-party service. Staked tokens are locked in for a fixed period of time in exchange for a higher score in the discovery algorithm (which will take into account other metrics as well such as followers etc). This could apply to both External Organizations and Third-party services. The staking and directory listing would need to be subject to separate terms and conditions, are considered in depth from a technical, legal and practical standpoint.
 
 For a particular geographical region or directory type, an organization stakes LGBT Token to contribute to weighting in the algorithm. The actual weighting is determined both by the number of tokens held and the time for which they are held. For any amount of tokens ![S](http://latex.codecogs.com/gif.latex?%5Cinline%20S) staked, the staking-weight of these tokens after being held for a time ![t](http://latex.codecogs.com/gif.latex?%5Cinline%20t) is
 
@@ -700,12 +700,12 @@ Staking allows the additional possibility of penalties for third-party services 
 The benefits of this are:
 
  * Tokens get locked up in the network. This reduces velocity in the network which assists the token with maintaining value, so that it can be used as a unit of account & medium of exchange
- * External Organisations which otherwise would be unwilling to pay for ads are more likely to buy tokens and add to the network usage, knowing they ultimately get returns over the lifetime of the User. This also facilitates more User engagement through reviews.
+ * External Organizations which otherwise would be unwilling to pay for ads are more likely to buy tokens and add to the network usage, knowing they ultimately get returns over the lifetime of the User. This also facilitates more User engagement through reviews.
  * Content Creators are also incentivized to purchase tokens and not convert rewards immediately, as holding tokens have a compounded effect of more discovery and therefore future earnings.
 
 This model can be adjusted for context with appropriate staking functions and rewards. For example, [Numerai](https://numer.ai/) allows claims (stakes) based on the confidence of a data scientist’s results and distributes rewards based on that.
 
-#### Potential model - Monetization for Content Creators
+#### Monetization for Content Creators
 
 Monetization in the form of rewards through the reward engine for Content Creators incentivizes higher quality content. For every User action (or certain amount of User actions) associated with content posted by a Content Creator, the reward engine can distribute LGBT Tokens to the Content Creator. The rewards could vary for different types of actions and for the rate per ![X](http://latex.codecogs.com/gif.latex?%5Cinline%20X) of each action type occurs. This would likely be linked to the discovery mechanism as content which is higher on discovery lists would inherently be more likely to be consumed by Users.
 
